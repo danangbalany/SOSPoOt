@@ -1,0 +1,313 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "SubMenuText_en"
+ 0 LocalizeTextData list
+  0 Array Array (60 items)
+   0 int size = 60
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1
+     0 unsigned int SubId = 0
+     1 string Text = "How many would you like to buy?"
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2
+     0 unsigned int SubId = 0
+     1 string Text = "Automatically select materials?"
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3
+     0 unsigned int SubId = 0
+     1 string Text = "Make this perfume?"
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 4
+     0 unsigned int SubId = 0
+     1 string Text = "Make this bouquet?"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5
+     0 unsigned int SubId = 0
+     1 string Text = "Purchase this animal?"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 9
+     0 unsigned int SubId = 0
+     1 string Text = "Apply breeding kit?"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11
+     0 unsigned int SubId = 0
+     1 string Text = "Develop this facility?"
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12
+     0 unsigned int SubId = 0
+     1 string Text = "Expand your house?"
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 13
+     0 unsigned int SubId = 0
+     1 string Text = "Order this meal?"
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14
+     0 unsigned int SubId = 0
+     1 string Text = "Upgrade this tool?"
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 15
+     0 unsigned int SubId = 0
+     1 string Text = "Expand your bag?"
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16
+     0 unsigned int SubId = 0
+     1 string Text = "Change motorcycle color?"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 17
+     0 unsigned int SubId = 0
+     1 string Text = "Commission this item?"
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 19
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to back out?"
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 21
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to back out?"
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 22
+     0 unsigned int SubId = 0
+     1 string Text = "Go with this appearance?"
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 24
+     0 unsigned int SubId = 0
+     1 string Text = "Is this motorcycle color okay?"
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 26
+     0 unsigned int SubId = 0
+     1 string Text = "Enter a name."
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 30
+     0 unsigned int SubId = 0
+     1 string Text = "Tame this animal?"
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 31
+     0 unsigned int SubId = 0
+     1 string Text = "Donate this item?"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 32
+     0 unsigned int SubId = 0
+     1 string Text = "Place here?"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 33
+     0 unsigned int SubId = 0
+     1 string Text = "Donate a photo of the\n<color=0>{#}</color>?"
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 34
+     0 unsigned int SubId = 0
+     1 string Text = "Receive this blessing?"
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 40
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to overwrite\nthe save data?"
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 41
+     0 unsigned int SubId = 0
+     1 string Text = "The game must restart to reflect your new\nlanguage selection. Return to the title screen?"
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 42
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to return to the\nprevious screen without changing your\nsettings?"
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 43
+     0 unsigned int SubId = 0
+     1 string Text = "Settings for\n<color=0>{#}</color> will be\ninitialized."
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 46
+     0 unsigned int SubId = 0
+     1 string Text = "Place the animal in this facility?"
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 47
+     0 unsigned int SubId = 0
+     1 string Text = "Process the material(s)?"
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 48
+     0 unsigned int SubId = 0
+     1 string Text = "Accept the reward?"
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 49
+     0 unsigned int SubId = 0
+     1 string Text = "Load this save data?"
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 50
+     0 unsigned int SubId = 0
+     1 string Text = "Delete this save data? <color=0>Once deleted,\nyour data cannot be restored.</color>"
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 51
+     0 unsigned int SubId = 0
+     1 string Text = "Insert this flower?"
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 53
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to release this animal?"
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 54
+     0 unsigned int SubId = 0
+     1 string Text = "Place the selected item on the ground\nand swap?"
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 55
+     0 unsigned int SubId = 0
+     1 string Text = "Place the currently held item on the ground?"
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 56
+     0 unsigned int SubId = 0
+     1 string Text = "Place the tool in the tool bag and swap?"
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 57
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to deliver this?"
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 58
+     0 unsigned int SubId = 0
+     1 string Text = "This town request can be completed with\nother items. Are you sure you want to deliver\nthis item set?"
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 59
+     0 unsigned int SubId = 0
+     1 string Text = "Select a difficulty."
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 60
+     0 unsigned int SubId = 0
+     1 string Text = "The animals will now be moved."
+   [41]
+    0 LocalizeTextData data
+     0 unsigned int Id = 61
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to delete this photo?"
+   [42]
+    0 LocalizeTextData data
+     0 unsigned int Id = 62
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to delete the selected\nphoto(s)?"
+   [43]
+    0 LocalizeTextData data
+     0 unsigned int Id = 63
+     0 unsigned int SubId = 0
+     1 string Text = "You do not have any photos."
+   [44]
+    0 LocalizeTextData data
+     0 unsigned int Id = 64
+     0 unsigned int SubId = 0
+     1 string Text = "Enter with this pet?"
+   [45]
+    0 LocalizeTextData data
+     0 unsigned int Id = 65
+     0 unsigned int SubId = 0
+     1 string Text = "Enter with this rental pet?"
+   [46]
+    0 LocalizeTextData data
+     0 unsigned int Id = 66
+     0 unsigned int SubId = 0
+     1 string Text = "Please assign Follower Sprites."
+   [47]
+    0 LocalizeTextData data
+     0 unsigned int Id = 67
+     0 unsigned int SubId = 0
+     1 string Text = "Craft how many?"
+   [48]
+    0 LocalizeTextData data
+     0 unsigned int Id = 68
+     0 unsigned int SubId = 0
+     1 string Text = "Hand over this dish?"
+   [49]
+    0 LocalizeTextData data
+     0 unsigned int Id = 69
+     0 unsigned int SubId = 0
+     1 string Text = "Lovett has acknowledged your culinary efforts,\nand has posted up new, more difficult\nrequests!"
+   [50]
+    0 LocalizeTextData data
+     0 unsigned int Id = 70
+     0 unsigned int SubId = 0
+     1 string Text = "Appraise this item?"
+   [51]
+    0 LocalizeTextData data
+     0 unsigned int Id = 71
+     0 unsigned int SubId = 0
+     1 string Text = "Buy this item?"
+   [52]
+    0 LocalizeTextData data
+     0 unsigned int Id = 72
+     0 unsigned int SubId = 0
+     1 string Text = "Upload the registered information to the\ninternet?"
+   [53]
+    0 LocalizeTextData data
+     0 unsigned int Id = 73
+     0 unsigned int SubId = 0
+     1 string Text = "Make your farmer's name public? You may\nalso keep it private if you'd like."
+   [54]
+    0 LocalizeTextData data
+     0 unsigned int Id = 74
+     0 unsigned int SubId = 0
+     1 string Text = "Failed to connect. Would you like to try to\nupload again?"
+   [55]
+    0 LocalizeTextData data
+     0 unsigned int Id = 75
+     0 unsigned int SubId = 0
+     1 string Text = "Upload the selected photo to the internet?"
+   [56]
+    0 LocalizeTextData data
+     0 unsigned int Id = 76
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to load this save data?\nThe data in the file you're currently playing will\ndisappear. Don't forget to save!"
+   [57]
+    0 LocalizeTextData data
+     0 unsigned int Id = 77
+     0 unsigned int SubId = 0
+     1 string Text = "Make this dish?"
+   [58]
+    0 LocalizeTextData data
+     0 unsigned int Id = 78
+     0 unsigned int SubId = 0
+     1 string Text = "<color=0>{#}</color> settings\nwill be changed. Is that okay?"
+   [59]
+    0 LocalizeTextData data
+     0 unsigned int Id = 79
+     0 unsigned int SubId = 0
+     1 string Text = "Make how many?"
+ 1 string IdEnumName = "BokuMono.SubMenuTextId"

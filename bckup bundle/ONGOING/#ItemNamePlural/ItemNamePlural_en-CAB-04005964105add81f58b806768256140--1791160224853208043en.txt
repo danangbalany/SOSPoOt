@@ -1,0 +1,4448 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "ItemNamePlural_en"
+ 0 LocalizeTextData list
+  0 Array Array (887 items)
+   0 int size = 887
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 100
+     0 unsigned int SubId = 0
+     1 string Text = "Axes"
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Axes"
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Axes"
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Axes"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104
+     0 unsigned int SubId = 0
+     1 string Text = "Orichalcum Axes"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 200
+     0 unsigned int SubId = 0
+     1 string Text = "Sickles"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 201
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Sickles"
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 202
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Sickles"
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 203
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Sickles"
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 204
+     0 unsigned int SubId = 0
+     1 string Text = "Orichalcum Sickles"
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 300
+     0 unsigned int SubId = 0
+     1 string Text = "Hammers"
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 301
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Hammers"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 302
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Hammers"
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 303
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Hammers"
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 304
+     0 unsigned int SubId = 0
+     1 string Text = "Orichalcum Hammers"
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 400
+     0 unsigned int SubId = 0
+     1 string Text = "Buckets"
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 401
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Buckets"
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 402
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Buckets"
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 403
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Buckets"
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 404
+     0 unsigned int SubId = 0
+     1 string Text = "Orichalcum Buckets"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 500
+     0 unsigned int SubId = 0
+     1 string Text = "Hoes"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 501
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Hoes"
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 502
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Hoes"
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 503
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Hoes"
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 504
+     0 unsigned int SubId = 0
+     1 string Text = "Orichalcum Hoes"
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 600
+     0 unsigned int SubId = 0
+     1 string Text = "Watering Cans"
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 601
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Watering Cans"
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 602
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Watering Cans"
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 603
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Watering Cans"
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 604
+     0 unsigned int SubId = 0
+     1 string Text = "Orichalcum Watering Cans"
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 700
+     0 unsigned int SubId = 0
+     1 string Text = "Fishing Rods"
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 701
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Fishing Rods"
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 702
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Fishing Rods"
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 703
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Fishing Rods"
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 704
+     0 unsigned int SubId = 0
+     1 string Text = "Orichalcum Fishing Rods"
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 800
+     0 unsigned int SubId = 0
+     1 string Text = "Cameras"
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 900
+     0 unsigned int SubId = 0
+     1 string Text = "Leashes"
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101000
+     0 unsigned int SubId = 0
+     1 string Text = "Turnip Seeds"
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101001
+     0 unsigned int SubId = 0
+     1 string Text = "Potato Seeds"
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101002
+     0 unsigned int SubId = 0
+     1 string Text = "Cabbage Seeds"
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101003
+     0 unsigned int SubId = 0
+     1 string Text = "Cucumber Seeds"
+   [41]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101004
+     0 unsigned int SubId = 0
+     1 string Text = "Onion Seeds"
+   [42]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101005
+     0 unsigned int SubId = 0
+     1 string Text = "Strawberry Seeds"
+   [43]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101006
+     0 unsigned int SubId = 0
+     1 string Text = "Garlic Seeds"
+   [44]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101007
+     0 unsigned int SubId = 0
+     1 string Text = "Pumpkin Seeds"
+   [45]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101008
+     0 unsigned int SubId = 0
+     1 string Text = "Tomato Seeds"
+   [46]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101009
+     0 unsigned int SubId = 0
+     1 string Text = "Red Pepper Seeds"
+   [47]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101010
+     0 unsigned int SubId = 0
+     1 string Text = "Corn Seeds"
+   [48]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101011
+     0 unsigned int SubId = 0
+     1 string Text = "Zucchini Seeds"
+   [49]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101012
+     0 unsigned int SubId = 0
+     1 string Text = "Watermelon Seeds"
+   [50]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101013
+     0 unsigned int SubId = 0
+     1 string Text = "Melon Seeds"
+   [51]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101014
+     0 unsigned int SubId = 0
+     1 string Text = "Pineapple Seeds"
+   [52]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101015
+     0 unsigned int SubId = 0
+     1 string Text = "Spinach Seeds"
+   [53]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101016
+     0 unsigned int SubId = 0
+     1 string Text = "Carrot Seeds"
+   [54]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101017
+     0 unsigned int SubId = 0
+     1 string Text = "Eggplant Seeds"
+   [55]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101018
+     0 unsigned int SubId = 0
+     1 string Text = "Sweet Potato Seeds"
+   [56]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101019
+     0 unsigned int SubId = 0
+     1 string Text = "Green Pepper Seeds"
+   [57]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101020
+     0 unsigned int SubId = 0
+     1 string Text = "Okra Seeds"
+   [58]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101021
+     0 unsigned int SubId = 0
+     1 string Text = "Bok Choy Seeds"
+   [59]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101022
+     0 unsigned int SubId = 0
+     1 string Text = "Chili Pepper Seeds"
+   [60]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101023
+     0 unsigned int SubId = 0
+     1 string Text = "Broccoli Seeds"
+   [61]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101024
+     0 unsigned int SubId = 0
+     1 string Text = "Daikon Radish Seeds"
+   [62]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101025
+     0 unsigned int SubId = 0
+     1 string Text = "Napa Cabbage Seeds"
+   [63]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101026
+     0 unsigned int SubId = 0
+     1 string Text = "Leek Seeds"
+   [64]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101027
+     0 unsigned int SubId = 0
+     1 string Text = "Burdock Seeds"
+   [65]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101028
+     0 unsigned int SubId = 0
+     1 string Text = "Radish Seeds"
+   [66]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101029
+     0 unsigned int SubId = 0
+     1 string Text = "Rice Seedlings"
+   [67]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101030
+     0 unsigned int SubId = 0
+     1 string Text = "Wheat Seedlings"
+   [68]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101031
+     0 unsigned int SubId = 0
+     1 string Text = "Bean Seeds"
+   [69]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101032
+     0 unsigned int SubId = 0
+     1 string Text = "Tea Leaf Seeds"
+   [70]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101033
+     0 unsigned int SubId = 0
+     1 string Text = "Fodder Seeds"
+   [71]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101034
+     0 unsigned int SubId = 0
+     1 string Text = "Tulip Seeds"
+   [72]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101035
+     0 unsigned int SubId = 0
+     1 string Text = "Nemophila Seeds"
+   [73]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101036
+     0 unsigned int SubId = 0
+     1 string Text = "Pansy Seeds"
+   [74]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101037
+     0 unsigned int SubId = 0
+     1 string Text = "Buttercup Seeds"
+   [75]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101038
+     0 unsigned int SubId = 0
+     1 string Text = "Black Pansy Seeds"
+   [76]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101039
+     0 unsigned int SubId = 0
+     1 string Text = "Hibiscus Seeds"
+   [77]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101040
+     0 unsigned int SubId = 0
+     1 string Text = "Petunia Seeds"
+   [78]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101041
+     0 unsigned int SubId = 0
+     1 string Text = "Marigold Seeds"
+   [79]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101042
+     0 unsigned int SubId = 0
+     1 string Text = "Sunflower Seeds"
+   [80]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101043
+     0 unsigned int SubId = 0
+     1 string Text = "Lily Seeds"
+   [81]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101044
+     0 unsigned int SubId = 0
+     1 string Text = "Rose Seeds"
+   [82]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101045
+     0 unsigned int SubId = 0
+     1 string Text = "Mum Seeds"
+   [83]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101046
+     0 unsigned int SubId = 0
+     1 string Text = "Clematis Seeds"
+   [84]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101047
+     0 unsigned int SubId = 0
+     1 string Text = "Black Rose Seeds"
+   [85]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101048
+     0 unsigned int SubId = 0
+     1 string Text = "Daisy Seeds"
+   [86]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101049
+     0 unsigned int SubId = 0
+     1 string Text = "Cineraria Seeds"
+   [87]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101050
+     0 unsigned int SubId = 0
+     1 string Text = "Primrose Seeds"
+   [88]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101051
+     0 unsigned int SubId = 0
+     1 string Text = "Begonia Seeds"
+   [89]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101052
+     0 unsigned int SubId = 0
+     1 string Text = "Hellebore Seeds"
+   [90]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101053
+     0 unsigned int SubId = 0
+     1 string Text = "Campanula Seeds"
+   [91]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102000
+     0 unsigned int SubId = 0
+     1 string Text = "Coffee Seedlings"
+   [92]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102001
+     0 unsigned int SubId = 0
+     1 string Text = "Avocado Seedlings"
+   [93]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102002
+     0 unsigned int SubId = 0
+     1 string Text = "Cherry Seedlings"
+   [94]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102003
+     0 unsigned int SubId = 0
+     1 string Text = "Orange Seedlings"
+   [95]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102004
+     0 unsigned int SubId = 0
+     1 string Text = "Almond Seedlings"
+   [96]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102005
+     0 unsigned int SubId = 0
+     1 string Text = "Lemon Seedlings"
+   [97]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102006
+     0 unsigned int SubId = 0
+     1 string Text = "Mango Seedlings"
+   [98]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102007
+     0 unsigned int SubId = 0
+     1 string Text = "Coconut Seedlings"
+   [99]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102008
+     0 unsigned int SubId = 0
+     1 string Text = "Banana Seedlings"
+   [100]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102009
+     0 unsigned int SubId = 0
+     1 string Text = "Cacao Seedlings"
+   [101]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102010
+     0 unsigned int SubId = 0
+     1 string Text = "Peach Seedlings"
+   [102]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102011
+     0 unsigned int SubId = 0
+     1 string Text = "Apple Seedlings"
+   [103]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102012
+     0 unsigned int SubId = 0
+     1 string Text = "Grape Seedlings"
+   [104]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102013
+     0 unsigned int SubId = 0
+     1 string Text = "Olive Seedlings"
+   [105]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103000
+     0 unsigned int SubId = 0
+     1 string Text = "Turnips"
+   [106]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103001
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Turnips"
+   [107]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103002
+     0 unsigned int SubId = 0
+     1 string Text = "Potatoes"
+   [108]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103003
+     0 unsigned int SubId = 0
+     1 string Text = "Star Potatoes"
+   [109]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103004
+     0 unsigned int SubId = 0
+     1 string Text = "Cabbages"
+   [110]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103005
+     0 unsigned int SubId = 0
+     1 string Text = "Cucumbers"
+   [111]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103006
+     0 unsigned int SubId = 0
+     1 string Text = "Onions"
+   [112]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103007
+     0 unsigned int SubId = 0
+     1 string Text = "Strawberries"
+   [113]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103008
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Strawberries"
+   [114]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103009
+     0 unsigned int SubId = 0
+     1 string Text = "Garlic Bulbs"
+   [115]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103010
+     0 unsigned int SubId = 0
+     1 string Text = "Pumpkins"
+   [116]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103011
+     0 unsigned int SubId = 0
+     1 string Text = "Tomatoes"
+   [117]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103012
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Tomatoes"
+   [118]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103013
+     0 unsigned int SubId = 0
+     1 string Text = "Peppers"
+   [119]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103014
+     0 unsigned int SubId = 0
+     1 string Text = "Corn"
+   [120]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103015
+     0 unsigned int SubId = 0
+     1 string Text = "Mosaic Corn"
+   [121]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103016
+     0 unsigned int SubId = 0
+     1 string Text = "Zucchinis"
+   [122]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103017
+     0 unsigned int SubId = 0
+     1 string Text = "Watermelons"
+   [123]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103018
+     0 unsigned int SubId = 0
+     1 string Text = "Melons"
+   [124]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103019
+     0 unsigned int SubId = 0
+     1 string Text = "Jewel Melons"
+   [125]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103020
+     0 unsigned int SubId = 0
+     1 string Text = "Pineapples"
+   [126]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103021
+     0 unsigned int SubId = 0
+     1 string Text = "Spinach"
+   [127]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103022
+     0 unsigned int SubId = 0
+     1 string Text = "Heart Spinach"
+   [128]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103023
+     0 unsigned int SubId = 0
+     1 string Text = "Carrots"
+   [129]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103024
+     0 unsigned int SubId = 0
+     1 string Text = "Eggplants"
+   [130]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103025
+     0 unsigned int SubId = 0
+     1 string Text = "Round Eggplants"
+   [131]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103026
+     0 unsigned int SubId = 0
+     1 string Text = "Sweet Potatoes"
+   [132]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103027
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Sweet Potatoes"
+   [133]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103028
+     0 unsigned int SubId = 0
+     1 string Text = "Green Peppers"
+   [134]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103029
+     0 unsigned int SubId = 0
+     1 string Text = "Okra"
+   [135]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103030
+     0 unsigned int SubId = 0
+     1 string Text = "Bok Choy"
+   [136]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103031
+     0 unsigned int SubId = 0
+     1 string Text = "Chili Peppers"
+   [137]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103032
+     0 unsigned int SubId = 0
+     1 string Text = "Broccoli"
+   [138]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103033
+     0 unsigned int SubId = 0
+     1 string Text = "Daikon Radishes"
+   [139]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103034
+     0 unsigned int SubId = 0
+     1 string Text = "Fork-root Daikons"
+   [140]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103035
+     0 unsigned int SubId = 0
+     1 string Text = "Napa Cabbages"
+   [141]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103036
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Napa Cabbages"
+   [142]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103037
+     0 unsigned int SubId = 0
+     1 string Text = "Leeks"
+   [143]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103038
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Leeks"
+   [144]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103039
+     0 unsigned int SubId = 0
+     1 string Text = "Burdock"
+   [145]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103040
+     0 unsigned int SubId = 0
+     1 string Text = "Radishes"
+   [146]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104000
+     0 unsigned int SubId = 0
+     1 string Text = "Rice"
+   [147]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104001
+     0 unsigned int SubId = 0
+     1 string Text = "Wheat"
+   [148]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104002
+     0 unsigned int SubId = 0
+     1 string Text = "Beans"
+   [149]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104003
+     0 unsigned int SubId = 0
+     1 string Text = "Tea Leaves"
+   [150]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104004
+     0 unsigned int SubId = 0
+     1 string Text = "Fodder"
+   [151]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104005
+     0 unsigned int SubId = 0
+     1 string Text = "Deluxe Fodder"
+   [152]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105000
+     0 unsigned int SubId = 0
+     1 string Text = "Tulips"
+   [153]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105001
+     0 unsigned int SubId = 0
+     1 string Text = "Nemophilas"
+   [154]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105002
+     0 unsigned int SubId = 0
+     1 string Text = "Pansies"
+   [155]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105003
+     0 unsigned int SubId = 0
+     1 string Text = "Buttercups"
+   [156]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105004
+     0 unsigned int SubId = 0
+     1 string Text = "Black Pansies"
+   [157]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105005
+     0 unsigned int SubId = 0
+     1 string Text = "Hibiscuses"
+   [158]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105006
+     0 unsigned int SubId = 0
+     1 string Text = "Petunias"
+   [159]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105007
+     0 unsigned int SubId = 0
+     1 string Text = "Marigolds"
+   [160]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105008
+     0 unsigned int SubId = 0
+     1 string Text = "Sunflowers"
+   [161]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105009
+     0 unsigned int SubId = 0
+     1 string Text = "Lilies"
+   [162]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105010
+     0 unsigned int SubId = 0
+     1 string Text = "Roses"
+   [163]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105011
+     0 unsigned int SubId = 0
+     1 string Text = "Mums"
+   [164]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105012
+     0 unsigned int SubId = 0
+     1 string Text = "Clematises"
+   [165]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105013
+     0 unsigned int SubId = 0
+     1 string Text = "Daisies"
+   [166]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105014
+     0 unsigned int SubId = 0
+     1 string Text = "Black Roses"
+   [167]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105015
+     0 unsigned int SubId = 0
+     1 string Text = "Cinerarias"
+   [168]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105016
+     0 unsigned int SubId = 0
+     1 string Text = "Primroses"
+   [169]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105017
+     0 unsigned int SubId = 0
+     1 string Text = "Begonias"
+   [170]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105018
+     0 unsigned int SubId = 0
+     1 string Text = "Campanulas"
+   [171]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105019
+     0 unsigned int SubId = 0
+     1 string Text = "Hellebores"
+   [172]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106000
+     0 unsigned int SubId = 0
+     1 string Text = "Coffee Beans"
+   [173]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106001
+     0 unsigned int SubId = 0
+     1 string Text = "Avocados"
+   [174]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106002
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Avocados"
+   [175]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106003
+     0 unsigned int SubId = 0
+     1 string Text = "Cherries"
+   [176]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106004
+     0 unsigned int SubId = 0
+     1 string Text = "Oranges"
+   [177]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106005
+     0 unsigned int SubId = 0
+     1 string Text = "Almonds"
+   [178]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106006
+     0 unsigned int SubId = 0
+     1 string Text = "Lemons"
+   [179]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106007
+     0 unsigned int SubId = 0
+     1 string Text = "Mangoes"
+   [180]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106008
+     0 unsigned int SubId = 0
+     1 string Text = "Coconuts"
+   [181]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106009
+     0 unsigned int SubId = 0
+     1 string Text = "Bananas"
+   [182]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106010
+     0 unsigned int SubId = 0
+     1 string Text = "Cacao"
+   [183]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106011
+     0 unsigned int SubId = 0
+     1 string Text = "Peaches"
+   [184]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106012
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Peaches"
+   [185]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106013
+     0 unsigned int SubId = 0
+     1 string Text = "Apples"
+   [186]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106014
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Apples"
+   [187]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106015
+     0 unsigned int SubId = 0
+     1 string Text = "Grapes"
+   [188]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106016
+     0 unsigned int SubId = 0
+     1 string Text = "Olives"
+   [189]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107000
+     0 unsigned int SubId = 0
+     1 string Text = "Shiitake Mushrooms"
+   [190]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107001
+     0 unsigned int SubId = 0
+     1 string Text = "Matsutake Mushrooms"
+   [191]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107002
+     0 unsigned int SubId = 0
+     1 string Text = "Shimeji Mushrooms"
+   [192]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107003
+     0 unsigned int SubId = 0
+     1 string Text = "Trumpet Mushrooms"
+   [193]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107004
+     0 unsigned int SubId = 0
+     1 string Text = "Coral Mushrooms"
+   [194]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107005
+     0 unsigned int SubId = 0
+     1 string Text = "Common Mushrooms"
+   [195]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107006
+     0 unsigned int SubId = 0
+     1 string Text = "Shiitake Spores"
+   [196]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107007
+     0 unsigned int SubId = 0
+     1 string Text = "Matsutake Spores"
+   [197]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107008
+     0 unsigned int SubId = 0
+     1 string Text = "Shimeji Spores"
+   [198]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107009
+     0 unsigned int SubId = 0
+     1 string Text = "Trumpet Spores"
+   [199]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107010
+     0 unsigned int SubId = 0
+     1 string Text = "Coral Spores"
+   [200]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107011
+     0 unsigned int SubId = 0
+     1 string Text = "Common Spores"
+   [201]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108000
+     0 unsigned int SubId = 0
+     1 string Text = "Honey Hives"
+   [202]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108001
+     0 unsigned int SubId = 0
+     1 string Text = "Honeycomb Hives"
+   [203]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108002
+     0 unsigned int SubId = 0
+     1 string Text = "Worker Hives"
+   [204]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108003
+     0 unsigned int SubId = 0
+     1 string Text = "Royal Hives"
+   [205]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108004
+     0 unsigned int SubId = 0
+     1 string Text = "Honey"
+   [206]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108005
+     0 unsigned int SubId = 0
+     1 string Text = "Comb Honey"
+   [207]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108006
+     0 unsigned int SubId = 0
+     1 string Text = "Worker Jelly"
+   [208]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108007
+     0 unsigned int SubId = 0
+     1 string Text = "Royal Jelly"
+   [209]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109000
+     0 unsigned int SubId = 0
+     1 string Text = "Milk"
+   [210]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109001
+     0 unsigned int SubId = 0
+     1 string Text = "Buffalo Milk"
+   [211]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109002
+     0 unsigned int SubId = 0
+     1 string Text = "Goat Milk"
+   [212]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109003
+     0 unsigned int SubId = 0
+     1 string Text = "Milk +"
+   [213]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109004
+     0 unsigned int SubId = 0
+     1 string Text = "Buffalo Milk +"
+   [214]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109005
+     0 unsigned int SubId = 0
+     1 string Text = "Goat Milk +"
+   [215]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110000
+     0 unsigned int SubId = 0
+     1 string Text = "Eggs"
+   [216]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110001
+     0 unsigned int SubId = 0
+     1 string Text = "Silkie Eggs"
+   [217]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110002
+     0 unsigned int SubId = 0
+     1 string Text = "Eggs +"
+   [218]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110003
+     0 unsigned int SubId = 0
+     1 string Text = "Silkie Eggs +"
+   [219]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110004
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Eggs"
+   [220]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111000
+     0 unsigned int SubId = 0
+     1 string Text = "Wool"
+   [221]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111001
+     0 unsigned int SubId = 0
+     1 string Text = "Suffolk Wool"
+   [222]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111002
+     0 unsigned int SubId = 0
+     1 string Text = "Alpaca Wool"
+   [223]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111003
+     0 unsigned int SubId = 0
+     1 string Text = "Brown Alpaca Wool"
+   [224]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111004
+     0 unsigned int SubId = 0
+     1 string Text = "Rabbit Fur"
+   [225]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111005
+     0 unsigned int SubId = 0
+     1 string Text = "Gray Rabbit Fur"
+   [226]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111006
+     0 unsigned int SubId = 0
+     1 string Text = "Pink Rabbit Fur"
+   [227]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111007
+     0 unsigned int SubId = 0
+     1 string Text = "Wool +"
+   [228]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111008
+     0 unsigned int SubId = 0
+     1 string Text = "Suffolk Wool +"
+   [229]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111009
+     0 unsigned int SubId = 0
+     1 string Text = "Alpaca Wool +"
+   [230]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111010
+     0 unsigned int SubId = 0
+     1 string Text = "Brown Alpaca Wool +"
+   [231]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111011
+     0 unsigned int SubId = 0
+     1 string Text = "Rabbit Fur +"
+   [232]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111012
+     0 unsigned int SubId = 0
+     1 string Text = "Gray Rabbit Fur +"
+   [233]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111013
+     0 unsigned int SubId = 0
+     1 string Text = "Pink Rabbit Fur +"
+   [234]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112000
+     0 unsigned int SubId = 0
+     1 string Text = "Sardines"
+   [235]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112001
+     0 unsigned int SubId = 0
+     1 string Text = "Shishamo Smelt"
+   [236]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112002
+     0 unsigned int SubId = 0
+     1 string Text = "Horse Mackerel"
+   [237]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112003
+     0 unsigned int SubId = 0
+     1 string Text = "Daces"
+   [238]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112004
+     0 unsigned int SubId = 0
+     1 string Text = "Herring"
+   [239]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112005
+     0 unsigned int SubId = 0
+     1 string Text = "Cod"
+   [240]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112006
+     0 unsigned int SubId = 0
+     1 string Text = "Eel"
+   [241]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112007
+     0 unsigned int SubId = 0
+     1 string Text = "Sea Bass"
+   [242]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112008
+     0 unsigned int SubId = 0
+     1 string Text = "Yellow Perches"
+   [243]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112009
+     0 unsigned int SubId = 0
+     1 string Text = "Tilapia"
+   [244]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112010
+     0 unsigned int SubId = 0
+     1 string Text = "Catfish"
+   [245]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112011
+     0 unsigned int SubId = 0
+     1 string Text = "Snakeheads"
+   [246]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112012
+     0 unsigned int SubId = 0
+     1 string Text = "Star Snapper"
+   [247]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112013
+     0 unsigned int SubId = 0
+     1 string Text = "Milkfish"
+   [248]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112014
+     0 unsigned int SubId = 0
+     1 string Text = "Sea Breams"
+   [249]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112015
+     0 unsigned int SubId = 0
+     1 string Text = "Flounder"
+   [250]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112016
+     0 unsigned int SubId = 0
+     1 string Text = "Mahi-mahi"
+   [251]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112017
+     0 unsigned int SubId = 0
+     1 string Text = "Salmon"
+   [252]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112018
+     0 unsigned int SubId = 0
+     1 string Text = "Oarfish"
+   [253]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112019
+     0 unsigned int SubId = 0
+     1 string Text = "Tuna"
+   [254]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112020
+     0 unsigned int SubId = 0
+     1 string Text = "Alligator Gar"
+   [255]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112021
+     0 unsigned int SubId = 0
+     1 string Text = "Monkfish"
+   [256]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112022
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Catfish"
+   [257]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112023
+     0 unsigned int SubId = 0
+     1 string Text = "Spotted Eagle Rays"
+   [258]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112024
+     0 unsigned int SubId = 0
+     1 string Text = "Halibut"
+   [259]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112025
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Groupers"
+   [260]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112026
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Squid"
+   [261]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112027
+     0 unsigned int SubId = 0
+     1 string Text = "Marlin"
+   [262]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112028
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Freshwater Prawns"
+   [263]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112029
+     0 unsigned int SubId = 0
+     1 string Text = "Whiskered Velvet Shrimp"
+   [264]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112030
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Tiger Shrimp"
+   [265]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112031
+     0 unsigned int SubId = 0
+     1 string Text = "Lobsters"
+   [266]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112032
+     0 unsigned int SubId = 0
+     1 string Text = "Rock Lobsters"
+   [267]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112033
+     0 unsigned int SubId = 0
+     1 string Text = "Oysters"
+   [268]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112034
+     0 unsigned int SubId = 0
+     1 string Text = "Mussels"
+   [269]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112035
+     0 unsigned int SubId = 0
+     1 string Text = "Blood Clams"
+   [270]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112036
+     0 unsigned int SubId = 0
+     1 string Text = "Abalone"
+   [271]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112037
+     0 unsigned int SubId = 0
+     1 string Text = "Snow Crabs"
+   [272]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112038
+     0 unsigned int SubId = 0
+     1 string Text = "Horsehair Crabs"
+   [273]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112039
+     0 unsigned int SubId = 0
+     1 string Text = "Gazami Crabs"
+   [274]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112040
+     0 unsigned int SubId = 0
+     1 string Text = "Blue Crabs"
+   [275]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112041
+     0 unsigned int SubId = 0
+     1 string Text = "Giant King Crabs"
+   [276]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112042
+     0 unsigned int SubId = 0
+     1 string Text = "Bigfin Reef Squid"
+   [277]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112043
+     0 unsigned int SubId = 0
+     1 string Text = "Cuttlefish"
+   [278]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112044
+     0 unsigned int SubId = 0
+     1 string Text = "Common Squid"
+   [279]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112045
+     0 unsigned int SubId = 0
+     1 string Text = "Spear Squid"
+   [280]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112046
+     0 unsigned int SubId = 0
+     1 string Text = "Aurora Fish"
+   [281]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112047
+     0 unsigned int SubId = 0
+     1 string Text = "Shining Fish"
+   [282]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112048
+     0 unsigned int SubId = 0
+     1 string Text = "Sparkling Fish"
+   [283]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112049
+     0 unsigned int SubId = 0
+     1 string Text = "Crayfish"
+   [284]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112050
+     0 unsigned int SubId = 0
+     1 string Text = "Sky Bannerfish"
+   [285]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112051
+     0 unsigned int SubId = 0
+     1 string Text = "Beanfish"
+   [286]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112052
+     0 unsigned int SubId = 0
+     1 string Text = "Storm Butterflyfish"
+   [287]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112053
+     0 unsigned int SubId = 0
+     1 string Text = "Pixie Bettas"
+   [288]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112054
+     0 unsigned int SubId = 0
+     1 string Text = "Lava Knights"
+   [289]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112055
+     0 unsigned int SubId = 0
+     1 string Text = "Lava Arowanas"
+   [290]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112056
+     0 unsigned int SubId = 0
+     1 string Text = "Armored Arapaimas"
+   [291]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112057
+     0 unsigned int SubId = 0
+     1 string Text = "Crimson King Crabs"
+   [292]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113000
+     0 unsigned int SubId = 0
+     1 string Text = "Fishing Bait Bases"
+   [293]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113001
+     0 unsigned int SubId = 0
+     1 string Text = "Small Fish Bait"
+   [294]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113002
+     0 unsigned int SubId = 0
+     1 string Text = "Medium Fish Bait"
+   [295]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113003
+     0 unsigned int SubId = 0
+     1 string Text = "Large Fish Bait"
+   [296]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113004
+     0 unsigned int SubId = 0
+     1 string Text = "Shrimp Bait"
+   [297]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113005
+     0 unsigned int SubId = 0
+     1 string Text = "Shellfish Bait"
+   [298]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113006
+     0 unsigned int SubId = 0
+     1 string Text = "Crab Bait"
+   [299]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113007
+     0 unsigned int SubId = 0
+     1 string Text = "Squid Bait"
+   [300]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113008
+     0 unsigned int SubId = 0
+     1 string Text = "Guardian Bait"
+   [301]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113009
+     0 unsigned int SubId = 0
+     1 string Text = "Mysterious Bait"
+   [302]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114000
+     0 unsigned int SubId = 0
+     1 string Text = "Lumber Makers"
+   [303]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114001
+     0 unsigned int SubId = 0
+     1 string Text = "Thread Makers"
+   [304]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114002
+     0 unsigned int SubId = 0
+     1 string Text = "Textile Makers"
+   [305]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114003
+     0 unsigned int SubId = 0
+     1 string Text = "Ingot Makers"
+   [306]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114004
+     0 unsigned int SubId = 0
+     1 string Text = "Jewel Makers"
+   [307]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114005
+     0 unsigned int SubId = 0
+     1 string Text = "Brick Makers"
+   [308]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114006
+     0 unsigned int SubId = 0
+     1 string Text = "Seed Makers"
+   [309]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114007
+     0 unsigned int SubId = 0
+     1 string Text = "Powder Makers"
+   [310]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114008
+     0 unsigned int SubId = 0
+     1 string Text = "Seedling Makers"
+   [311]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114009
+     0 unsigned int SubId = 0
+     1 string Text = "Jam Makers"
+   [312]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114010
+     0 unsigned int SubId = 0
+     1 string Text = "Spore Makers"
+   [313]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114011
+     0 unsigned int SubId = 0
+     1 string Text = "Honey Makers"
+   [314]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114012
+     0 unsigned int SubId = 0
+     1 string Text = "Yarn Makers"
+   [315]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114013
+     0 unsigned int SubId = 0
+     1 string Text = "Cloth Makers"
+   [316]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114014
+     0 unsigned int SubId = 0
+     1 string Text = "Cheese Makers"
+   [317]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114015
+     0 unsigned int SubId = 0
+     1 string Text = "Butter Makers"
+   [318]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114016
+     0 unsigned int SubId = 0
+     1 string Text = "Yogurt Makers"
+   [319]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114017
+     0 unsigned int SubId = 0
+     1 string Text = "Mayonnaise Makers"
+   [320]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114018
+     0 unsigned int SubId = 0
+     1 string Text = "Seasoning Makers"
+   [321]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114019
+     0 unsigned int SubId = 0
+     1 string Text = "Condiment Makers"
+   [322]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114020
+     0 unsigned int SubId = 0
+     1 string Text = "Essence Makers"
+   [323]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114021
+     0 unsigned int SubId = 0
+     1 string Text = "Dye Makers"
+   [324]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114022
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Lumber Makers"
+   [325]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114023
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Thread Makers"
+   [326]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114024
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Textile Makers"
+   [327]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114025
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Ingot Makers"
+   [328]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114026
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Jewel Makers"
+   [329]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114027
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Brick Makers"
+   [330]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114028
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Seed Makers"
+   [331]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114029
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Powder Makers"
+   [332]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114030
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Seedling Makers"
+   [333]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114031
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Jam Makers"
+   [334]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114032
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Spore Makers"
+   [335]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114033
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Honey Makers"
+   [336]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114034
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Yarn Makers"
+   [337]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114035
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Cloth Makers"
+   [338]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114036
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Cheese Makers"
+   [339]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114037
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Butter Makers"
+   [340]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114038
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Yogurt Makers"
+   [341]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114039
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Mayonnaise Makers"
+   [342]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114040
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Seasoning Makers"
+   [343]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114041
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Condiment Makers"
+   [344]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114042
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Essence Makers"
+   [345]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114043
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Dye Makers"
+   [346]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115000
+     0 unsigned int SubId = 0
+     1 string Text = "Logs"
+   [347]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115001
+     0 unsigned int SubId = 0
+     1 string Text = "Solid Logs"
+   [348]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115002
+     0 unsigned int SubId = 0
+     1 string Text = "Supple Logs"
+   [349]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115003
+     0 unsigned int SubId = 0
+     1 string Text = "Durable Logs"
+   [350]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115004
+     0 unsigned int SubId = 0
+     1 string Text = "Mirage Logs"
+   [351]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115005
+     0 unsigned int SubId = 0
+     1 string Text = "Sap"
+   [352]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116000
+     0 unsigned int SubId = 0
+     1 string Text = "Grass"
+   [353]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116001
+     0 unsigned int SubId = 0
+     1 string Text = "Flexible Grass"
+   [354]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116002
+     0 unsigned int SubId = 0
+     1 string Text = "Tough Grass"
+   [355]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116003
+     0 unsigned int SubId = 0
+     1 string Text = "Smooth Grass"
+   [356]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116004
+     0 unsigned int SubId = 0
+     1 string Text = "Mirage Grass"
+   [357]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117000
+     0 unsigned int SubId = 0
+     1 string Text = "Stones"
+   [358]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117001
+     0 unsigned int SubId = 0
+     1 string Text = "Glass Rocks"
+   [359]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117002
+     0 unsigned int SubId = 0
+     1 string Text = "Coal Lumps"
+   [360]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117003
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Ores"
+   [361]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117004
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Ores"
+   [362]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117005
+     0 unsigned int SubId = 0
+     1 string Text = "Gold Ores"
+   [363]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117006
+     0 unsigned int SubId = 0
+     1 string Text = "Orichalcum Ores"
+   [364]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117007
+     0 unsigned int SubId = 0
+     1 string Text = "Raw White Opals"
+   [365]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117008
+     0 unsigned int SubId = 0
+     1 string Text = "Raw Rubies"
+   [366]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117009
+     0 unsigned int SubId = 0
+     1 string Text = "Raw Sapphires"
+   [367]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117010
+     0 unsigned int SubId = 0
+     1 string Text = "Raw Emeralds"
+   [368]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117011
+     0 unsigned int SubId = 0
+     1 string Text = "Raw Diamonds"
+   [369]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117012
+     0 unsigned int SubId = 0
+     1 string Text = "Raw Red Beryls"
+   [370]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117013
+     0 unsigned int SubId = 0
+     1 string Text = "Magma Ores"
+   [371]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118000
+     0 unsigned int SubId = 0
+     1 string Text = "Lumber"
+   [372]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118001
+     0 unsigned int SubId = 0
+     1 string Text = "Solid Lumber"
+   [373]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118002
+     0 unsigned int SubId = 0
+     1 string Text = "Supple Lumber"
+   [374]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118003
+     0 unsigned int SubId = 0
+     1 string Text = "Durable Lumber"
+   [375]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118004
+     0 unsigned int SubId = 0
+     1 string Text = "Mirage Lumber"
+   [376]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118005
+     0 unsigned int SubId = 0
+     1 string Text = "Wood Charcoal"
+   [377]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119000
+     0 unsigned int SubId = 0
+     1 string Text = "Twine"
+   [378]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119001
+     0 unsigned int SubId = 0
+     1 string Text = "Threads"
+   [379]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119002
+     0 unsigned int SubId = 0
+     1 string Text = "Flexible Thread"
+   [380]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119003
+     0 unsigned int SubId = 0
+     1 string Text = "Tough Thread"
+   [381]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119004
+     0 unsigned int SubId = 0
+     1 string Text = "Smooth Thread"
+   [382]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119005
+     0 unsigned int SubId = 0
+     1 string Text = "Mirage Thread"
+   [383]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119006
+     0 unsigned int SubId = 0
+     1 string Text = "Woolen Yarn"
+   [384]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119007
+     0 unsigned int SubId = 0
+     1 string Text = "Suffolk Yarn"
+   [385]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119008
+     0 unsigned int SubId = 0
+     1 string Text = "Alpaca Yarn"
+   [386]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119009
+     0 unsigned int SubId = 0
+     1 string Text = "Brown Alpaca Yarn"
+   [387]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119010
+     0 unsigned int SubId = 0
+     1 string Text = "Rabbit Yarn"
+   [388]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119011
+     0 unsigned int SubId = 0
+     1 string Text = "Gray Rabbit Yarn"
+   [389]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119012
+     0 unsigned int SubId = 0
+     1 string Text = "Pink Rabbit Yarn"
+   [390]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120000
+     0 unsigned int SubId = 0
+     1 string Text = "Cloth"
+   [391]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120001
+     0 unsigned int SubId = 0
+     1 string Text = "Flexible Cloth"
+   [392]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120002
+     0 unsigned int SubId = 0
+     1 string Text = "Tough Cloth"
+   [393]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120003
+     0 unsigned int SubId = 0
+     1 string Text = "Smooth Cloth"
+   [394]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120004
+     0 unsigned int SubId = 0
+     1 string Text = "Mirage Cloth"
+   [395]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120005
+     0 unsigned int SubId = 0
+     1 string Text = "Woolen Cloth"
+   [396]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120006
+     0 unsigned int SubId = 0
+     1 string Text = "Suffolk Cloth"
+   [397]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120007
+     0 unsigned int SubId = 0
+     1 string Text = "Alpaca Cloth"
+   [398]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120008
+     0 unsigned int SubId = 0
+     1 string Text = "Brown Alpaca Cloth"
+   [399]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120009
+     0 unsigned int SubId = 0
+     1 string Text = "Rabbit Cloth"
+   [400]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120010
+     0 unsigned int SubId = 0
+     1 string Text = "Gray Rabbit Cloth"
+   [401]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120011
+     0 unsigned int SubId = 0
+     1 string Text = "Pink Rabbit Cloth"
+   [402]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121000
+     0 unsigned int SubId = 0
+     1 string Text = "Refined Coal"
+   [403]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121001
+     0 unsigned int SubId = 0
+     1 string Text = "Glass"
+   [404]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121002
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Ingots"
+   [405]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121003
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Ingots"
+   [406]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121004
+     0 unsigned int SubId = 0
+     1 string Text = "Gold Ingots"
+   [407]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121005
+     0 unsigned int SubId = 0
+     1 string Text = "Orichalcum Ingots"
+   [408]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122000
+     0 unsigned int SubId = 0
+     1 string Text = "White Opals"
+   [409]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122001
+     0 unsigned int SubId = 0
+     1 string Text = "Rubies"
+   [410]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122002
+     0 unsigned int SubId = 0
+     1 string Text = "Sapphires"
+   [411]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122003
+     0 unsigned int SubId = 0
+     1 string Text = "Emeralds"
+   [412]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122004
+     0 unsigned int SubId = 0
+     1 string Text = "Diamonds"
+   [413]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122005
+     0 unsigned int SubId = 0
+     1 string Text = "Red Beryls"
+   [414]
+    0 LocalizeTextData data
+     0 unsigned int Id = 123000
+     0 unsigned int SubId = 0
+     1 string Text = "Beauty Cream"
+   [415]
+    0 LocalizeTextData data
+     0 unsigned int Id = 123001
+     0 unsigned int SubId = 0
+     1 string Text = "Charming Essences"
+   [416]
+    0 LocalizeTextData data
+     0 unsigned int Id = 123002
+     0 unsigned int SubId = 0
+     1 string Text = "Floral Essences"
+   [417]
+    0 LocalizeTextData data
+     0 unsigned int Id = 123003
+     0 unsigned int SubId = 0
+     1 string Text = "Bouquet Essences"
+   [418]
+    0 LocalizeTextData data
+     0 unsigned int Id = 123004
+     0 unsigned int SubId = 0
+     1 string Text = "Fruit Essences"
+   [419]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124000
+     0 unsigned int SubId = 0
+     1 string Text = "Wild Berries"
+   [420]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124001
+     0 unsigned int SubId = 0
+     1 string Text = "Royal Ferns"
+   [421]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124002
+     0 unsigned int SubId = 0
+     1 string Text = "Butterburs"
+   [422]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124003
+     0 unsigned int SubId = 0
+     1 string Text = "Horsetails"
+   [423]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124004
+     0 unsigned int SubId = 0
+     1 string Text = "Chestnuts"
+   [424]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124005
+     0 unsigned int SubId = 0
+     1 string Text = "Bamboo Shoots"
+   [425]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124006
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Beans"
+   [426]
+    0 LocalizeTextData data
+     0 unsigned int Id = 125000
+     0 unsigned int SubId = 0
+     1 string Text = "Oregano"
+   [427]
+    0 LocalizeTextData data
+     0 unsigned int Id = 125001
+     0 unsigned int SubId = 0
+     1 string Text = "Sage"
+   [428]
+    0 LocalizeTextData data
+     0 unsigned int Id = 125002
+     0 unsigned int SubId = 0
+     1 string Text = "Lemon Marigolds"
+   [429]
+    0 LocalizeTextData data
+     0 unsigned int Id = 125003
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Rain Rosemary"
+   [430]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126000
+     0 unsigned int SubId = 0
+     1 string Text = "Rock Salt"
+   [431]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126001
+     0 unsigned int SubId = 0
+     1 string Text = "Peppercorn"
+   [432]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126002
+     0 unsigned int SubId = 0
+     1 string Text = "Sugarcane"
+   [433]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126003
+     0 unsigned int SubId = 0
+     1 string Text = "Salt"
+   [434]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126004
+     0 unsigned int SubId = 0
+     1 string Text = "Pepper"
+   [435]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126005
+     0 unsigned int SubId = 0
+     1 string Text = "Sugar"
+   [436]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126006
+     0 unsigned int SubId = 0
+     1 string Text = "Soy Sauce"
+   [437]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126007
+     0 unsigned int SubId = 0
+     1 string Text = "Vinegar"
+   [438]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126008
+     0 unsigned int SubId = 0
+     1 string Text = "Olive Oil"
+   [439]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126009
+     0 unsigned int SubId = 0
+     1 string Text = "Mixed Herbs"
+   [440]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126010
+     0 unsigned int SubId = 0
+     1 string Text = "Mixed Spices"
+   [441]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126011
+     0 unsigned int SubId = 0
+     1 string Text = "Coffee Powder"
+   [442]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126012
+     0 unsigned int SubId = 0
+     1 string Text = "Cocoa Powder"
+   [443]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126013
+     0 unsigned int SubId = 0
+     1 string Text = "Flour"
+   [444]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126014
+     0 unsigned int SubId = 0
+     1 string Text = "Butter"
+   [445]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126015
+     0 unsigned int SubId = 0
+     1 string Text = "Cheese"
+   [446]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126016
+     0 unsigned int SubId = 0
+     1 string Text = "Mayonnaise"
+   [447]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126017
+     0 unsigned int SubId = 0
+     1 string Text = "Yogurt"
+   [448]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127000
+     0 unsigned int SubId = 0
+     1 string Text = "Vegetable Salads"
+   [449]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127001
+     0 unsigned int SubId = 0
+     1 string Text = "Potato Salads"
+   [450]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127002
+     0 unsigned int SubId = 0
+     1 string Text = "Egg Salads"
+   [451]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127003
+     0 unsigned int SubId = 0
+     1 string Text = "Mixed Salads"
+   [452]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127004
+     0 unsigned int SubId = 0
+     1 string Text = "Fruit Salads"
+   [453]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127005
+     0 unsigned int SubId = 0
+     1 string Text = "Small Fish Marinades"
+   [454]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127006
+     0 unsigned int SubId = 0
+     1 string Text = "Mushroom Marinades"
+   [455]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127007
+     0 unsigned int SubId = 0
+     1 string Text = "Pickles"
+   [456]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127008
+     0 unsigned int SubId = 0
+     1 string Text = "Kimchi"
+   [457]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127009
+     0 unsigned int SubId = 0
+     1 string Text = "Lyonnaise Potatoes"
+   [458]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127010
+     0 unsigned int SubId = 0
+     1 string Text = "Caprese Salads"
+   [459]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127011
+     0 unsigned int SubId = 0
+     1 string Text = "Bean Salads"
+   [460]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127012
+     0 unsigned int SubId = 0
+     1 string Text = "Rosolli"
+   [461]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127013
+     0 unsigned int SubId = 0
+     1 string Text = "Yum Woon Sen"
+   [462]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127014
+     0 unsigned int SubId = 0
+     1 string Text = "Spinach Salads"
+   [463]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127015
+     0 unsigned int SubId = 0
+     1 string Text = "Bhindi Masala"
+   [464]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127016
+     0 unsigned int SubId = 0
+     1 string Text = "Kinpira Gobo"
+   [465]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128000
+     0 unsigned int SubId = 0
+     1 string Text = "Yellow Potages"
+   [466]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128001
+     0 unsigned int SubId = 0
+     1 string Text = "Green Potages"
+   [467]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128002
+     0 unsigned int SubId = 0
+     1 string Text = "Mixed Soups"
+   [468]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128003
+     0 unsigned int SubId = 0
+     1 string Text = "Oarfish Soups"
+   [469]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128004
+     0 unsigned int SubId = 0
+     1 string Text = "Shellfish Soups"
+   [470]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128005
+     0 unsigned int SubId = 0
+     1 string Text = "Kenchin-jiru"
+   [471]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128006
+     0 unsigned int SubId = 0
+     1 string Text = "Bouillabaisse"
+   [472]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128007
+     0 unsigned int SubId = 0
+     1 string Text = "Tom Yum Goong"
+   [473]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128008
+     0 unsigned int SubId = 0
+     1 string Text = "Minestrone"
+   [474]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128009
+     0 unsigned int SubId = 0
+     1 string Text = "Clam Chowder"
+   [475]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128010
+     0 unsigned int SubId = 0
+     1 string Text = "Borscht"
+   [476]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128011
+     0 unsigned int SubId = 0
+     1 string Text = "Pot-au-Feu"
+   [477]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128012
+     0 unsigned int SubId = 0
+     1 string Text = "Gazpacho"
+   [478]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128013
+     0 unsigned int SubId = 0
+     1 string Text = "Sopa de Ajo"
+   [479]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128014
+     0 unsigned int SubId = 0
+     1 string Text = "Lemon Soup"
+   [480]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128015
+     0 unsigned int SubId = 0
+     1 string Text = "Hot & Sour Soup"
+   [481]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128016
+     0 unsigned int SubId = 0
+     1 string Text = "Onion Soup"
+   [482]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128017
+     0 unsigned int SubId = 0
+     1 string Text = "Okra Soup"
+   [483]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128018
+     0 unsigned int SubId = 0
+     1 string Text = "Tteok"
+   [484]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128019
+     0 unsigned int SubId = 0
+     1 string Text = "Sour Cherry Soup"
+   [485]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128020
+     0 unsigned int SubId = 0
+     1 string Text = "Acqua Pazza"
+   [486]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129000
+     0 unsigned int SubId = 0
+     1 string Text = "Fried Eggs"
+   [487]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129001
+     0 unsigned int SubId = 0
+     1 string Text = "Sea Bream Sashimi"
+   [488]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129002
+     0 unsigned int SubId = 0
+     1 string Text = "Marlin Sushi"
+   [489]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129003
+     0 unsigned int SubId = 0
+     1 string Text = "Grilled Fish"
+   [490]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129004
+     0 unsigned int SubId = 0
+     1 string Text = "Boiled Fish"
+   [491]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129005
+     0 unsigned int SubId = 0
+     1 string Text = "Chuka Soba"
+   [492]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129006
+     0 unsigned int SubId = 0
+     1 string Text = "Kitsune Udon"
+   [493]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129007
+     0 unsigned int SubId = 0
+     1 string Text = "Tempura"
+   [494]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129008
+     0 unsigned int SubId = 0
+     1 string Text = "Unaju"
+   [495]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129009
+     0 unsigned int SubId = 0
+     1 string Text = "Mixed Rice"
+   [496]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129010
+     0 unsigned int SubId = 0
+     1 string Text = "Matsutake Rice"
+   [497]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129011
+     0 unsigned int SubId = 0
+     1 string Text = "Chestnut Rice"
+   [498]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129012
+     0 unsigned int SubId = 0
+     1 string Text = "Grilled Gar"
+   [499]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129013
+     0 unsigned int SubId = 0
+     1 string Text = "Sashimi Bowls"
+   [500]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129014
+     0 unsigned int SubId = 0
+     1 string Text = "Boiled Vegetables"
+   [501]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129015
+     0 unsigned int SubId = 0
+     1 string Text = "Boiled Sweet Potatoes"
+   [502]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129016
+     0 unsigned int SubId = 0
+     1 string Text = "Fried Tuna Cutlets"
+   [503]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129017
+     0 unsigned int SubId = 0
+     1 string Text = "Jam Sandwiches"
+   [504]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129018
+     0 unsigned int SubId = 0
+     1 string Text = "French Toast"
+   [505]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129019
+     0 unsigned int SubId = 0
+     1 string Text = "Vegetable Sandwiches"
+   [506]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129020
+     0 unsigned int SubId = 0
+     1 string Text = "Egg Sandwiches"
+   [507]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129021
+     0 unsigned int SubId = 0
+     1 string Text = "Tuna Sandwiches"
+   [508]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129022
+     0 unsigned int SubId = 0
+     1 string Text = "Hot Pots"
+   [509]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129023
+     0 unsigned int SubId = 0
+     1 string Text = "Kimchi Hot Pots"
+   [510]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129024
+     0 unsigned int SubId = 0
+     1 string Text = "Seafood Cataplana"
+   [511]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129025
+     0 unsigned int SubId = 0
+     1 string Text = "Stew"
+   [512]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129026
+     0 unsigned int SubId = 0
+     1 string Text = "Curry Rice"
+   [513]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129027
+     0 unsigned int SubId = 0
+     1 string Text = "Okra Curry"
+   [514]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129028
+     0 unsigned int SubId = 0
+     1 string Text = "Pescatore"
+   [515]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129029
+     0 unsigned int SubId = 0
+     1 string Text = "Carbonara "
+   [516]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129030
+     0 unsigned int SubId = 0
+     1 string Text = "Peperoncino Pasta "
+   [517]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129031
+     0 unsigned int SubId = 0
+     1 string Text = "Neapolitan Pasta"
+   [518]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129032
+     0 unsigned int SubId = 0
+     1 string Text = "Cream Sauce Pasta"
+   [519]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129033
+     0 unsigned int SubId = 0
+     1 string Text = "Genovese Pasta"
+   [520]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129034
+     0 unsigned int SubId = 0
+     1 string Text = "Pizzas"
+   [521]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129035
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Seafood Pizzas"
+   [522]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129036
+     0 unsigned int SubId = 0
+     1 string Text = "Vegetable Pizzas"
+   [523]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129037
+     0 unsigned int SubId = 0
+     1 string Text = "Tom Yum Pla"
+   [524]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129038
+     0 unsigned int SubId = 0
+     1 string Text = "Seafood Pilaf Platters"
+   [525]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129039
+     0 unsigned int SubId = 0
+     1 string Text = "Risi e Bisi"
+   [526]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129040
+     0 unsigned int SubId = 0
+     1 string Text = "Ratatouille"
+   [527]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129041
+     0 unsigned int SubId = 0
+     1 string Text = "Halibut al Cartoccio"
+   [528]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129042
+     0 unsigned int SubId = 0
+     1 string Text = "Mushroom Pies"
+   [529]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129043
+     0 unsigned int SubId = 0
+     1 string Text = "Quiches"
+   [530]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129044
+     0 unsigned int SubId = 0
+     1 string Text = "Vegetable Sauté"
+   [531]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129045
+     0 unsigned int SubId = 0
+     1 string Text = "Brothy Fried Vegetables"
+   [532]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129046
+     0 unsigned int SubId = 0
+     1 string Text = "Gratin"
+   [533]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129047
+     0 unsigned int SubId = 0
+     1 string Text = "Omelets"
+   [534]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129048
+     0 unsigned int SubId = 0
+     1 string Text = "Baked Beans"
+   [535]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129049
+     0 unsigned int SubId = 0
+     1 string Text = "Mushroom Cabbage Rolls"
+   [536]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129050
+     0 unsigned int SubId = 0
+     1 string Text = "Chili Shrimp"
+   [537]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129051
+     0 unsigned int SubId = 0
+     1 string Text = "Tortilla Soup"
+   [538]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129052
+     0 unsigned int SubId = 0
+     1 string Text = "Cheese Fondues"
+   [539]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129053
+     0 unsigned int SubId = 0
+     1 string Text = "Shrimp Toast"
+   [540]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129054
+     0 unsigned int SubId = 0
+     1 string Text = "Champiñones a la Plancha"
+   [541]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129055
+     0 unsigned int SubId = 0
+     1 string Text = "Boquerones en Vinagre"
+   [542]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129056
+     0 unsigned int SubId = 0
+     1 string Text = "Calçots"
+   [543]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129057
+     0 unsigned int SubId = 0
+     1 string Text = "Boo Paht Pong Karee"
+   [544]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129058
+     0 unsigned int SubId = 0
+     1 string Text = "Mala Crayfish"
+   [545]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129059
+     0 unsigned int SubId = 0
+     1 string Text = "Onigiri"
+   [546]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130000
+     0 unsigned int SubId = 0
+     1 string Text = "Baked Apples"
+   [547]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130001
+     0 unsigned int SubId = 0
+     1 string Text = "Honey Yogurt"
+   [548]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130002
+     0 unsigned int SubId = 0
+     1 string Text = "Fruit Compôte"
+   [549]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130003
+     0 unsigned int SubId = 0
+     1 string Text = "Honeyed Sweet Potatoes"
+   [550]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130004
+     0 unsigned int SubId = 0
+     1 string Text = "Candied Sweet Potatoes"
+   [551]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130005
+     0 unsigned int SubId = 0
+     1 string Text = "Shortcakes"
+   [552]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130006
+     0 unsigned int SubId = 0
+     1 string Text = "Chocolate Cakes"
+   [553]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130007
+     0 unsigned int SubId = 0
+     1 string Text = "Cheesecakes"
+   [554]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130008
+     0 unsigned int SubId = 0
+     1 string Text = "Mont Blanc"
+   [555]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130009
+     0 unsigned int SubId = 0
+     1 string Text = "Fruitcakes"
+   [556]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130010
+     0 unsigned int SubId = 0
+     1 string Text = "Tiramisu"
+   [557]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130011
+     0 unsigned int SubId = 0
+     1 string Text = "Injeolmi Toast"
+   [558]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130012
+     0 unsigned int SubId = 0
+     1 string Text = "Pancakes"
+   [559]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130013
+     0 unsigned int SubId = 0
+     1 string Text = "Cookies"
+   [560]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130014
+     0 unsigned int SubId = 0
+     1 string Text = "Almond Cookies"
+   [561]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130015
+     0 unsigned int SubId = 0
+     1 string Text = "Chocolate Cookies"
+   [562]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130016
+     0 unsigned int SubId = 0
+     1 string Text = "Pudding"
+   [563]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130017
+     0 unsigned int SubId = 0
+     1 string Text = "Honey Pudding"
+   [564]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130018
+     0 unsigned int SubId = 0
+     1 string Text = "Coffee Pudding"
+   [565]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130019
+     0 unsigned int SubId = 0
+     1 string Text = "Maple Muffins"
+   [566]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130020
+     0 unsigned int SubId = 0
+     1 string Text = "Nut Muffins"
+   [567]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130021
+     0 unsigned int SubId = 0
+     1 string Text = "Chocolate Muffins"
+   [568]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130022
+     0 unsigned int SubId = 0
+     1 string Text = "Sachertorte"
+   [569]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130023
+     0 unsigned int SubId = 0
+     1 string Text = "Black Forest Cakes"
+   [570]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130024
+     0 unsigned int SubId = 0
+     1 string Text = "Lamingtons"
+   [571]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130025
+     0 unsigned int SubId = 0
+     1 string Text = "Brownies"
+   [572]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130026
+     0 unsigned int SubId = 0
+     1 string Text = "Panna Cotta"
+   [573]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130027
+     0 unsigned int SubId = 0
+     1 string Text = "Panellets"
+   [574]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130028
+     0 unsigned int SubId = 0
+     1 string Text = "Khaoniao Mamuang"
+   [575]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130029
+     0 unsigned int SubId = 0
+     1 string Text = "Botamochi"
+   [576]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130030
+     0 unsigned int SubId = 0
+     1 string Text = "Chestnut Monaka"
+   [577]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130031
+     0 unsigned int SubId = 0
+     1 string Text = "Oshiruko"
+   [578]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130032
+     0 unsigned int SubId = 0
+     1 string Text = "Strawberry Daifuku"
+   [579]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130033
+     0 unsigned int SubId = 0
+     1 string Text = "Mugwort Daifuku"
+   [580]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131000
+     0 unsigned int SubId = 0
+     1 string Text = "Bread"
+   [581]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131001
+     0 unsigned int SubId = 0
+     1 string Text = "Onion Bread"
+   [582]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131002
+     0 unsigned int SubId = 0
+     1 string Text = "Cornbread"
+   [583]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131003
+     0 unsigned int SubId = 0
+     1 string Text = "Cooked White Rice"
+   [584]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131004
+     0 unsigned int SubId = 0
+     1 string Text = "Tomato Juice"
+   [585]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131005
+     0 unsigned int SubId = 0
+     1 string Text = "Vegetable Juice"
+   [586]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131006
+     0 unsigned int SubId = 0
+     1 string Text = "Orange Juice"
+   [587]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131007
+     0 unsigned int SubId = 0
+     1 string Text = "Mango Juice"
+   [588]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131008
+     0 unsigned int SubId = 0
+     1 string Text = "Coconut Juice"
+   [589]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131009
+     0 unsigned int SubId = 0
+     1 string Text = "Apple Juice"
+   [590]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131010
+     0 unsigned int SubId = 0
+     1 string Text = "Grape Juice"
+   [591]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131011
+     0 unsigned int SubId = 0
+     1 string Text = "Yogurt Drinks"
+   [592]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131012
+     0 unsigned int SubId = 0
+     1 string Text = "Strawberry Milk"
+   [593]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131013
+     0 unsigned int SubId = 0
+     1 string Text = "Banana Milk"
+   [594]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131014
+     0 unsigned int SubId = 0
+     1 string Text = "Fruit au Lait"
+   [595]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131015
+     0 unsigned int SubId = 0
+     1 string Text = "Tea"
+   [596]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131016
+     0 unsigned int SubId = 0
+     1 string Text = "Milk Tea"
+   [597]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131017
+     0 unsigned int SubId = 0
+     1 string Text = "Coffee"
+   [598]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131018
+     0 unsigned int SubId = 0
+     1 string Text = "Honey Milk Latte"
+   [599]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131019
+     0 unsigned int SubId = 0
+     1 string Text = "Caffè Mocha"
+   [600]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131020
+     0 unsigned int SubId = 0
+     1 string Text = "Chai"
+   [601]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131021
+     0 unsigned int SubId = 0
+     1 string Text = "Cocoa"
+   [602]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131022
+     0 unsigned int SubId = 0
+     1 string Text = "Honey Milk Cocoa"
+   [603]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131023
+     0 unsigned int SubId = 0
+     1 string Text = "Hot Milk"
+   [604]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131024
+     0 unsigned int SubId = 0
+     1 string Text = "Honey Lemon Juice"
+   [605]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131025
+     0 unsigned int SubId = 0
+     1 string Text = "Herb Tea"
+   [606]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131026
+     0 unsigned int SubId = 0
+     1 string Text = "Strawberry Jam"
+   [607]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131027
+     0 unsigned int SubId = 0
+     1 string Text = "Cherry Jam"
+   [608]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131028
+     0 unsigned int SubId = 0
+     1 string Text = "Orange Marmalade"
+   [609]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131029
+     0 unsigned int SubId = 0
+     1 string Text = "Watermelon Jam"
+   [610]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131030
+     0 unsigned int SubId = 0
+     1 string Text = "Melon Jam"
+   [611]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131031
+     0 unsigned int SubId = 0
+     1 string Text = "Pineapple Jam"
+   [612]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131032
+     0 unsigned int SubId = 0
+     1 string Text = "Lemon Jam"
+   [613]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131033
+     0 unsigned int SubId = 0
+     1 string Text = "Mango Jam"
+   [614]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131034
+     0 unsigned int SubId = 0
+     1 string Text = "Coconut Jam"
+   [615]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131035
+     0 unsigned int SubId = 0
+     1 string Text = "Banana Jam"
+   [616]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131036
+     0 unsigned int SubId = 0
+     1 string Text = "Peach Jam"
+   [617]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131037
+     0 unsigned int SubId = 0
+     1 string Text = "Apple Jam"
+   [618]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131038
+     0 unsigned int SubId = 0
+     1 string Text = "Grape Jam"
+   [619]
+    0 LocalizeTextData data
+     0 unsigned int Id = 132000
+     0 unsigned int SubId = 0
+     1 string Text = "Floral Perfumes"
+   [620]
+    0 LocalizeTextData data
+     0 unsigned int Id = 132001
+     0 unsigned int SubId = 0
+     1 string Text = "Bouquet Perfumes"
+   [621]
+    0 LocalizeTextData data
+     0 unsigned int Id = 132002
+     0 unsigned int SubId = 0
+     1 string Text = "Fruit Perfumes"
+   [622]
+    0 LocalizeTextData data
+     0 unsigned int Id = 132003
+     0 unsigned int SubId = 0
+     1 string Text = "Charming Perfumes"
+   [623]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133000
+     0 unsigned int SubId = 0
+     1 string Text = "Springtime Marches"
+   [624]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133001
+     0 unsigned int SubId = 0
+     1 string Text = "Blazing Waltzes"
+   [625]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133002
+     0 unsigned int SubId = 0
+     1 string Text = "Moonlight Nocturnes"
+   [626]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133003
+     0 unsigned int SubId = 0
+     1 string Text = "Winter Bloom Rondos"
+   [627]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133004
+     0 unsigned int SubId = 0
+     1 string Text = "Earth Concertos"
+   [628]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133005
+     0 unsigned int SubId = 0
+     1 string Text = "Rainbow Bouquets"
+   [629]
+    0 LocalizeTextData data
+     0 unsigned int Id = 134000
+     0 unsigned int SubId = 0
+     1 string Text = "Jewelry Rings"
+   [630]
+    0 LocalizeTextData data
+     0 unsigned int Id = 134001
+     0 unsigned int SubId = 0
+     1 string Text = "Jewelry Lockets"
+   [631]
+    0 LocalizeTextData data
+     0 unsigned int Id = 134002
+     0 unsigned int SubId = 0
+     1 string Text = "Fashionable Bracelets"
+   [632]
+    0 LocalizeTextData data
+     0 unsigned int Id = 134003
+     0 unsigned int SubId = 0
+     1 string Text = "Shiny Watches"
+   [633]
+    0 LocalizeTextData data
+     0 unsigned int Id = 135000
+     0 unsigned int SubId = 0
+     1 string Text = "Wrapped Accessories"
+   [634]
+    0 LocalizeTextData data
+     0 unsigned int Id = 135001
+     0 unsigned int SubId = 0
+     1 string Text = "Wrapped Perfumes"
+   [635]
+    0 LocalizeTextData data
+     0 unsigned int Id = 135002
+     0 unsigned int SubId = 0
+     1 string Text = "Wrapped Bouquets"
+   [636]
+    0 LocalizeTextData data
+     0 unsigned int Id = 136000
+     0 unsigned int SubId = 0
+     1 string Text = "Confession Pendants"
+   [637]
+    0 LocalizeTextData data
+     0 unsigned int Id = 137000
+     0 unsigned int SubId = 0
+     1 string Text = "Blue Feathers"
+   [638]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138000
+     0 unsigned int SubId = 0
+     1 string Text = "Antique Accessories"
+   [639]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138001
+     0 unsigned int SubId = 0
+     1 string Text = "Antique Mirrors"
+   [640]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138002
+     0 unsigned int SubId = 0
+     1 string Text = "Antique Decorations"
+   [641]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138003
+     0 unsigned int SubId = 0
+     1 string Text = "Antique Monuments"
+   [642]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138004
+     0 unsigned int SubId = 0
+     1 string Text = "Timeworn Coins"
+   [643]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138005
+     0 unsigned int SubId = 0
+     1 string Text = "Timeworn Fans"
+   [644]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138006
+     0 unsigned int SubId = 0
+     1 string Text = "Timeworn Scrolls"
+   [645]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138007
+     0 unsigned int SubId = 0
+     1 string Text = "Timeworn Compasses"
+   [646]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138008
+     0 unsigned int SubId = 0
+     1 string Text = "Timeworn Maps"
+   [647]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138009
+     0 unsigned int SubId = 0
+     1 string Text = "Sparkling Spurs"
+   [648]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138010
+     0 unsigned int SubId = 0
+     1 string Text = "Shiny Trophy Buckles"
+   [649]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138011
+     0 unsigned int SubId = 0
+     1 string Text = "Cow Kabuto Helms"
+   [650]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138012
+     0 unsigned int SubId = 0
+     1 string Text = "Golden Horns"
+   [651]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138013
+     0 unsigned int SubId = 0
+     1 string Text = "Ancient Black Tomes"
+   [652]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138014
+     0 unsigned int SubId = 0
+     1 string Text = "Ancient White Tomes"
+   [653]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138015
+     0 unsigned int SubId = 0
+     1 string Text = "Glass Slippers"
+   [654]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138016
+     0 unsigned int SubId = 0
+     1 string Text = "Prehistoric Gears"
+   [655]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138017
+     0 unsigned int SubId = 0
+     1 string Text = "Olive Crystals"
+   [656]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138018
+     0 unsigned int SubId = 0
+     1 string Text = "Fulgurites"
+   [657]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138019
+     0 unsigned int SubId = 0
+     1 string Text = "Arthurites"
+   [658]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138020
+     0 unsigned int SubId = 0
+     1 string Text = "Desert Roses"
+   [659]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138021
+     0 unsigned int SubId = 0
+     1 string Text = "Okenites"
+   [660]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138022
+     0 unsigned int SubId = 0
+     1 string Text = "Gibeon Stones"
+   [661]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138023
+     0 unsigned int SubId = 0
+     1 string Text = "Parasite Stones"
+   [662]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138024
+     0 unsigned int SubId = 0
+     1 string Text = "Ambergris"
+   [663]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138025
+     0 unsigned int SubId = 0
+     1 string Text = "Cave Pearls"
+   [664]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138026
+     0 unsigned int SubId = 0
+     1 string Text = "Crystalized Amber"
+   [665]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138027
+     0 unsigned int SubId = 0
+     1 string Text = "Ancient Shell Fossils"
+   [666]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138028
+     0 unsigned int SubId = 0
+     1 string Text = "Ancient Bug Fossils"
+   [667]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138029
+     0 unsigned int SubId = 0
+     1 string Text = "Dinosaur Fossils"
+   [668]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139000
+     0 unsigned int SubId = 0
+     1 string Text = "Sprinklers"
+   [669]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139001
+     0 unsigned int SubId = 0
+     1 string Text = "Enhanced Sprinklers"
+   [670]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139002
+     0 unsigned int SubId = 0
+     1 string Text = "Automatic Feeders"
+   [671]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139003
+     0 unsigned int SubId = 0
+     1 string Text = "Nets"
+   [672]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139004
+     0 unsigned int SubId = 0
+     1 string Text = "Multipurpose Nets"
+   [673]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139005
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Nets"
+   [674]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139006
+     0 unsigned int SubId = 0
+     1 string Text = "Suction Pumps"
+   [675]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139007
+     0 unsigned int SubId = 0
+     1 string Text = "Wooden Item Boxes"
+   [676]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139008
+     0 unsigned int SubId = 0
+     1 string Text = "Stone Item Boxes"
+   [677]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139009
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Item Boxes"
+   [678]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139010
+     0 unsigned int SubId = 0
+     1 string Text = "Mortar Item Boxes"
+   [679]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139011
+     0 unsigned int SubId = 0
+     1 string Text = "Treasure Chests"
+   [680]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139012
+     0 unsigned int SubId = 0
+     1 string Text = "Wooden Fences"
+   [681]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139013
+     0 unsigned int SubId = 0
+     1 string Text = "Wooden Gates"
+   [682]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139014
+     0 unsigned int SubId = 0
+     1 string Text = "Stone Fences"
+   [683]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139015
+     0 unsigned int SubId = 0
+     1 string Text = "Stone Gates"
+   [684]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139016
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Fences"
+   [685]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139017
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Gates"
+   [686]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139018
+     0 unsigned int SubId = 0
+     1 string Text = "Mortar Fences"
+   [687]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139019
+     0 unsigned int SubId = 0
+     1 string Text = "Mortar Gates"
+   [688]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139020
+     0 unsigned int SubId = 0
+     1 string Text = "Brick Fences"
+   [689]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139021
+     0 unsigned int SubId = 0
+     1 string Text = "Brick Gates"
+   [690]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139022
+     0 unsigned int SubId = 0
+     1 string Text = "Wooden Roads"
+   [691]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139023
+     0 unsigned int SubId = 0
+     1 string Text = "Stone Roads"
+   [692]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139024
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Roads"
+   [693]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139025
+     0 unsigned int SubId = 0
+     1 string Text = "Mortar Roads"
+   [694]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139026
+     0 unsigned int SubId = 0
+     1 string Text = "Brick Roads"
+   [695]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139027
+     0 unsigned int SubId = 0
+     1 string Text = "Torches"
+   [696]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139028
+     0 unsigned int SubId = 0
+     1 string Text = "Simple Street Lamps"
+   [697]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139029
+     0 unsigned int SubId = 0
+     1 string Text = "Splendid Street Lamps"
+   [698]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139030
+     0 unsigned int SubId = 0
+     1 string Text = "Gorgeous Street Lamps"
+   [699]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139031
+     0 unsigned int SubId = 0
+     1 string Text = "Stone Lanterns"
+   [700]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139032
+     0 unsigned int SubId = 0
+     1 string Text = "Wooden Benches"
+   [701]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139033
+     0 unsigned int SubId = 0
+     1 string Text = "Iron Benches"
+   [702]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139034
+     0 unsigned int SubId = 0
+     1 string Text = "Umbrella Tables"
+   [703]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139035
+     0 unsigned int SubId = 0
+     1 string Text = "Picnic Tables"
+   [704]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139036
+     0 unsigned int SubId = 0
+     1 string Text = "Fountains"
+   [705]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139037
+     0 unsigned int SubId = 0
+     1 string Text = "Welcome Gates"
+   [706]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139038
+     0 unsigned int SubId = 0
+     1 string Text = "Barrels"
+   [707]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139039
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Milk Tanks"
+   [708]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139040
+     0 unsigned int SubId = 0
+     1 string Text = "Fodder Rolls"
+   [709]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139041
+     0 unsigned int SubId = 0
+     1 string Text = "Wooden Crates"
+   [710]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139042
+     0 unsigned int SubId = 0
+     1 string Text = "Carts"
+   [711]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139043
+     0 unsigned int SubId = 0
+     1 string Text = "Scarecrows"
+   [712]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139044
+     0 unsigned int SubId = 0
+     1 string Text = "Cow Topiaries"
+   [713]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139045
+     0 unsigned int SubId = 0
+     1 string Text = "Chicken Topiaries"
+   [714]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139046
+     0 unsigned int SubId = 0
+     1 string Text = "Horse Topiaries"
+   [715]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139047
+     0 unsigned int SubId = 0
+     1 string Text = "Sheep Topiaries"
+   [716]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139048
+     0 unsigned int SubId = 0
+     1 string Text = "Alpaca Topiaries"
+   [717]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139049
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Bear Carvings"
+   [718]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140000
+     0 unsigned int SubId = 0
+     1 string Text = "Round Chairs"
+   [719]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140001
+     0 unsigned int SubId = 0
+     1 string Text = "Square Chairs"
+   [720]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140002
+     0 unsigned int SubId = 0
+     1 string Text = "Elegant Chairs"
+   [721]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140003
+     0 unsigned int SubId = 0
+     1 string Text = "Relaxing Sofas"
+   [722]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140004
+     0 unsigned int SubId = 0
+     1 string Text = "Casual Sofas"
+   [723]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140005
+     0 unsigned int SubId = 0
+     1 string Text = "Splendid Sofas"
+   [724]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140006
+     0 unsigned int SubId = 0
+     1 string Text = "Comfy Sofas"
+   [725]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140007
+     0 unsigned int SubId = 0
+     1 string Text = "Small Tables"
+   [726]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140008
+     0 unsigned int SubId = 0
+     1 string Text = "Large Tables"
+   [727]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140009
+     0 unsigned int SubId = 0
+     1 string Text = "Small Round Tables"
+   [728]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140010
+     0 unsigned int SubId = 0
+     1 string Text = "Large Round Tables"
+   [729]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140011
+     0 unsigned int SubId = 0
+     1 string Text = "Classy Tables"
+   [730]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140012
+     0 unsigned int SubId = 0
+     1 string Text = "Bookshelves"
+   [731]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140013
+     0 unsigned int SubId = 0
+     1 string Text = "Chests"
+   [732]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140014
+     0 unsigned int SubId = 0
+     1 string Text = "Cupboards"
+   [733]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140015
+     0 unsigned int SubId = 0
+     1 string Text = "Vanities"
+   [734]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140016
+     0 unsigned int SubId = 0
+     1 string Text = "Fireplaces"
+   [735]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140017
+     0 unsigned int SubId = 0
+     1 string Text = "Firewood Racks"
+   [736]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140018
+     0 unsigned int SubId = 0
+     1 string Text = "Simple Standing Lamps"
+   [737]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140019
+     0 unsigned int SubId = 0
+     1 string Text = "Trendy Standing Lamps"
+   [738]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140020
+     0 unsigned int SubId = 0
+     1 string Text = "Paper Lanterns"
+   [739]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140021
+     0 unsigned int SubId = 0
+     1 string Text = "Eastern Screens"
+   [740]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140022
+     0 unsigned int SubId = 0
+     1 string Text = "Bird of Paradise Plants"
+   [741]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140023
+     0 unsigned int SubId = 0
+     1 string Text = "Money Trees"
+   [742]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140024
+     0 unsigned int SubId = 0
+     1 string Text = "Ficuses"
+   [743]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140025
+     0 unsigned int SubId = 0
+     1 string Text = "Chic Rugs"
+   [744]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140026
+     0 unsigned int SubId = 0
+     1 string Text = "Bright Rugs"
+   [745]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140027
+     0 unsigned int SubId = 0
+     1 string Text = "Brown Rugs"
+   [746]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140028
+     0 unsigned int SubId = 0
+     1 string Text = "Tile Rugs"
+   [747]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140029
+     0 unsigned int SubId = 0
+     1 string Text = "Mellow Rugs"
+   [748]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140030
+     0 unsigned int SubId = 0
+     1 string Text = "Chicken Rugs"
+   [749]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140031
+     0 unsigned int SubId = 0
+     1 string Text = "Lovely Rugs"
+   [750]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140032
+     0 unsigned int SubId = 0
+     1 string Text = "Blue Rugs"
+   [751]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140033
+     0 unsigned int SubId = 0
+     1 string Text = "Red Rugs"
+   [752]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140034
+     0 unsigned int SubId = 0
+     1 string Text = "Wall Clocks"
+   [753]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140035
+     0 unsigned int SubId = 0
+     1 string Text = "Pendulum Clocks"
+   [754]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140036
+     0 unsigned int SubId = 0
+     1 string Text = "Inconceivable Paintings"
+   [755]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140037
+     0 unsigned int SubId = 0
+     1 string Text = "Agreeable Paintings"
+   [756]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140038
+     0 unsigned int SubId = 0
+     1 string Text = "Inside Joke Paintings"
+   [757]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140039
+     0 unsigned int SubId = 0
+     1 string Text = "Old Maps"
+   [758]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140040
+     0 unsigned int SubId = 0
+     1 string Text = "Long Mirrors"
+   [759]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140041
+     0 unsigned int SubId = 0
+     1 string Text = "Round Lamps"
+   [760]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140042
+     0 unsigned int SubId = 0
+     1 string Text = "Pot-shaped Lamps"
+   [761]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140043
+     0 unsigned int SubId = 0
+     1 string Text = "Table Clocks"
+   [762]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140044
+     0 unsigned int SubId = 0
+     1 string Text = "Mysterious Plushies"
+   [763]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140045
+     0 unsigned int SubId = 0
+     1 string Text = "Picture Frames"
+   [764]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140046
+     0 unsigned int SubId = 0
+     1 string Text = "Globes"
+   [765]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140047
+     0 unsigned int SubId = 0
+     1 string Text = "Vases"
+   [766]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140048
+     0 unsigned int SubId = 0
+     1 string Text = "Tiny Vases"
+   [767]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140049
+     0 unsigned int SubId = 0
+     1 string Text = "Broadleaf Plants"
+   [768]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140050
+     0 unsigned int SubId = 0
+     1 string Text = "Bonsai"
+   [769]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140051
+     0 unsigned int SubId = 0
+     1 string Text = "Candles"
+   [770]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140052
+     0 unsigned int SubId = 0
+     1 string Text = "Fancy Desk Lamps"
+   [771]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140053
+     0 unsigned int SubId = 0
+     1 string Text = "Simple Desk Lamps"
+   [772]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140054
+     0 unsigned int SubId = 0
+     1 string Text = "Bookstands"
+   [773]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140055
+     0 unsigned int SubId = 0
+     1 string Text = "Snow Globes"
+   [774]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140056
+     0 unsigned int SubId = 0
+     1 string Text = "Olive Town Yo-Yos"
+   [775]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140057
+     0 unsigned int SubId = 0
+     1 string Text = "Promise Rings"
+   [776]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140058
+     0 unsigned int SubId = 0
+     1 string Text = "Linh's Bouquets"
+   [777]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140059
+     0 unsigned int SubId = 0
+     1 string Text = "Squirrel Statues"
+   [778]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140060
+     0 unsigned int SubId = 0
+     1 string Text = "Orange Fox Statues"
+   [779]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140061
+     0 unsigned int SubId = 0
+     1 string Text = "White Fox Statues"
+   [780]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140062
+     0 unsigned int SubId = 0
+     1 string Text = "Brown Ermine Statues"
+   [781]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140063
+     0 unsigned int SubId = 0
+     1 string Text = "White Ermine Statues"
+   [782]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140064
+     0 unsigned int SubId = 0
+     1 string Text = "Bear Statues"
+   [783]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140065
+     0 unsigned int SubId = 0
+     1 string Text = "Monkey Statues"
+   [784]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140066
+     0 unsigned int SubId = 0
+     1 string Text = "Sparrow Statues"
+   [785]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140067
+     0 unsigned int SubId = 0
+     1 string Text = "Owl Statues"
+   [786]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140068
+     0 unsigned int SubId = 0
+     1 string Text = "Bluebird Statues"
+   [787]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140069
+     0 unsigned int SubId = 0
+     1 string Text = "Ptarmigan Statues"
+   [788]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140070
+     0 unsigned int SubId = 0
+     1 string Text = "Eagle Statues"
+   [789]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140071
+     0 unsigned int SubId = 0
+     1 string Text = "Falcon Statues"
+   [790]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140072
+     0 unsigned int SubId = 0
+     1 string Text = "Rhinoceros Beetle Statues"
+   [791]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140073
+     0 unsigned int SubId = 0
+     1 string Text = "Rhinoceros Beetle Statues"
+   [792]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140074
+     0 unsigned int SubId = 0
+     1 string Text = "Hercules Beetle Statues"
+   [793]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140075
+     0 unsigned int SubId = 0
+     1 string Text = "Stag Beetle Statues"
+   [794]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140076
+     0 unsigned int SubId = 0
+     1 string Text = "White Butterfly Statues"
+   [795]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140077
+     0 unsigned int SubId = 0
+     1 string Text = "Swallowtail Statues"
+   [796]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140078
+     0 unsigned int SubId = 0
+     1 string Text = "Morpho Statues"
+   [797]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140079
+     0 unsigned int SubId = 0
+     1 string Text = "G. P. Millipede Statues"
+   [798]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140080
+     0 unsigned int SubId = 0
+     1 string Text = "Gold Pet Derby Trophies"
+   [799]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140081
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Pet Derby Trophies"
+   [800]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140082
+     0 unsigned int SubId = 0
+     1 string Text = "Bronze Pet Derby Trophies"
+   [801]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140083
+     0 unsigned int SubId = 0
+     1 string Text = "Gold Hammer Trophies"
+   [802]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140084
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Hammer Trophies"
+   [803]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140085
+     0 unsigned int SubId = 0
+     1 string Text = "Bronze Hammer Trophies"
+   [804]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140086
+     0 unsigned int SubId = 0
+     1 string Text = "Gold Shroom Trophies"
+   [805]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140087
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Shroom Trophies"
+   [806]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140088
+     0 unsigned int SubId = 0
+     1 string Text = "Bronze Shroom Trophies"
+   [807]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140089
+     0 unsigned int SubId = 0
+     1 string Text = "Gold Fishing Trophies"
+   [808]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140090
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Fishing Trophies"
+   [809]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140091
+     0 unsigned int SubId = 0
+     1 string Text = "Bronze Fishing Trophies"
+   [810]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140092
+     0 unsigned int SubId = 0
+     1 string Text = "Reina's Flower Crowns"
+   [811]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140093
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Antique Accessories"
+   [812]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140094
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Antique Mirrors"
+   [813]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140095
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Antique Decorations"
+   [814]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140096
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Antique Monuments"
+   [815]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140097
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Timeworn Coins"
+   [816]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140098
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Timeworn Fans"
+   [817]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140099
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Timeworn Scrolls"
+   [818]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140100
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Timeworn Compasses"
+   [819]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140101
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Timeworn Maps"
+   [820]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140102
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Sparkling Spurs"
+   [821]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140103
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Shiny Trophy Buckles"
+   [822]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140104
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Cow Helms"
+   [823]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140105
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Golden Horns"
+   [824]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140106
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Ancient Black Tomes"
+   [825]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140107
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Ancient White Tomes"
+   [826]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140108
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Glass Slippers"
+   [827]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140109
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Prehistoric Gears"
+   [828]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140110
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Olive Crystals"
+   [829]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140111
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Fulgurites"
+   [830]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140112
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Arthurites"
+   [831]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140113
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Desert Roses"
+   [832]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140114
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Okenites"
+   [833]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140115
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Gibeon Stones"
+   [834]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140116
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Parasite Stones"
+   [835]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140117
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Ambergrises"
+   [836]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140118
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Cave Pearls"
+   [837]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140119
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Crystalized Ambers"
+   [838]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140120
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Ancient Shell Fossils"
+   [839]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140121
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Ancient Bug Fossils"
+   [840]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140122
+     0 unsigned int SubId = 0
+     1 string Text = "Faux Dinosaur Fossils"
+   [841]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140123
+     0 unsigned int SubId = 0
+     1 string Text = "Crab Statues"
+   [842]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141000
+     0 unsigned int SubId = 0
+     1 string Text = "Wells"
+   [843]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141001
+     0 unsigned int SubId = 0
+     1 string Text = "Barns"
+   [844]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141002
+     0 unsigned int SubId = 0
+     1 string Text = "Coops"
+   [845]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141003
+     0 unsigned int SubId = 0
+     1 string Text = "Big Barns"
+   [846]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141004
+     0 unsigned int SubId = 0
+     1 string Text = "Big Coops"
+   [847]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141005
+     0 unsigned int SubId = 0
+     1 string Text = "Silos"
+   [848]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141006
+     0 unsigned int SubId = 0
+     1 string Text = "Silages"
+   [849]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141007
+     0 unsigned int SubId = 0
+     1 string Text = "Stables"
+   [850]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141008
+     0 unsigned int SubId = 0
+     1 string Text = "Beehives"
+   [851]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141009
+     0 unsigned int SubId = 0
+     1 string Text = "Mushroom Logs"
+   [852]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141010
+     0 unsigned int SubId = 0
+     1 string Text = "Hydroculture Plants"
+   [853]
+    0 LocalizeTextData data
+     0 unsigned int Id = 142000
+     0 unsigned int SubId = 0
+     1 string Text = "Timeworn Objects"
+   [854]
+    0 LocalizeTextData data
+     0 unsigned int Id = 142001
+     0 unsigned int SubId = 0
+     1 string Text = "Heavy Objects"
+   [855]
+    0 LocalizeTextData data
+     0 unsigned int Id = 142002
+     0 unsigned int SubId = 0
+     1 string Text = "Shining Objects"
+   [856]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143000
+     0 unsigned int SubId = 0
+     1 string Text = "Wrapping Paper"
+   [857]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143001
+     0 unsigned int SubId = 0
+     1 string Text = "Clay"
+   [858]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143002
+     0 unsigned int SubId = 0
+     1 string Text = "Bricks"
+   [859]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143003
+     0 unsigned int SubId = 0
+     1 string Text = "Pet Treats"
+   [860]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143004
+     0 unsigned int SubId = 0
+     1 string Text = "Fancy Pet Treats"
+   [861]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143005
+     0 unsigned int SubId = 0
+     1 string Text = "Bouncy Balls"
+   [862]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143006
+     0 unsigned int SubId = 0
+     1 string Text = "Mouse Balls"
+   [863]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143007
+     0 unsigned int SubId = 0
+     1 string Text = "Moondrop Flowers"
+   [864]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143008
+     0 unsigned int SubId = 0
+     1 string Text = "Pink Cat Flower"
+   [865]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143009
+     0 unsigned int SubId = 0
+     1 string Text = "Magic Blue Flowers"
+   [866]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143010
+     0 unsigned int SubId = 0
+     1 string Text = "Magic Red Flowers"
+   [867]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143011
+     0 unsigned int SubId = 0
+     1 string Text = "Empty Cans"
+   [868]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143012
+     0 unsigned int SubId = 0
+     1 string Text = "Old Boots"
+   [869]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143013
+     0 unsigned int SubId = 0
+     1 string Text = "Empty Bottles"
+   [870]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143014
+     0 unsigned int SubId = 0
+     1 string Text = "Coral"
+   [871]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143015
+     0 unsigned int SubId = 0
+     1 string Text = "Heart Cockle Shells"
+   [872]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143016
+     0 unsigned int SubId = 0
+     1 string Text = "Candy Cane Snail Shells"
+   [873]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143017
+     0 unsigned int SubId = 0
+     1 string Text = "Venus Combs"
+   [874]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143018
+     0 unsigned int SubId = 0
+     1 string Text = "Bags"
+   [875]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143019
+     0 unsigned int SubId = 0
+     1 string Text = "Red Dyes"
+   [876]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143020
+     0 unsigned int SubId = 0
+     1 string Text = "Blue Dyes"
+   [877]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143021
+     0 unsigned int SubId = 0
+     1 string Text = "Green Dyes"
+   [878]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143022
+     0 unsigned int SubId = 0
+     1 string Text = "Yellow Dyes"
+   [879]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143023
+     0 unsigned int SubId = 0
+     1 string Text = "Pink Dyes"
+   [880]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143024
+     0 unsigned int SubId = 0
+     1 string Text = "Purple Dyes"
+   [881]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143025
+     0 unsigned int SubId = 0
+     1 string Text = "White Dyes"
+   [882]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143026
+     0 unsigned int SubId = 0
+     1 string Text = "Black Dyes"
+   [883]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143027
+     0 unsigned int SubId = 0
+     1 string Text = "Mortar"
+   [884]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143028
+     0 unsigned int SubId = 0
+     1 string Text = "Bronze Town Medals"
+   [885]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143029
+     0 unsigned int SubId = 0
+     1 string Text = "Silver Town Medals"
+   [886]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143030
+     0 unsigned int SubId = 0
+     1 string Text = "Gold Town Medals"
+ 1 string IdEnumName = "BokuMono.ItemNamePluralId"

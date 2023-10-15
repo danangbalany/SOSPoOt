@@ -1,0 +1,163 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "Prologue_en"
+ 0 LocalizeTextData list
+  0 Array Array (30 items)
+   0 int size = 30
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900010500
+     0 unsigned int SubId = 0
+     1 string Text = "A long time ago, my grandfather and his friends\nblazed a trail and established a new settlement.\nThey called it Olive Town."
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900010600
+     0 unsigned int SubId = 0
+     1 string Text = "When I was a kid, I loved listening to stories of my\ngrandfather's pioneering days more than anything."
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900010700
+     0 unsigned int SubId = 0
+     1 string Text = "Since then, it's been my dream to live in Olive Town,\njust like he did."
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900010800
+     0 unsigned int SubId = 0
+     1 string Text = "[AHEAD: OLIVE TOWN]"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020100
+     0 unsigned int SubId = 1011
+     1 string Text = "And who might you be? Did you come all the way\nhere on that motorcycle?"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020200
+     0 unsigned int SubId = 0
+     1 string Text = "I did!"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020210
+     0 unsigned int SubId = 0
+     1 string Text = "No, I didn't."
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020300
+     0 unsigned int SubId = 1011
+     1 string Text = "Now, now, you mustn't fib! I can tell you did."
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020400
+     0 unsigned int SubId = 1011
+     1 string Text = "Well, that must've been an arduous journey.\nYour poor motorcycle tells a story all its own."
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020500
+     0 unsigned int SubId = 1011
+     1 string Text = "Ah, you needn't worry about it. I can have the\nrepairs arranged."
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020600
+     0 unsigned int SubId = 1011
+     1 string Text = "I'll be taking it to a man named Clemens, who runs\nour tool shop. You can pick it up later once he's all\ndone with it."
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020700
+     0 unsigned int SubId = 1011
+     1 string Text = "Er, by the way... Might I have your name?"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020800
+     0 unsigned int SubId = 1011
+     1 string Text = "I see. So your name's <player>, is it?\nThat sounds so familiar.\nWhere have I heard that name before...?"
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020900
+     0 unsigned int SubId = 1011
+     1 string Text = "Oh! My goodness! Your birthday, it's, uh...is it what\nI think it is?!"
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021000
+     0 unsigned int SubId = 1011
+     1 string Text = "Yes, I remember now! <dateconst=playerbirth><month> <day>!"
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021100
+     0 unsigned int SubId = 1011
+     1 string Text = "Come to think of it, his grandchild would be 20 by\nnow... Ah! Then that would make you—!"
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021200
+     0 unsigned int SubId = 0
+     1 string Text = ""
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021300
+     0 unsigned int SubId = 0
+     1 string Text = "His grandson, yeah."
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021310
+     0 unsigned int SubId = 0
+     1 string Text = "His granddaughter, yeah."
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021400
+     0 unsigned int SubId = 1011
+     1 string Text = "Yes, of course! My apologies! I don't know how\nI could have forgotten when you're standing right\nin front of me!"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021410
+     0 unsigned int SubId = 1011
+     1 string Text = "Yes, of course! My apologies! I don't know how\nI could have forgotten when you're standing right\nin front of me!"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021500
+     0 unsigned int SubId = 1011
+     1 string Text = "Goodness gracious... To think my dear old friend's\n<genderplayer="grandson","granddaughter"> would find <genderplayer="his","her"> way to Olive Town."
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021600
+     0 unsigned int SubId = 1011
+     1 string Text = "Come on, then! I'd be happy to show you to your\ngrandfather's old farm."
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021700
+     0 unsigned int SubId = 1011
+     1 string Text = "Is something the matter? ...Actually, let me guess.\nBy the look on your face, you'd like to ask me, "Are\nyou quite SURE this is Grandfather's farm, sir?""
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021800
+     0 unsigned int SubId = 1011
+     1 string Text = "And to that I would say, "It is!" When your\ngrandfather lived here, this farm was a lush and\nbeautiful place. Emphasis on the "was," I'm afraid."
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021900
+     0 unsigned int SubId = 1011
+     1 string Text = "Now, what was the name of his farm again...?\nIt's on the tip of my tongue..."
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900022000
+     0 unsigned int SubId = 1011
+     1 string Text = "Your grandfather must've told you the name of the\nfarm, surely? What was it again?"
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900022100
+     0 unsigned int SubId = 1011
+     1 string Text = "Yes, that's what it was!\n<farmname> Farm!"
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900022200
+     0 unsigned int SubId = 1011
+     1 string Text = "Interested in taking over the farm, are you?"
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900022300
+     0 unsigned int SubId = 1011
+     1 string Text = "Well, I can't say I'm well versed on the subject,\nbut I can at least teach you the basics to start\nyou off."
+ 1 string IdEnumName = "BokuMono.PrologueId"

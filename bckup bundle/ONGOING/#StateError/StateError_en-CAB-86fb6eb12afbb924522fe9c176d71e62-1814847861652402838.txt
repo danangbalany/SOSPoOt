@@ -1,0 +1,328 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "StateError_en"
+ 0 LocalizeTextData list
+  0 Array Array (63 items)
+   0 int size = 63
+[0]
+0 LocalizeTextData data
+0 unsigned int Id = 1
+0 unsigned int SubId = 0
+1 string Text = "Tas kamu penuh."
+[1]
+0 LocalizeTextData data
+0 unsigned int Id = 2
+0 unsigned int SubId = 0
+1 string Text = "Uang kamu tidak cukup."
+[2]
+0 LocalizeTextData data
+0 unsigned int Id = 3
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki cukup bahan."
+[3]
+0 LocalizeTextData data
+0 unsigned int Id = 4
+0 unsigned int SubId = 0
+1 string Text = "Bahan ini tidak dapat digunakan."
+[4]
+0 LocalizeTextData data
+0 unsigned int Id = 6
+0 unsigned int SubId = 0
+1 string Text = "Kamu kenyang! Kamu tidak bisa makan itu sekarang."
+[5]
+0 LocalizeTextData data
+0 unsigned int Id = 7
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memilih tempat yang disediakan untuk bayi hewan."
+[6]
+0 LocalizeTextData data
+0 unsigned int Id = 8
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada ruang di fasilitas yang dibutuhkan."
+[7]
+0 LocalizeTextData data
+0 unsigned int Id = 9
+0 unsigned int SubId = 0
+1 string Text = "Tidak cukup ruang untuk ibu dan anak."
+[8]
+0 LocalizeTextData data
+0 unsigned int Id = 10
+0 unsigned int SubId = 0
+1 string Text = "Seekor hewan sudah ada di sana."
+[9]
+0 LocalizeTextData data
+0 unsigned int Id = 11
+0 unsigned int SubId = 0
+1 string Text = "Hewan itu tidak cukup bersahabat denganmu."
+[10]
+0 LocalizeTextData data
+0 unsigned int Id = 12
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada ruang di fasilitas untuk bayi hewan."
+[11]
+0 LocalizeTextData data
+0 unsigned int Id = 13
+0 unsigned int SubId = 0
+1 string Text = "Seekor hewan hamil sudah ada di fasilitas."
+[12]
+0 LocalizeTextData data
+0 unsigned int Id = 14
+0 unsigned int SubId = 0
+1 string Text = "Hanya dapat diterapkan di gudang/kkamung besar."
+[13]
+0 LocalizeTextData data
+0 unsigned int Id = 15
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak punya cukup uang atau bahan."
+[14]
+0 LocalizeTextData data
+0 unsigned int Id = 17
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat memindahkannya ke sini."
+[15]
+0 LocalizeTextData data
+0 unsigned int Id = 18
+0 unsigned int SubId = 0
+1 string Text = "Tingkat keahlian kamu tidak cukup tinggi."
+[16]
+0 LocalizeTextData data
+0 unsigned int Id = 19
+0 unsigned int SubId = 0
+1 string Text = "Tempat pengiriman kamu penuh."
+[17]
+0 LocalizeTextData data
+0 unsigned int Id = 20
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada tempat untuk menyimpan item."
+[18]
+0 LocalizeTextData data
+0 unsigned int Id = 21
+0 unsigned int SubId = 0
+1 string Text = "Tempat umpan penuh."
+[19]
+0 LocalizeTextData data
+0 unsigned int Id = 22
+0 unsigned int SubId = 0
+1 string Text = "Materi lain sudah dimasukkan."
+[20]
+0 LocalizeTextData data
+0 unsigned int Id = 23
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat menyumbangkan barang ini."
+[21]
+0 LocalizeTextData data
+0 unsigned int Id = 24
+0 unsigned int SubId = 0
+1 string Text = "kamu telah menyumbangkan barang ini."
+[22]
+0 LocalizeTextData data
+0 unsigned int Id = 25
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada serangga atau binatang buas di dalam foto."
+[23]
+0 LocalizeTextData data
+0 unsigned int Id = 26
+0 unsigned int SubId = 0
+1 string Text = "kamu telah menyumbangkan foto jenis ini."
+[24]
+0 LocalizeTextData data
+0 unsigned int Id = 27
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki Poin Sprite yang cukup."
+[25]
+0 LocalizeTextData data
+0 unsigned int Id = 28
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat membawa Sprite Coin lagi."
+[26]
+0 LocalizeTextData data
+0 unsigned int Id = 30
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada ruang di dalam rumah."
+[27]
+0 LocalizeTextData data
+0 unsigned int Id = 31
+0 unsigned int SubId = 0
+1 string Text = "Fasilitas penuh. Hewan tidak dapat dikembalikan ke sini."
+[28]
+0 LocalizeTextData data
+0 unsigned int Id = 32
+0 unsigned int SubId = 0
+1 string Text = "Hanya dapat dipindahkan ke gudang/nkandang besar."
+[29]
+0 LocalizeTextData data
+0 unsigned int Id = 33
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memilih alat itu."
+[30]
+0 LocalizeTextData data
+0 unsigned int Id = 34
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat menempatkan item itu di dalam tas alat."
+[31]
+0 LocalizeTextData data
+0 unsigned int Id = 35
+0 unsigned int SubId = 0
+1 string Text = "Alat itu telah dikeluarkan."
+[32]
+0 LocalizeTextData data
+0 unsigned int Id = 36
+0 unsigned int SubId = 0
+1 string Text = "Item ini tidak dapat dipisah."
+[33]
+0 LocalizeTextData data
+0 unsigned int Id = 37
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat menerima blessings lagi."
+[34]
+0 LocalizeTextData data
+0 unsigned int Id = 39
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memilih hewan hamil."
+[35]
+0 LocalizeTextData data
+0 unsigned int Id = 40
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memilih bayi hewan."
+[36]
+0 LocalizeTextData data
+0 unsigned int Id = 41
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memilih hewan yang sedang bersarang."
+[37]
+0 LocalizeTextData data
+0 unsigned int Id = 42
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memilih tunggangan yang kamu kendarai."
+[38]
+0 LocalizeTextData data
+0 unsigned int Id = 43
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memilih hewan peliharaan yang kamu ajak jalan-jalan."
+[39]
+0 LocalizeTextData data
+0 unsigned int Id = 45
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat menyimpan sekarang."
+[40]
+0 LocalizeTextData data
+0 unsigned int Id = 46
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki cukup item yang ditentukan."
+[41]
+0 LocalizeTextData data
+0 unsigned int Id = 47
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki item yang ditentukan."
+[42]
+0 LocalizeTextData data
+0 unsigned int Id = 48
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki item yang berlaku."
+[43]
+0 LocalizeTextData data
+0 unsigned int Id = 49
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat mengirimkan item ini."
+[44]
+0 LocalizeTextData data
+0 unsigned int Id = 50
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada lagi ternak yang bisa dimiliki."
+[45]
+0 LocalizeTextData data
+0 unsigned int Id = 51
+0 unsigned int SubId = 0
+1 string Text = "Item ini tidak dapat dinilai."
+[46]
+0 LocalizeTextData data
+0 unsigned int Id = 52
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki cukup Sprite Coins."
+[47]
+0 LocalizeTextData data
+0 unsigned int Id = 53
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat mengubah mode saat memegang item."
+[48]
+0 LocalizeTextData data
+0 unsigned int Id = 54
+0 unsigned int SubId = 0
+1 string Text = "Tidak ditugaskan ke fasilitas."
+[49]
+0 LocalizeTextData data
+0 unsigned int Id = 55
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat memasukkan item ini ke dalam lemari es."
+[50]
+0 LocalizeTextData data
+0 unsigned int Id = 56
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada perubahan yang dibuat."
+[51]
+0 LocalizeTextData data
+0 unsigned int Id = 57
+0 unsigned int SubId = 0
+1 string Text = "Kotak item penuh."
+[52]
+0 LocalizeTextData data
+0 unsigned int Id = 58
+0 unsigned int SubId = 0
+1 string Text = "Kulkas sudah penuh."
+[53]
+0 LocalizeTextData data
+0 unsigned int Id = 59
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memuat semua hadiah di dalam tas."
+[54]
+0 LocalizeTextData data
+0 unsigned int Id = 60
+0 unsigned int SubId = 0
+1 string Text = "Silo penuh."
+[55]
+0 LocalizeTextData data
+0 unsigned int Id = 61
+0 unsigned int SubId = 0
+1 string Text = "Silase sudah penuh."
+[56]
+0 LocalizeTextData data
+0 unsigned int Id = 62
+0 unsigned int SubId = 0
+1 string Text = "Pompa hisap penuh."
+[57]
+0 LocalizeTextData data
+0 unsigned int Id = 63
+0 unsigned int SubId = 0
+1 string Text = "Pembuatnya penuh."
+[58]
+0 LocalizeTextData data
+0 unsigned int Id = 64
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memilih dari tingkat kualitas yang berbeda."
+[59]
+0 LocalizeTextData data
+0 unsigned int Id = 65
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat menjatuhkan item pada hari festival."
+[60]
+0 LocalizeTextData data
+0 unsigned int Id = 66
+0 unsigned int SubId = 0
+1 string Text = "Permintaan telah selesai."
+[61]
+0 LocalizeTextData data
+0 unsigned int Id = 67
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat mengatur perintah ke kunci ini."
+[62]
+0 LocalizeTextData data
+0 unsigned int Id = 68
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat menggunakan huruf/simbol itu."
+1 string IdEnumName = "BokuMono.StateErrorId"

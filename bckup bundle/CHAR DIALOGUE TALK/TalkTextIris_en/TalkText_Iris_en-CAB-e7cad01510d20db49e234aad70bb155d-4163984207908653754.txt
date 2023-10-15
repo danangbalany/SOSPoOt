@@ -1,0 +1,768 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "TalkText_Iris_en"
+ 0 LocalizeTextData list
+  0 Array Array (151 items)
+   0 int size = 151
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1001891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku suka mendengarkan cerita orang lain. Jika kamu punya\ncerita untuk diceritakan, Aku akan dengan senang hati mendengarkan\nmereka."
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1002891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku suka mendengarkan cerita orang lain. Jika kamu punya\ncerita untuk diceritakan, Aku akan dengan senang hati mendengarkan\nmereka."
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1003891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku memiliki seorang adik laki-laki yang seumuran\ndengan kamu. Jangan ragu untuk menganggap Aku sebagai kakak perempuan kamu,\njika kamu mau."
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1004891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku memiliki seorang adik laki-laki yang seumuran\ndengan kamu. Jangan ragu untuk menganggap Aku sebagai kakak perempuan kamu,\njika kamu mau."
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1005891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku cenderung memperhatikan ketika Aku berbicara dengan seseorang\nyang lebih muda dari Aku, tetapi Aku tidak merasa begitu sadar\ndari perbedaan di antara kita. Aku bertanya-tanya mengapa?"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1006891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku cenderung memperhatikan ketika Aku berbicara dengan seseorang\nyang lebih muda dari Aku, tetapi Aku tidak merasa begitu sadar\ndari perbedaan di antara kita. Aku bertanya-tanya mengapa?"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1007891
+     0 unsigned int SubId = 0
+     1 string Text = "Berbicara denganmu selalu menjadi puncak hariku.\nHm? kamu juga? Hee hee, kurasa itu membuat\n burung dari bulu."
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1008891
+     0 unsigned int SubId = 0
+     1 string Text = "Tidak ada yang pernah mencoba menipumu, kan? T-Tidak,\nbukan apa-apa. Kamu begitu jujur ​​dan percaya bahwa\nAku terkadang mengkhawatirkanmu."
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1009891
+     0 unsigned int SubId = 0
+     1 string Text = "Apakah kamu tertarik dengan fashion, <player>?\nAku ingin menyiapkan pakaian untuk kamu dan mendkamuni\nkamu, tapi... Apakah itu terlalu berlebihan?"
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1010891
+     0 unsigned int SubId = 0
+     1 string Text = "Kamu adalah teman yang tak tergantikan bagiku,\n<player>. Terima kasih karena selalu ada\nuntuk membantu."
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1011891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku selalu diam-diam berharap bahwa Aku dapat mengunjungi\npertanian kamu suatu hari nanti, tetapi Aku tidak pernah berpikir keinginan Aku\nakan dikabulkan sedemikian rupa. Aku senang."
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1012891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku selalu diam-diam berharap bahwa Aku dapat mengunjungi\npertanian kamu suatu hari nanti, tetapi Aku tidak pernah berpikir keinginan Aku\nakan dikabulkan sedemikian rupa. Aku senang."
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1013891
+     0 unsigned int SubId = 0
+     1 string Text = "Mereka mengatakan kamu tidak benar-benar mengenal seseorang sampai kamu tinggal\nbersama mereka, tetapi untuk berpikir ada begitu banyak tentang\nkamu, Aku masih tidak tahu... Kehidupan pernikahan menyenangkan."
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1014891
+     0 unsigned int SubId = 0
+     1 string Text = "Mereka mengatakan kamu tidak benar-benar mengenal seseorang sampai kamu tinggal\nbersama mereka, tetapi untuk berpikir ada begitu banyak tentang\nkamu, Aku masih tidak tahu... Kehidupan pernikahan menyenangkan."
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1015891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku mencintaimu, <player>. Setiap hari\nAku merasa sangat beruntung menjadi istrimu."
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1006892
+     0 unsigned int SubId = 0
+     1 string Text = "Aku belum pernah seterbuka ini dengan seseorang sebelumnya.\nSudah banyak yang terbiasa, tetapi Aku merasa harus melakukan\nsebuah upaya yang sungguh-sungguh."
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1007892
+     0 unsigned int SubId = 0
+     1 string Text = "Aku belum pernah seterbuka ini dengan seseorang sebelumnya.\nSudah banyak yang terbiasa, tetapi Aku merasa harus melakukan\nsebuah upaya yang sungguh-sungguh."
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1008892
+     0 unsigned int SubId = 0
+     1 string Text = "Aku merasa sangat menggemaskan bahwa setiap kali kamu menemukan\nAku, kamu segera bergegas untuk menyapa.\nkamu selalu terlihat sangat senang bertemu dengan Aku."
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1009892
+     0 unsigned int SubId = 0
+     1 string Text = "Aku merasa sangat menggemaskan bahwa setiap kali kamu menemukan\nAku, kamu segera bergegas untuk menyapa.\nkamu selalu terlihat sangat senang bertemu dengan Aku."
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1010892
+     0 unsigned int SubId = 0
+     1 string Text = "Saat aku menghabiskan waktu bersamamu, aku akhirnya ingin\nmemegangmu untuk diriku sendiri. Maukah kau tinggal\nbersamaku lebih lama lagi?"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1010893
+     0 unsigned int SubId = 0
+     1 string Text = "Saat aku menghabiskan waktu bersamamu, aku akhirnya ingin\nmemegangmu untuk diriku sendiri. Maukah kau tinggal\nbersamaku lebih lama lagi?"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1201891
+     0 unsigned int SubId = 0
+     1 string Text = "Hee hee, aku merasa sangat beruntung menjadi istrimu. Sekarang setelah\nkita menikah, kita akan memiliki semua waktu di dunia\nuntuk mengenal satu sama lain lebih baik."
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1202891
+     0 unsigned int SubId = 0
+     1 string Text = "Bagaimana kehidupan pengantin baru memperlakukan kamu? Setelah semuanya\nmengatur, mengapa tidak menceritakan semuanya kepada Aku sambil minum teh\n?"
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1401891
+     0 unsigned int SubId = 0
+     1 string Text = "Selamat atas anggota baru keluarga kamu.\nOh? Nama bayi kamu <nama anak>?\nNama yang luar biasa."
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1402891
+     0 unsigned int SubId = 0
+     1 string Text = "Mari kita membangun keluarga bahagia bersama: kamu,\n<nama anak>, dan aku."
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1403891
+     0 unsigned int SubId = 0
+     1 string Text = "Setiap kali Aku mendengar tentang anak kamu, itu mengingatkan Aku\nsaat adik Aku masih kecil. Mereka semua\na sedikit nakal pada usia itu."
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1404891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku menulis buku anak-anak untuk pertama kalinya, berpikir\nmungkin akan menyenangkan untuk dibacakan kepada <nama anak>. Aku harap\n<genderchild="he","she"> menikmatinya."
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1405891
+     0 unsigned int SubId = 0
+     1 string Text = "Bagaimana kabar <childname>? Hee hee, selama\n<genderchild="he","she"> tumbuh kuat dan sehat."
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1406891
+     0 unsigned int SubId = 0
+     1 string Text = "<childname> benar-benar yang paling menggemaskan. Aku menemukan\ndiri Aku jatuh cinta dengan <genderchild="him","her"> lagi sebagai <genderchild="he","she">\ngberkembang ."
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2401891
+     0 unsigned int SubId = 0
+     1 string Text = "Alangkah indahnya langit biru. Aku merasa seolah-olah\ninspirasi bisa datang kapan saja."
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2402891
+     0 unsigned int SubId = 0
+     1 string Text = "Hari ini sangat tenang. Derai hujan\nmenghilangkan suara-suara lain."
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2403891
+     0 unsigned int SubId = 0
+     1 string Text = "Ya ampun, kamu terlihat sangat Akung berlarian di\ncuaca seperti ini sampai-sampai kupikir kamu peri salju.\nAku hanya berckamu. Hee hee!"
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2404891
+     0 unsigned int SubId = 0
+     1 string Text = "Anginnya...tidak terlalu baik untuk rambutku pada hari-hari seperti\nini. Tolong jangan menatapnya. Ini sangat memalukan."
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2405891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku senang mendengar bahwa pertanian berhasil melewati\nbadai kemarin baik-baik saja."
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2406891
+     0 unsigned int SubId = 0
+     1 string Text = "Ya ampun, pipimu benar-benar terlihat pucat karena\ndingin. Maukah kamu minum minuman hangat?"
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2407891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku tidak yakin apakah itu karena badai salju kemarin,\ntapi hari ini sangat dingin—ACHOO! Oh, Akung.\nMaaf kamu harus melihatnya."
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2501891
+     0 unsigned int SubId = 0
+     1 string Text = "Musim semi ada di mana-mana. Ini adalah\nmusim yang menyenangkan."
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2502891
+     0 unsigned int SubId = 0
+     1 string Text = "Panas ini benar-benar sesuatu, bukan? Pakaianku\ntidak akan berhenti menempel padaku. Ugh..."
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2503891
+     0 unsigned int SubId = 0
+     1 string Text = "Tahun ini adalah waktu yang tepat untuk membaca dengan\nminuman panas di tangan. Aku memperkirakan beberapa malam akan dihabiskan\nuntuk mengejar backlog sastra Aku di masa depan..."
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2504891
+     0 unsigned int SubId = 0
+     1 string Text = "Saat Aku sedang menulis, tangan Aku mati rasa dan Aku\ndipaksa untuk istirahat... Menjadi seorang penulis datang dengan\n kesulitan sendiri musim ini."
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2601891
+     0 unsigned int SubId = 0
+     1 string Text = "Selamat pagi. Sangat menyenangkan melihat wajahmu\ntersenyum sepagi ini."
+   [41]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2602891
+     0 unsigned int SubId = 0
+     1 string Text = "Seberapa pengorbanan pertanian mu? Berhati-hatilah untuk tidak\nmengambil lebih dari yang bisa kamu tangani."
+   [42]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2603891
+     0 unsigned int SubId = 0
+     1 string Text = "Satu hari berlalu begitu cepat.\nApakah kamu sudah menyelesaikan semuanya?"
+   [43]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2601892
+     0 unsigned int SubId = 0
+     1 string Text = "Udara pagi sangat menyegarkan."
+   [44]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2602892
+     0 unsigned int SubId = 0
+     1 string Text = "Aku ingin tahu apakah sesuatu yang tidak terduga mungkin terjadi\nhari ini... Apa? kamu tidak pernah tahu."
+   [45]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2603892
+     0 unsigned int SubId = 0
+     1 string Text = "Terbaik untuk kulit kamu jika kamu tidak begadang\namalam. Hanya sesuatu yang perlu diingat, itu saja."
+   [46]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2701891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku seorang pecinta teh. Aku minum secangkir teh setiap hari. Aku juga agak\nkhusus tentang set teh Aku."
+   [47]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2702891
+     0 unsigned int SubId = 0
+     1 string Text = "Membaca bukanlah hobi dan lebih merupakan\nbagian hidup Aku yang tak ternilai. Tanpa buku yang bagus untuk dibaca, Aku merasa\n rugi sebagai petani tanpa tanaman dan ternak."
+   [48]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2703891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku menikmati kota tempat Aku tinggal sebelumnya, tetapi Aku juga sangat\nnyaman di sini."
+   [49]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2704891
+     0 unsigned int SubId = 0
+     1 string Text = "Bakat Giorgio dalam bertani terkenal di dunia\nover. Aku pikir kamu dan dia akan cocok."
+   [50]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2705891
+     0 unsigned int SubId = 0
+     1 string Text = "Orang terkadang tidak yakin apa yang harus dilakukan \ndari Marian, tetapi dia adalah dokter kelas satu dan salah satu \norang paling penyayang yang pernah kamu temui."
+   [51]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2801891
+     0 unsigned int SubId = 0
+     1 string Text = "Ya ampun, kamu sangat menawan."
+   [52]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2802891
+     0 unsigned int SubId = 0
+     1 string Text = "Nama kamu <player>?\nDan kamu seorang petani? Begitu."
+   [53]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2803891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku Iris. Aku bekerja sebagai... Hee hee, baiklah, Aku akan menyerahkannya\nke imajinasi kamu."
+   [54]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2901891
+     0 unsigned int SubId = 0
+     1 string Text = "Oh, ya. Ini hari ulang tahunmu. Selamat Ulang Tahun!"
+   [55]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2902891
+     0 unsigned int SubId = 0
+     1 string Text = "Ini mungkin terdengar basi, tapi Aku harap kamu mendapatkan\na hari yang fantastis hari ini."
+   [56]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3001891
+     0 unsigned int SubId = 0
+     1 string Text = "Hari ini adalah hari ulang tahunmu, seingatku. Selamat Ulang Tahun!"
+   [57]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3002891
+     0 unsigned int SubId = 0
+     1 string Text = "Hee hee, tentu saja aku ingat. Bagaimanapun juga, kamu yang sedang kami bicarakan."
+   [58]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3003891
+     0 unsigned int SubId = 0
+     1 string Text = "kamu dipersilakan untuk minum teh bersama Aku untuk\nmerayakan. Aku akan mentraktir kamu dengan minuman khusus Aku."
+   [59]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3501891
+     0 unsigned int SubId = 0
+     1 string Text = "Hadiah yang sangat indah. Aku sangat senang.\nTerima kasih banyak."
+   [60]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3502891
+     0 unsigned int SubId = 0
+     1 string Text = "Hee hee, terima kasih. Aku menyukainya."
+   [61]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3503891
+     0 unsigned int SubId = 0
+     1 string Text = "Oh, apakah ini untuk Aku? Terima kasih. kamu sangat\nbaik."
+   [62]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3504891
+     0 unsigned int SubId = 0
+     1 string Text = "kamu ingin Aku memilikinya? Terima kasih."
+   [63]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3505891
+     0 unsigned int SubId = 0
+     1 string Text = "Kamu berusaha keras untuk memberiku hadiah\nulang tahun? Aku tersentuh. Terima kasih."
+   [64]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3601891
+     0 unsigned int SubId = 0
+     1 string Text = "<player>? Apakah ini berarti...?"
+   [65]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3602891
+     0 unsigned int SubId = 0
+     1 string Text = "Tunggu sebentar! Aku kesulitan memahami\nini. Bisakah kita pergi ke tempat lain untuk membahas ini?"
+   [66]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3701891
+     0 unsigned int SubId = 0
+     1 string Text = "Apa?! Kamu benar-benar serius tentang ini?"
+   [67]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3702891
+     0 unsigned int SubId = 0
+     1 string Text = "B-Baiklah. Bisakah kamu memberi Aku waktu\nuntuk menenangkan diri?"
+   [68]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6101891
+     0 unsigned int SubId = 0
+     1 string Text = "kamu baik sekali, tetapi Aku telah menerima hadiah dari kamu\nhari ini. Aku tidak mungkin menerima hadiah yang lain.\nMungkin besok?"
+   [69]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6102891
+     0 unsigned int SubId = 0
+     1 string Text = "Ya ampun, sungguh liontin yang menawan. Apakah itu hadiah untuk\nseseorang, mungkin? Aku yakin mereka akan senang\nmenerima perhiasan yang begitu indah."
+   [70]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6103891
+     0 unsigned int SubId = 0
+     1 string Text = "Bisakah kamu memberi Aku waktu untuk memikirkannya? Maaf, Aku tidak bisa menghilangkan perasaan bahwa\n...ada sesuatu yang kurang di antara kita."
+   [71]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6104891
+     0 unsigned int SubId = 0
+     1 string Text = "Ekspresi kamu mengatakan bahwa kamu ingin melakukan\ndiskusi penting, tapi...Aku khawatir hari ini mungkin\nbukan hari yang baik. Mungkin lain kali?"
+   [72]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6105891
+     0 unsigned int SubId = 0
+     1 string Text = "Tentu saja aku ingin menikahimu, tapi...rumahmu\nmasih cukup kecil, bukan? Mungkin kamu harus memperluas\nit sedikit sebelum kita mengambil langkah besar?"
+   [73]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6102892
+     0 unsigned int SubId = 0
+     1 string Text = "Apakah kamu tahu apa yang dilambangkan oleh bulu biru?\nIni adalah barang yang sangat berharga. kamu harus menyimpannya dengan aman untuk\na momen spesial."
+   [74]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5001891
+     0 unsigned int SubId = 0
+     1 string Text = "Halo, <player>...hm? Sepertinya\nada noda di pakaianmu. Hee hee,\napakah kamu tidak memperhatikan? ...Sudah. ​​Semua sudah diurus ."
+   [75]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5002891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku senang berjalan-jalan sendiri, tetapi\nmenjelajah dengan seseorang juga tidak terlalu buruk. Hee\nhee, apakah kamu menawarkan diri untuk menemani Aku?"
+   [76]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5003891
+     0 unsigned int SubId = 0
+     1 string Text = "Jadi, <player>, adakah\sebuah ankedot baru dan menarik untuk dibagikan? Aku yakin kamu tahu, tapi Aku\nmenyukai cerita yang bagus. Aku akan menunggu beberapa cerita kamu."
+   [77]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5004891
+     0 unsigned int SubId = 0
+     1 string Text = "Sungguh menakjubkan betapa banyak usaha yang kamu lakukan\ndalam segala hal. Aku pikir itu luar biasa—penting\nuntuk sungguh-sungguh."
+   [78]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5005891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku suka melihat pasang surutnya orang banyak\nyang lewat. Aku sangat tertarik untuk berpikir bahwa setiap\ndari orang-orang itu punya cerita untuk diceritakan."
+   [79]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5006891
+     0 unsigned int SubId = 0
+     1 string Text = "Matamu selalu bersinar,\n<player>. Kenapa, aku bisa lupa waktu hanya\nmenatapmu."
+   [80]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5007891
+     0 unsigned int SubId = 0
+     1 string Text = "Saat aku melihatmu, aku teringat adikku\nAdikku, Mistel. Kuharap dia baik-baik saja..."
+   [81]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5008891
+     0 unsigned int SubId = 0
+     1 string Text = "Kamu sangat ekspresif saat menceritakan\nceritamu, <player>. Sangat menawan sehingga aku tidak bisa\nmendengarkannya."
+   [82]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5009891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku tidak yakin apakah Aku dapat membantu kamu, tetapi jika kamu\ntidak pernah membutuhkan sesuatu dari Aku, cukup ucapkan\nkata. Aku akan melakukan segala daya untuk membantu."
+   [83]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5010891
+     0 unsigned int SubId = 0
+     1 string Text = "kamu harus menjadi inspirasi Aku, <player>. kamu menginspirasi\nAku untuk melihat dunia dengan cara yang tidak pernah Aku\npertimbangkan sebelumnya."
+   [84]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5011891
+     0 unsigned int SubId = 0
+     1 string Text = "Setelah kamu dan aku menikah, aku mengirim surat kepada\nsaudaraku, Mistel, untuk memberitahukan situasinya. Dia\nmenjawab, "Semoga kalian berdua hidup bahagia selamanya.""
+   [85]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5012891
+     0 unsigned int SubId = 0
+     1 string Text = "Akhir-akhir ini, Aku merasa harus mengakhiri\nnovel Aku dengan bahagia. Dongeng Aku yang diakhiri dengan\nkamu tampaknya telah membuat Aku terinspirasi dengan gembira."
+   [86]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5013891
+     0 unsigned int SubId = 0
+     1 string Text = "Apa pendapatmu tentang novel tentang pensiunan pahlawan\nyang membuat <genderplayer="his","her"> tinggal di pertanian? ...Berdasarkan siapa\nitu, kamu bertanya? Hee hee , siapa sebenarnya?"
+   [87]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5014891
+     0 unsigned int SubId = 0
+     1 string Text = "Setiap hari yang kita habiskan bersama membawa\ncerita baru untuk diceritakan. Aku menulis dan menulis, tetapi bahkan Aku tidak dapat mengikuti\nsumber inspirasi ini."
+   [88]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5015891
+     0 unsigned int SubId = 0
+     1 string Text = "<player>... Tidak peduli apa yang akan terjadi di masa depan,\nkita akan selalu menjadi keluarga. Aku bersumpah untuk tetap berada di sisi\nmu, dan aku berniat untuk menepati janji itu."
+   [89]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5016891
+     0 unsigned int SubId = 0
+     1 string Text = "<player>... Aku tidak tahu bahwa sebuah nama bisa\nterdengar begitu manis. Bisakah kamu memberi tahu seberapa besar itu menggerakkan\nhati Aku?"
+   [90]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5017891
+     0 unsigned int SubId = 0
+     1 string Text = "Masih banyak lagi yang belum Aku ketahui tentang kamu,\n<player>. Warna favorit kamu, tempat\nfavorit kamu... Aku ingin tahu setiap detail kecilnya."
+   [91]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5018891
+     0 unsigned int SubId = 0
+     1 string Text = "Ini adalah hal yang paling aneh... Setiap kali aku melihatmu\nmengobrol dengan orang lain, aku mulai merasa kesepian\ntiba-tiba. Menurutmu kenapa begitu?"
+   [92]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5019891
+     0 unsigned int SubId = 0
+     1 string Text = "Cerita mengalir dari hatiku, seperti air mancur yang\nairnya diwarnai oleh pengalaman bertahun-tahun. Dan sekarang\nsekarang, air mancur itu telah mewarnai warnamu."
+   [93]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5020891
+     0 unsigned int SubId = 0
+     1 string Text = "Manusia adalah makhluk yang rapuh, bukan? Kita hanya\ntidak bisa hidup tanpa ditemani orang lain. Aku menyadari\nbahwa setelah bertemu denganmu, tapi... aku lebih bahagia sekarang."
+   [94]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5021891
+     0 unsigned int SubId = 0
+     1 string Text = "Bertemu dengan kamu telah membuka mata Aku ke dunia yang tidak pernah\nbisa Aku lihat sebaliknya. Aku merasa\nAku bisa menulis lebih banyak sekarang."
+   [95]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5001892
+     0 unsigned int SubId = 0
+     1 string Text = "Aku tidak tahu mengapa, tapi ada sesuatu\nyang sangat mendebarkan tentang memulai hidup kembali di negeri baru,\ndikelilingi oleh orang-orang baru..."
+   [96]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5002892
+     0 unsigned int SubId = 0
+     1 string Text = "Area ini mungkin sepi dan tidak ada masalah, tapi ada\nbanyak pemkamungan alam yang indah di sekitar sini. Ini\nsempurna untuk bertukar pikiran tentang plot baru."
+   [97]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5003892
+     0 unsigned int SubId = 0
+     1 string Text = "Hee hee, apa kau penasaran denganku? Yah, aku\nsenang mendengarnya. Sejujurnya aku juga penasaran untuk\nmengetahui lebih banyak tentangmu, <player>."
+   [98]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5004892
+     0 unsigned int SubId = 0
+     1 string Text = "kamu ingin tahu apa makanan favorit Aku? Hm...\nSecara pribadi, Aku merasa sup lebih enak daripada kebanyakan\nhidangan lainnya. Aku juga menyukai makanan merah dan asam."
+   [99]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5005892
+     0 unsigned int SubId = 0
+     1 string Text = "Tergantung pada perasaan Aku hari itu, Aku mengganti\nparfum yang Aku gunakan agar sesuai dengan suasana hati Aku. Mengapa tidak mencobanya sendiri kapan-kapan?"
+   [100]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5006892
+     0 unsigned int SubId = 0
+     1 string Text = "Bekerja di pertanian pasti sulit, kurasa?\nLepuh di tanganmu tampaknya menunjukkan hal yang sama. Cobalah\nuntuk tidak terluka di luar sana, oke?"
+   [101]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5007892
+     0 unsigned int SubId = 0
+     1 string Text = "Kamu adalah orang yang sangat perhatian, <player>.\nKamu telah menunjukkan begitu banyak kehangatan dan kebaikan kepadaku.\nHari-hari ini, aku tidak yakin apa yang akan kulakukan tanpanya."
+   [102]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5008892
+     0 unsigned int SubId = 0
+     1 string Text = "Saat Aku sedang menulis, menyimpan minuman di meja Aku\nadalah suatu keharusan. Minuman panas dan menenangkan menjernihkan pikiran."
+   [103]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5009892
+     0 unsigned int SubId = 0
+     1 string Text = "Peternakan milikmu itu sepertinya membuatmu tetap waspada,\nbukan, <player>? Harus kuakui,\netos kerjamu cukup mengagumkan."
+   [104]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5010892
+     0 unsigned int SubId = 0
+     1 string Text = "Mungkin menyenangkan untuk menulis novel yang menampilkan kamu sebagai\nprotagonis, bertani selama bertahun-tahun. Aku yakin\nkisah musim kamu akan cukup menarik."
+   [105]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5011892
+     0 unsigned int SubId = 0
+     1 string Text = "Bahkan aku tahu bahwa senyumku menjadi lebih tulus\nakhir-akhir ini. Dan sekarang aku bersamamu, aku punya banyak\nkesempatan untuk terus tersenyum."
+   [106]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5012892
+     0 unsigned int SubId = 0
+     1 string Text = "kamu ingin tahu apakah Aku merasa tidak nyaman tinggal di\npertanian? Ya ampun, tidak. Justru sebaliknya,\nsebenarnya. Setiap hari sangat menyenangkan."
+   [107]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5013892
+     0 unsigned int SubId = 0
+     1 string Text = "Aku di sini untuk mendukung kamu, <player>. Jika kamu\nmembutuhkan sesuatu dari Aku, betapapun sepelenya, Aku\nberjanji kepada kamu bahwa Aku tidak akan pernah terlalu jauh."
+   [108]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5014892
+     0 unsigned int SubId = 0
+     1 string Text = "Cintaku padamu semakin kuat dari hari ke hari... Aku ingin tahu seberapa dalam kasih Akung kita satu sama lain nantinya."
+   [109]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5015892
+     0 unsigned int SubId = 0
+     1 string Text = "Novel Aku berikutnya adalah puncak dari semua kegembiraan dan cinta\nAku rasakan sejak hari Aku bertemu kamu. Aku ingin kita membaca\nit bersama-sama, kapan pun kita memiliki kesempatan."
+   [110]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5016892
+     0 unsigned int SubId = 0
+     1 string Text = "Akhir-akhir ini, hidupku tampak seperti semacam\nmimpi yang membahagiakan. Hm? Kamu ingin tahu kenapa? Karena aku\nbisa berada di sisimu, tentu saja."
+   [111]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5017892
+     0 unsigned int SubId = 0
+     1 string Text = "Selain sebagai kakak, banyak orang\nbergantung pada Aku, jadi Aku tidak pernah benar-benar suka diperhatikan\ndiperhatikan... Yah, sampai sekarang."
+   [112]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5018892
+     0 unsigned int SubId = 0
+     1 string Text = "Giorgio memberiku bunga yang paling indah\n kemarin sebagai hadiah. Mungkin itu caranya\nmengucapkan selamat padamu dan aku atas hubungan kita?"
+   [113]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5019892
+     0 unsigned int SubId = 0
+     1 string Text = "Oh, tidak, <player>, jangan menatapku seperti itu.\nKamu akan membuatku tersipu! ...Tidak, tidak apa-apa.\nBerbalik ke sini lagi, kan?"
+   [114]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5020892
+     0 unsigned int SubId = 0
+     1 string Text = "Kamu adalah kehadiran yang begitu besar dalam hidupku sehingga hatiku\npenuh dengan pikiran tentangmu. Ini adalah perasaan\nhangat dan menenangkan yang luar biasa."
+   [115]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5021892
+     0 unsigned int SubId = 0
+     1 string Text = "Siapa yang mengira aku akan tinggal di\npertanian, dari semua tempat? Hee hee, takdir adalah sesuatu\nyang misterius."
+   [116]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5101891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku pernah mendengar bahwa kamu menggunakan kapak dengan liar,\nmenebang pohon apa pun yang menghalangi jalan kamu.\nkamu pasti cukup kuat."
+   [117]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5102891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku mendengar kamu memiliki bakat untuk memotong rumput.\nKedengarannya kamu adalah petani yang serba bisa.\nkamu dapat melakukan sedikit dari segalanya."
+   [118]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5103891
+     0 unsigned int SubId = 0
+     1 string Text = "Seekor burung kecil memberi tahu Aku bahwa kamu ahli dalam menemukan\npermata yang indah, bukan? Aku tertarik... Bolehkah Aku\nmelihat keterampilan kamu saat kamu pergi menambang?"
+   [119]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5104891
+     0 unsigned int SubId = 0
+     1 string Text = "Rumor menyebar seperti api bahwa kamu telah\nmenemukan harta karun di kolam. Kedengarannya seperti\nsesuatu langsung dari novel petualangan."
+   [120]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5105891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku diberitahu bahwa kamu adalah pemancing yang hebat. Aku sendiri memiliki sedikit\npengalaman memancing, jadi Aku ingin mendengar lebih banyak\ntentang eksploitasi bahari kamu."
+   [121]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5106891
+     0 unsigned int SubId = 0
+     1 string Text = "Giorgio memberi tahu Aku bahwa sayuran yang kamu tanam memiliki\nkualitas luar biasa, dan percayalah, dia tidak hanya\nmemuji tanaman tua mana pun."
+   [122]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5107891
+     0 unsigned int SubId = 0
+     1 string Text = "Buah-buahan yang kamu tanam tidak bernoda, dari\nrasanya hingga aromanya yang segar. Semoga semua\nimpian norcharding kamu terus membuahkan hasil."
+   [123]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5108891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku dengar jamur yang kamu budidayakan enak.\nBenarkah? Aku mungkin tidak menyukainya, tapi mungkin Aku\nharus mencobanya..."
+   [124]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5109891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku mencoba mencari cara terbaik untuk mendeskripsikan\nmadu yang kamu tanam. "Madu luar biasa yang\ngmendengar seperti matahari pagi," mungkin. "
+   [125]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5110891
+     0 unsigned int SubId = 0
+     1 string Text = "Sebut saja itu intuisi seorang wanita, tapi ada sesuatu yang memberitahuku bahwa\nhewan di peternakanmu hanya memujamu. Benarkah?"
+   [126]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5111891
+     0 unsigned int SubId = 0
+     1 string Text = "Ada desas-desus yang beredar, mengatakan bahwa siapa pun yang\nmencoba masakanmu tidak akan bisa berhenti tersenyum. Apakah\nkamu menggunakan semacam sihir, ya?"
+   [127]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5112891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku mendengar bahwa orang-orang tidak dapat menahan diri untuk tidak waspada\ndi sekitar kamu. Aku telah menemukan bahwa itu benar,\nbaiklah. kamu adalah pendengar yang sangat baik."
+   [128]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5901891
+     0 unsigned int SubId = 0
+     1 string Text = "Oh, selamat pagi, <player>. kamu sudah bangun\nhampir—seperti seharusnya seorang petani, Aku kira."
+   [129]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5902891
+     0 unsigned int SubId = 0
+     1 string Text = "Halo, <player>. Hee hee, kamu terlihat sangat\nsenang dengan dirimu hari ini. Apakah sesuatu yang baik\nterjadi pagi ini?"
+   [130]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5903891
+     0 unsigned int SubId = 0
+     1 string Text = "Ya ampun, kamu masih bekerja? Nah, bukankah kamu yang\nproduktif."
+   [131]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5901892
+     0 unsigned int SubId = 0
+     1 string Text = "Aku biasa memulai hari dengan secangkir\nteh hangat. Tidak hanya menenangkan, tetapi juga membangunkan Aku\nup."
+   [132]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5902892
+     0 unsigned int SubId = 0
+     1 string Text = "Mungkin Aku bisa memasukkannya, dan membuatnya\nmelambangkannya... Oh! Maaf, <player>. Aku sangat\nterlibat dalam catatan cerita Aku sehingga Aku hampir tidak memperhatikan kamu."
+   [133]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5903892
+     0 unsigned int SubId = 0
+     1 string Text = "Selamat malam, <player>. Sepertinya kamu\nbekerja sampai larut lagi. Masih ada beberapa pekerjaan pertanian\n yang harus diselesaikan?"
+   [134]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5901893
+     0 unsigned int SubId = 0
+     1 string Text = "Selamat pagi, <player>. Ya ampun, kamu masih\nsepertinya setengah tertidur. Apakah kamu cukup\nistirahat? Kamu tidak boleh terlalu memaksakan diri."
+   [135]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5902893
+     0 unsigned int SubId = 0
+     1 string Text = "Sibuk lagi, <player>? Jangan lupa istirahat\nsekarang. Aku ingin duduk dan mengobrol\ndengan kamu jika ada waktu."
+   [136]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5903893
+     0 unsigned int SubId = 0
+     1 string Text = "Tolong, sebentar lagi... Jangan paksa aku mengatakannya.\nKamu tahu apa yang aku inginkan."
+   [137]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5901894
+     0 unsigned int SubId = 0
+     1 string Text = "Aku senang melihat kamu pagi ini,\n<player>. Awal yang indah untuk hari Aku."
+   [138]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5902894
+     0 unsigned int SubId = 0
+     1 string Text = "Ya ampun, apa yang kamu lakukan, terburu-buru seperti itu?\n...Apa? Kamu hanya ingin bertemu denganku?\nOh, <player>, kamu terlalu manis."
+   [139]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5903894
+     0 unsigned int SubId = 0
+     1 string Text = "Waktu malam ada untuk kita bersama. Kamu akan begadang\ndan mengobrol denganku, kan? ...Hee hee, hanya\nbersantai. Jangan ragu untuk beristirahat jika kamu membutuhkannya."
+   [140]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5901895
+     0 unsigned int SubId = 0
+     1 string Text = "Selamat pagi, <player>. Merasa segar kembali?\nAku harap kamu memiliki hari yang seindah yang kamu\nare."
+   [141]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5902895
+     0 unsigned int SubId = 0
+     1 string Text = "Kamu tampak sangat sibuk, namun kamu meluangkan waktu untuk\ndatang dan mengobrol denganku. Aku suka betapa perhatiannya kamu\na, <player>."
+   [142]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5903895
+     0 unsigned int SubId = 0
+     1 string Text = "Satu hari lagi kerja keras, <player>. Ini\nsuatu hal yang sederhana, mengalami kesenangan bekerja\nbersamamu, namun entah bagaimana itu sangat berharga bagiku."
+   [143]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5901896
+     0 unsigned int SubId = 0
+     1 string Text = "Apakah kamu tidur nyenyak semalam? ...Hm? Kamu bermimpi\ntentang aku? Ya ampun, kebetulan sekali. Aku juga memimpikan\nkamu."
+   [144]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5902896
+     0 unsigned int SubId = 0
+     1 string Text = "Oh, tunggu. Kamu masih punya sedikit sarapan di\nmulutmu. Jangan bilang kamu tidak memperhatikan? Oh,\n<player>... Kamu benar-benar menggemaskan ."
+   [145]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5903896
+     0 unsigned int SubId = 0
+     1 string Text = "Bisakah kita meluangkan waktu untuk mengobrol malam ini? Aku ingin\nbicara tentang hari ini, besok, masa depan kita...dan sedikit\ndari segalanya, kurasa."
+   [146]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6001891
+     0 unsigned int SubId = 0
+     1 string Text = "Aku sering makan di restoran Raeger di Oak Tree\nTown. Saudara Aku Mistel dan Aku senang pergi ke sana\nketika kami memiliki waktu luang yang mewah."
+   [147]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6002891
+     0 unsigned int SubId = 0
+     1 string Text = "Marian memiliki rasa estetika yang luar biasa. Dia selalu\nsadar akan keindahan dalam segala hal yang dia lakukan. Aku bisa\nbelajar satu atau dua hal darinya."
+   [148]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6003891
+     0 unsigned int SubId = 0
+     1 string Text = "Terracotta Oasis sangat indah. Menatap ke dalam\nperairannya yang jernih memotivasi Aku untuk menulis rencana untuk segala macam\ncerita baru."
+   [149]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6004891
+     0 unsigned int SubId = 0
+     1 string Text = "Mereka menjual berbagai macam barang di oasis\nbazaar. Adik laki-laki Aku Mistel menjalankan toko\nbarang antik, jadi Aku yakin dia akan menyukainya sama seperti Aku."
+   [150]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6005891
+     0 unsigned int SubId = 0
+     1 string Text = "Apakah Giorgio sudah memberitahumu tentang tunangannya? Kami belum\nbertemu, tapi Giorgio memberi tahu kami berbagai macam cerita. Kamu bisa\nmengatakan bahwa mereka berdua benar-benar jatuh cinta."
+ 1 string IdEnumName = ""

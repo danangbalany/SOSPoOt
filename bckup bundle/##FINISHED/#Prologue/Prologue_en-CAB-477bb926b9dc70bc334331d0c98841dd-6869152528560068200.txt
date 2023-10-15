@@ -1,0 +1,163 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "Prologue_en"
+ 0 LocalizeTextData list
+  0 Array Array (30 items)
+   0 int size = 30
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900010500
+     0 unsigned int SubId = 0
+     1 string Text = "Dulu, kakekku dan teman-temannya\nmemulai jalan setapak dan mendirikan pemukiman baru.\nMereka menyebutnya Olive Town/Kota Zaitun."
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900010600
+     0 unsigned int SubId = 0
+     1 string Text = "Ketika aku masih kecil, aku lebih suka mendengarkan cerita \ntentang hari merintisnya kakekku dari apa pun."
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900010700
+     0 unsigned int SubId = 0
+     1 string Text = "Sejak itu, adalah impianku untuk tinggal di Olive Town,\nseperti yang dia lakukan."
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900010800
+     0 unsigned int SubId = 0
+     1 string Teks = "[DEPAN: OLIVE TOWN / KOTA ZAITUN]"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020100
+     0 unsigned int Id = 1011
+     1 string Text = "Dan siapa kamu? Apakah kamu datang jauh-jauh\nke sini dengan Motor itu?"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020200
+     0 unsigned int SubId = 0
+     1 string Teks = "Ya aku melakukannya!"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020210
+     0 unsigned int SubId = 0
+     1 string Teks = "Tidak."
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020300
+     0 unsigned int Id = 1011
+     1 string Text = "Yah, Yah, kamu tidak boleh berbohong! aku tahu kalau kamu melakukannya."
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020400
+     0 unsigned int Id = 1011
+     1 string Text = "Yah, itu pasti perjalanan yang sulit.\nMotor malangmu menceritakan kisahnya sendiri."
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020500
+     0 unsigned int Id = 1011
+     1 string Text = "Ah, kamu tak perlu khawatir tentang itu. aku dapat mengatur\nuntuk perbaikannya."
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020600
+     0 unsigned int Id = 1011
+     1 string Text = "aku akan membawanya ke seorang pria bernama Clemens, yang menjalankan\ntoko alat2 kami. kamu dapat mengambilnya nanti setelah dia\nmenyelesaikannya."
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020700
+     0 unsigned int Id = 1011
+     1 string Text = "Eh, ngomong-ngomong... Bolehkah aku tahu nama mu?"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020800
+     0 unsigned int Id = 1011
+     1 string Text = "Begitu. Jadi nama kamu <player>, kan?\nKedengarannya sangat familiar.\nDi mana aku pernah mendengar nama itu sebelumnya...?"
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900020900
+     0 unsigned int Id = 1011
+     1 string Text = "Oh! Astaga! Ulang tahunmu, uh...apa\nini menurutku?!"
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021000
+     0 unsigned int Id = 1011
+     1 string Text = "Ya, aku ingat sekarang! <dateconst=playerbirth><month> <day>!"
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021100
+     0 unsigned int Id = 1011
+     1 string Text = "Kalau dipikir-pikir, cucunya akan berusia 20 tahun\nsekarang... Ah! Maka itu akan membuatmu—!"
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021200
+     0 unsigned int SubId = 0
+     1 string Teks = ""
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021300
+     0 unsigned int SubId = 0
+     1 string Text = "Cucu Laki-lakinya, ya."
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021310
+     0 unsigned int SubId = 0
+     1 string Text = "Cucu Perempuannya, ya."
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021400
+     0 unsigned int Id = 1011
+     1 string Text = "Ya, tentu saja! Maaf! aku tidak tahu bagaimana\naku bisa lupa ketika kamu berdiri tepat\n di depan aku!"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021410
+     0 unsigned int Id = 1011
+     1 string Text = "Ya, tentu saja! Maaf! aku tidak tahu bagaimana\naku bisa lupa ketika kamu berdiri tepat\n di depan aku!"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021500
+     0 unsigned int Id = 1011
+     1 string Text = "Ya ampun... Memikirkan bahwa <genderplayer="cucu","cucu"> \nteman lamaku akan menemukan jalannya ke Olive Town."
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021600
+     0 unsigned int Id = 1011
+     1 string Text = "Ayo, kalau begitu! aku akan dengan senang hati menunjukkan kamu ke peternakan tua\nkakek mu."
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021700
+     0 unsigned int Id = 1011
+     1 string Text = "Apakah ada sesuatu? ...Sebenarnya, coba aku tebak.\nMelihat raut wajah kamu, kamu ingin bertanya kepada aku, "Apakah\nkamu YAKIN ini peternakan Kakek, Pak?""
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021800
+     0 unsigned int Id = 1011
+     1 string Text = "Dan untuk itu aku akan mengatakan, "Memang!" Ketika\nkakekmu tinggal di sini, pertanian ini adalah tempat yang subur dan\nindah. Penekanan pada "dulu", aku rasa."
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900021900
+     0 unsigned int Id = 1011
+     1 string Text = "Nah, apa nama peternakannya lagi...?\nAda di ujung lidahku..."
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900022000
+     0 unsigned int Id = 1011
+     1 string Text = "Kakekmu pasti sudah memberitahumu nama\npertanian, ya? Apa itu lagi?"
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900022100
+     0 unsigned int Id = 1011
+     1 string Text = "Ya, begitulah!\nPeternakan <farmname>!"
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900022200
+     0 unsigned int Id = 1011
+     1 string Text = "Tertarik untuk mengambil alih pertanian, kan?"
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1900022300
+     0 unsigned int Id = 1011
+     1 string Text = "Yah, aku tidak bisa mengatakan bahwa aku fasih dalam subjek ini,\ntapi setidaknya aku bisa mengajari kamu dasar-dasar untuk memulai."
+ 1 string IdEnumName = "BokuMono.PrologueId"

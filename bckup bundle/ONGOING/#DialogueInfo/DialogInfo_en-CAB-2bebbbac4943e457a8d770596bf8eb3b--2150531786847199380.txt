@@ -1,0 +1,948 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "DialogInfo_en"
+ 0 LocalizeTextData list
+  0 Array Array (187 items)
+   0 int size = 187
+[0]
+0 LocalizeTextData data
+0 unsigned int Id = 9
+0 unsigned int SubId = 0
+1 string Text = "Perbaiki {#}?"
+[1]
+0 LocalizeTextData data
+0 unsigned int Id = 13
+0 unsigned int SubId = 0
+1 string Text = "Bahan tidak cukup."
+[2]
+0 LocalizeTextData data
+0 unsigned int Id = 16
+0 unsigned int SubId = 0
+1 string Text = "Sudahan dan mau tidur?"
+[3]
+0 LocalizeTextData data
+0 unsigned int Id = 28
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat memanggil hewan mu ke padang rumput dalam\ncuaca yang buruk ini."
+[4]
+0 LocalizeTextData data
+0 unsigned int Id = 29
+0 unsigned int SubId = 0
+1 string Text = "Ini bukan waktu yang tepat untuk memanggil hewan mu ke padang rumput."
+[5]
+0 LocalizeTextData data
+0 unsigned int Id = 30
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki fasilitas yang tepat."
+[6]
+0 LocalizeTextData data
+0 unsigned int Id = 31
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak punya tempat untuk menampung hewan ini."
+[7]
+0 LocalizeTextData data
+0 unsigned int Id = 32
+0 unsigned int SubId = 0
+1 string Text = "Wah, ikannya kabur..."
+[8]
+0 LocalizeTextData data
+0 unsigned int Id = 33
+0 unsigned int SubId = 0
+1 string Text = "Toko tutup sekarang.\nJam Operasional: <color=0>8:00 AM - 6:00 PM</color>"
+[9]
+0 LocalizeTextData data
+0 unsigned int Id = 34
+0 unsigned int SubId = 0
+1 string Text = "Toko tutup sekarang.\nJam Operasional: <color=0>10:00 - 18:00</color>"
+[10]
+0 LocalizeTextData data
+0 unsigned int Id = 35
+0 unsigned int SubId = 0
+1 string Text = "Toko tutup sekarang.\nJam Operasional: <color=0>12:00 PM - 10:00 PM</color>"
+[11]
+0 LocalizeTextData data
+0 unsigned int Id = 36
+0 unsigned int SubId = 0
+1 string Text = "Tingkat keahlianmu tidak cukup tinggi. Coba rawat\nbeberapa hewan dulu!"
+[12]
+0 LocalizeTextData data
+0 unsigned int Id = 37
+0 unsigned int SubId = 0
+1 string Text = "Untuk merawat hewan ini, kamu harus membawa\nke fasilitas yang tepat. Pindah ke fasilitas?"
+[13]
+0 LocalizeTextData data
+0 unsigned int Id = 38
+0 unsigned int SubId = 0
+1 string Text = ""
+[14]
+0 LocalizeTextData data
+0 unsigned int Id = 39
+0 unsigned int SubId = 0
+1 string Text = "Akhiri festival dan pulang?"
+[15]
+0 LocalizeTextData data
+0 unsigned int Id = 40
+0 unsigned int SubId = 0
+1 string Text = "Pergi berkencan?"
+[16]
+0 LocalizeTextData data
+0 unsigned int Id = 41
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki fasilitas yang cukup besar untuk itu."
+[17]
+0 LocalizeTextData data
+0 unsigned int Id = 42
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki ruang untuk bayi hewan."
+[18]
+0 LocalizeTextData data
+0 unsigned int Id = 43
+0 unsigned int SubId = 0
+1 string Text = "Rumahmu tidak cukup besar."
+[19]
+0 LocalizeTextData data
+0 unsigned int Id = 44
+0 unsigned int SubId = 0
+1 string Text = "Kota ini masih bersiap-siap untuk festival!\nIni dimulai pada <color=0>jam ~</color>."
+[20]
+0 LocalizeTextData data
+0 unsigned int Id = 45
+0 unsigned int SubId = 0
+1 string Text = "Kota ini masih bersiap-siap untuk festival!\nIni dimulai pada <color=0>10:00 AM</color>."
+[21]
+0 LocalizeTextData data
+0 unsigned int Id = 46
+0 unsigned int SubId = 0
+1 string Text = "Festival akan berakhir jika kamu pergi.\nApakah kamu yakin ingin pergi?"
+[22]
+0 LocalizeTextData data
+0 unsigned int Id = 47
+0 unsigned int SubId = 0
+1 string Text = "Mereka sedang bersih-bersih setelah festival, jadi kamu tidak bisa masuk\nsekarang."
+[23]
+0 LocalizeTextData data
+0 unsigned int Id = 48
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu ingin menyimpan?"
+[24]
+0 LocalizeTextData data
+0 unsigned int Id = 49
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu ingin menyimpan data kamu?"
+[25]
+0 LocalizeTextData data
+0 unsigned int Id = 50
+0 unsigned int SubId = 0
+1 string Text = "Timpa simpan data?"
+[26]
+0 LocalizeTextData data
+0 unsigned int Id = 51
+0 unsigned int SubId = 0
+1 string Text = "Terima hadiahnya?"
+[27]
+0 LocalizeTextData data
+0 unsigned int Id = 52
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada hadiah yang dapat diterima."
+[28]
+0 LocalizeTextData data
+0 unsigned int Id = 53
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki fasilitas yang dapat dikembangkan."
+[29]
+0 LocalizeTextData data
+0 unsigned int Id = 54
+0 unsigned int SubId = 0
+1 string Text = "Ada fasilitas yang dapat diperbaiki di peternakan.\nPeriksa kembali setelah kamu memperbaikinya."
+[30]
+0 LocalizeTextData data
+0 unsigned int Id = 55
+0 unsigned int SubId = 0
+1 string Text = "kamu telah mengupgrade secara maksimal."
+[31]
+0 LocalizeTextData data
+0 unsigned int Id = 56
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat meningkatkan lagi."
+[32]
+0 LocalizeTextData data
+0 unsigned int Id = 57
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat menyimpan."
+[33]
+0 LocalizeTextData data
+0 unsigned int Id = 58
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada hewan di fasilitas untuk dikeluarkan."
+[34]
+0 LocalizeTextData data
+0 unsigned int Id = 59
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak punya foto."
+[35]
+0 LocalizeTextData data
+0 unsigned int Id = 60
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak bisa memasak resep apapun."
+[36]
+0 LocalizeTextData data
+0 unsigned int Id = 62
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada blessings yang tersedia saat ini."
+[37]
+0 LocalizeTextData data
+0 unsigned int Id = 64
+0 unsigned int SubId = 0
+1 string Text = "Kembali ke Main menu?\n(Progres yang belum disimpan akan hilang.)"
+[38]
+0 LocalizeTextData data
+0 unsigned int Id = 65
+0 unsigned int SubId = 0
+1 string Text = "Keluar dari game?\n(Progres yang belum disimpan akan hilang.)"
+[39]
+0 LocalizeTextData data
+0 unsigned int Id = 66
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin mengubah bahasa tampilan?"
+[40]
+0 LocalizeTextData data
+0 unsigned int Id = 67
+0 unsigned int SubId = 0
+1 string Text = "Timpa foto ini?\nTidak dapat dipulihkan setelah ditimpa."
+[41]
+0 LocalizeTextData data
+0 unsigned int Id = 68
+0 unsigned int SubId = 0
+1 string Text = "Akhiri perjalanan?"
+[42]
+0 LocalizeTextData data
+0 unsigned int Id = 69
+0 unsigned int SubId = 0
+1 string Text = "Apakah nama ini baik-baik saja?"
+[43]
+0 LocalizeTextData data
+0 unsigned int Id = 70
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat menggunakan nama ini."
+[44]
+0 LocalizeTextData data
+0 unsigned int Id = 71
+0 unsigned int SubId = 0
+1 string Text = "Masukkan nama."
+[45]
+0 LocalizeTextData data
+0 unsigned int Id = 72
+0 unsigned int SubId = 0
+1 string Text = "Simpan ke album kamu?"
+[46]
+0 LocalizeTextData data
+0 unsigned int Id = 73
+0 unsigned int SubId = 0
+1 string Text = "Album kamu penuh. Apakah kamu ingin menimpa foto?"
+[47]
+0 LocalizeTextData data
+0 unsigned int Id = 74
+0 unsigned int SubId = 0
+1 string Text = "Timpa foto ini?"
+[48]
+0 LocalizeTextData data
+0 unsigned int Id = 75
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada permintaan yang tersedia saat ini."
+[49]
+0 LocalizeTextData data
+0 unsigned int Id = 76
+0 unsigned int SubId = 0
+1 string Text = "Minta pekerjaan pada\n{#}?"
+[50]
+0 LocalizeTextData data
+0 unsigned int Id = 77
+0 unsigned int SubId = 0
+1 string Text = "Gunakan {#} untuk meminta\nmengerjakan {#}?"
+[51]
+0 LocalizeTextData data
+0 unsigned int Id = 78
+0 unsigned int SubId = 0
+1 string Text = "Mengerjakan ini akan dikenakan biaya\n{#}."
+[52]
+0 LocalizeTextData data
+0 unsigned int Id = 79
+0 unsigned int SubId = 0
+1 string Text = "Akhiri kegiatan hari ini dan akhiri hari ini."
+[53]
+0 LocalizeTextData data
+0 unsigned int Id = 80
+0 unsigned int SubId = 0
+1 string Text = "Hentikan pelatihan?"
+[54]
+0 LocalizeTextData data
+0 unsigned int Id = 81
+0 unsigned int SubId = 0
+1 string Text = "Semua permintaan Lovett telah diselesaikan!\nTidak ada lagi permintaan yang tersedia."
+[55]
+0 LocalizeTextData data
+0 unsigned int Id = 82
+0 unsigned int SubId = 0
+1 string Text = "Hewan ini tidak dapat dibesarkan. Jumlah maksimum\nhewan yang tidak ditugaskan ke fasilitas telah tercapai."
+[56]
+0 LocalizeTextData data
+0 unsigned int Id = 83
+0 unsigned int SubId = 0
+1 string Text = "Saat ini tidak ada hewan yang tersedia.\nCoba cari beberapa di peternakan!"
+[57]
+0 LocalizeTextData data
+0 unsigned int Id = 84
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin menghapus fasilitas ini?\n\n<color=0>Item yang berhubungan dengan atau di dalam fasilitas akan\n\n<color>"
+[58]
+0 LocalizeTextData data
+0 unsigned int Id = 85
+0 unsigned int SubId = 0
+1 string Text = "Hal berikut akan terjadi jika kamu membersihkan fasilitas ini: \n<color=0>- Semua hewan di fasilitas ini akan dipisahkan.</color>\n<color=0>- Semua item di fasilitas ini akan dijatuhkan.</color>\n\nTidak apa-apa?\n"
+[59]
+0 LocalizeTextData data
+0 unsigned int Id = 86
+0 unsigned int SubId = 0
+1 string Text = "Hal berikut akan terjadi jika kamu menghapus fasilitas ini: \n<color=0>- Makanan ternak tidak akan dibagikan lagi.</color>\n<color=0>- Semua item dalam fasilitas ini akan dijatuhkan.</color>\n\nTidak apa-apa?"
+[60]
+0 LocalizeTextData data
+0 unsigned int Id = 87
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada item yang dapat disumbangkan."
+[61]
+0 LocalizeTextData data
+0 unsigned int Id = 88
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada foto yang dapat disumbangkan."
+[62]
+0 LocalizeTextData data
+0 unsigned int Id = 89
+0 unsigned int SubId = 0
+1 string Text = "Batalkan donasi?"
+[63]
+0 LocalizeTextData data
+0 unsigned int Id = 90
+0 unsigned int SubId = 0
+1 string Text = "Tempatkan di sini?"
+[64]
+0 LocalizeTextData data
+0 unsigned int Id = 91
+0 unsigned int SubId = 0
+1 string Text = "Aktifkan fitur komunikasi online <color=0>AKTIF</color> dan mulai\npermainan?\n\nFitur online tidak dapat digunakan tanpa koneksi\ninternet. <color=0>*kamu dapat mengubah pengaturan ini nanti.</color>"
+[65]
+0 LocalizeTextData data
+0 unsigned int Id = 92
+0 unsigned int SubId = 0
+1 string Text = "Permainan akan dimulai dengan komunikasi online\nfitur <color=0>ON</color>."
+[66]
+0 LocalizeTextData data
+0 unsigned int Id = 93
+0 unsigned int SubId = 0
+1 string Text = "Permainan akan dimulai dengan komunikasi online\nfitur <color=0>MATI</color>."
+[67]
+0 LocalizeTextData data
+0 unsigned int Id = 94
+0 unsigned int SubId = 0
+1 string Text = "Fitur komunikasi online saat ini <color=0>MATI</color>. \n\nApakah kamu ingin mengaktifkan fitur komunikasi online\n<color=0>AKTIF</color>?"
+[68]
+0 LocalizeTextData data
+0 unsigned int Id = 95
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada yang disumbangkan untuk ruang ini, jadi tidak ada\nanapa pun di sini."
+[69]
+0 LocalizeTextData data
+0 unsigned int Id = 96
+0 unsigned int SubId = 0
+1 string Text = "Tinggalkan tambang?"
+[70]
+0 LocalizeTextData data
+0 unsigned int Id = 97
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada item yang dapat dinilai yang tersedia."
+[71]
+0 LocalizeTextData data
+0 unsigned int Id = 98
+0 unsigned int SubId = 0
+1 string Text = "kamu telah menerima pakaian yang kamu pesan!\n\nCobalah dari <color=0>lemari</color> atau <color=0>ruang pas</color>!"
+[72]
+0 LocalizeTextData data
+0 unsigned int Id = 99
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak bisa berjalan-jalan di cuaca buruk seperti ini."
+[73]
+0 LocalizeTextData data
+0 unsigned int Id = 100
+0 unsigned int SubId = 0
+1 string Text = "Ini bukan waktu yang tepat untuk berjalan-jalan."
+[74]
+0 LocalizeTextData data
+0 unsigned int Id = 101
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak punya tempat untuk menampung hewan itu.\n\nCoba lagi setelah kamu memperbaiki\n<color=0>fasilitas bobrok</color> yang berlaku!"
+[75]
+0 LocalizeTextData data
+0 unsigned int Id = 102
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak punya kamar untuk menampung hewan peliharaan. \n\nCoba lagi setelah meningkatkan rumah kamu menjadi <color=0>gubuk kayu</color>!"
+[76]
+0 LocalizeTextData data
+0 unsigned int Id = 103
+0 unsigned int SubId = 0
+1 string Text = "Siapa namamu?"
+[77]
+0 LocalizeTextData data
+0 unsigned int Id = 104
+0 unsigned int SubId = 0
+1 string Text = "Nama kamu\n<color=0>{#}</color>?\n\n*kamu tidak dapat mengubahnya nanti."
+[78]
+0 LocalizeTextData data
+0 unsigned int Id = 105
+0 unsigned int SubId = 0
+1 string Text = "Ulang tahun kamu\n<color=0><dateconst=playerbirth> <month> <day></color>?\n\n*kamu tidak dapat mengubahnya nanti."
+[79]
+0 LocalizeTextData data
+0 unsigned int Id = 106
+0 unsigned int SubId = 0
+1 string Text = "kamu seorang\n<color=0><genderplayer="Laki-laki","Perempuan"></color>?\n\n*kamu tidak dapat mengubahnya nanti."
+[80]
+0 LocalizeTextData data
+0 unsigned int Id = 107
+0 unsigned int SubId = 0
+1 string Text = "Apa nama peternakannya?"
+[81]
+0 LocalizeTextData data
+0 unsigned int Id = 108
+0 unsigned int SubId = 0
+1 string Text = "Nama peternakan adalah\n<color=0>{#}</color> Peternakan?\n\n*kamu tidak dapat mengubahnya nanti."
+[82]
+0 LocalizeTextData data
+0 unsigned int Id = 109
+0 unsigned int SubId = 0
+1 string Text = "Pilih nama untuk fasilitas."
+[83]
+0 LocalizeTextData data
+0 unsigned int Id = 110
+0 unsigned int SubId = 0
+1 string Text = "Nama fasilitasnya\n<color=0>{#}</color>?"
+[84]
+0 LocalizeTextData data
+0 unsigned int Id = 111
+0 unsigned int SubId = 0
+1 string Text = "Pilih nama untuk hewan itu."
+[85]
+0 LocalizeTextData data
+0 unsigned int Id = 112
+0 unsigned int SubId = 0
+1 string Text = "Nama hewan ini\n<color=0>{#}</color>?"
+[86]
+0 LocalizeTextData data
+0 unsigned int Id = 113
+0 unsigned int SubId = 0
+1 string Text = "Pilih nama untuk anak kamu."
+[87]
+0 LocalizeTextData data
+0 unsigned int Id = 114
+0 unsigned int SubId = 0
+1 string Text = "Nama anak kamu\n<color=0>{#}</color>?"
+[88]
+0 LocalizeTextData data
+0 unsigned int Id = 115
+0 unsigned int SubId = 0
+1 string Text = "Pilih nama untuk hewan yang baru lahir."
+[89]
+0 LocalizeTextData data
+0 unsigned int Id = 116
+0 unsigned int SubId = 0
+1 string Text = "Nama binatang itu\n<color=0>{#}</color>?"
+[90]
+0 LocalizeTextData data
+0 unsigned int Id = 117
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada pakan ternak."
+[91]
+0 LocalizeTextData data
+0 unsigned int Id = 118
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki silo."
+[92]
+0 LocalizeTextData data
+0 unsigned int Id = 119
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki silase."
+[93]
+0 LocalizeTextData data
+0 unsigned int Id = 120
+0 unsigned int SubId = 0
+1 string Text = "Lewati acara ini?"
+[94]
+0 LocalizeTextData data
+0 unsigned int Id = 121
+0 unsigned int SubId = 0
+1 string Text = "Acara ini tidak dapat dilewati."
+[95]
+0 LocalizeTextData data
+0 unsigned int Id = 122
+0 unsigned int SubId = 0
+1 string Text = "Aha! Setelah makan itu, saya belajar resep untuk\n{#}! Sekarang saya punya\nsesuatu yang baru untuk dimasak!"
+[96]
+0 LocalizeTextData data
+0 unsigned int Id = 123
+0 unsigned int SubId = 0
+1 string Text = "Game ini menggunakan fitur online. Sambungkan ke internet\ndan mainkan online?"
+[97]
+0 LocalizeTextData data
+0 unsigned int Id = 124
+0 unsigned int SubId = 0
+1 string Text = "Fitur komunikasi online telah DIMATIKAN.\nSambungkan ke internet dan mainkan online?"
+[98]
+0 LocalizeTextData data
+0 unsigned int Id = 125
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat terhubung ke jaringan. Melanjutkan permainan\n mode offline."
+[99]
+0 LocalizeTextData data
+0 unsigned int Id = 126
+0 unsigned int SubId = 0
+1 string Text = "[Pemberitahuan Saat Bermain Online]\nInformasi berikut mungkin ditampilkan ke\npemain lain saat kamu bermain online:\n<color=0>Nama Pemain, Nama Peternakan</color>"
+[100]
+0 LocalizeTextData data
+0 unsigned int Id = 127
+0 unsigned int SubId = 0
+1 string Text = "Mulai game dalam mode offline."
+[101]
+0 LocalizeTextData data
+0 unsigned int Id = 128
+0 unsigned int SubId = 0
+1 string Text = "Stamina maksimum meningkat 2 poin!"
+[102]
+0 LocalizeTextData data
+0 unsigned int Id = 129
+0 unsigned int SubId = 0
+1 string Text = "Stamina maksimal bertambah 2 poin lagi!"
+[103]
+0 LocalizeTextData data
+0 unsigned int Id = 130
+0 unsigned int SubId = 0
+1 string Text = "Stamina maksimum bertambah dengan tambahan 2 poin!"
+[104]
+0 LocalizeTextData data
+0 unsigned int Id = 131
+0 unsigned int SubId = 0
+1 string Text = "Ladang kamu telah naik level! kamu seharusnya dapat menanam\ntanaman dengan kualitas yang lebih tinggi sekarang."
+[105]
+0 LocalizeTextData data
+0 unsigned int Id = 132
+0 unsigned int SubId = 0
+1 string Text = "Ladang kamu telah naik level sekali lagi! kamu seharusnya\nbisa menanam tanaman dengan kualitas yang lebih tinggi sekarang."
+[106]
+0 LocalizeTextData data
+0 unsigned int Id = 133
+0 unsigned int SubId = 0
+1 string Text = "Ladang kamu telah naik level lagi! kamu seharusnya bisa\nmembudidayakan tanaman berkualitas tinggi sekarang!"
+[107]
+0 LocalizeTextData data
+0 unsigned int Id = 134
+0 unsigned int SubId = 0
+1 string Text = "Sekarang kamu memiliki akses ke Petalwind Gardens, tempat\nselalu musim semi! Bicaralah dengan Navi-sprite di depan\nrumah kamu kapan pun kamu ingin bepergian!"
+[108]
+0 LocalizeTextData data
+0 unsigned int Id = 135
+0 unsigned int SubId = 0
+1 string Text = "Sekarang kamu memiliki akses ke Eversun Gardens, yang\nselalu musim panas! Bicaralah dengan Navi-sprite di depan\nrumah kamu kapan pun kamu ingin bepergian!"
+[109]
+0 LocalizeTextData data
+0 unsigned int Id = 136
+0 unsigned int SubId = 0
+1 string Text = "Sekarang kamu memiliki akses ke Redmaple Gardens, yang\nselalu musim gugur! Bicaralah dengan Navi-sprite di depan\nrumah kamu kapan pun kamu ingin bepergian!"
+[110]
+0 LocalizeTextData data
+0 unsigned int Id = 137
+0 unsigned int SubId = 0
+1 string Text = "Sekarang kamu memiliki akses ke Hoarfrost Gardens, yang\nselalu musim dingin! Bicaralah dengan Navi-sprite di depan\nrumah kamu kapan pun kamu ingin bepergian!"
+[111]
+0 LocalizeTextData data
+0 unsigned int Id = 138
+0 unsigned int SubId = 0
+1 string Text = "Field Sprite telah datang ke Earth Sprite Village!"
+[112]
+0 LocalizeTextData data
+0 unsigned int Id = 139
+0 unsigned int SubId = 0
+1 string Text = "Pemancing Sprite telah datang ke Desa Sprite Bumi!"
+[113]
+0 LocalizeTextData data
+0 unsigned int Id = 140
+0 unsigned int SubId = 0
+1 string Text = "Chef Sprite telah datang ke Earth Sprite Village!"
+[114]
+0 LocalizeTextData data
+0 unsigned int Id = 141
+0 unsigned int SubId = 0
+1 string Text = "Sprite Peduli telah datang ke Desa Sprite Bumi!"
+[115]
+0 LocalizeTextData data
+0 unsigned int Id = 142
+0 unsigned int SubId = 0
+1 string Text = "Journey Sprite telah datang ke Earth Sprite Village!"
+[116]
+0 LocalizeTextData data
+0 unsigned int Id = 143
+0 unsigned int SubId = 0
+1 string Text = "Sekarang kamu dapat membeli Kuda Cantik dari toko\nanimal!"
+[117]
+0 LocalizeTextData data
+0 unsigned int Id = 144
+0 unsigned int SubId = 0
+1 string Text = "Sekarang kamu dapat membeli Unicorn? dari toko\nhewan!"
+[118]
+0 LocalizeTextData data
+0 unsigned int Id = 145
+0 unsigned int SubId = 0
+1 string Text = "Sekarang kamu dapat membeli Serigala dari toko hewan!"
+[119]
+0 LocalizeTextData data
+0 unsigned int Id = 146
+0 unsigned int SubId = 0
+1 string Text = "Sekarang kamu dapat membeli Serigala Kecil dari toko hewan\n!"
+[120]
+0 LocalizeTextData data
+0 unsigned int Id = 147
+0 unsigned int SubId = 0
+1 string Text = "Dapatkan 99 Bunga Moondrop!"
+[121]
+0 LocalizeTextData data
+0 unsigned int Id = 148
+0 unsigned int SubId = 0
+1 string Text = "Dapatkan 99 Bunga Kucing Merah Muda!"
+[122]
+0 LocalizeTextData data
+0 unsigned int Id = 149
+0 unsigned int SubId = 0
+1 string Text = "Dapatkan 99 Bunga Biru Ajaib!"
+[123]
+0 LocalizeTextData data
+0 unsigned int Id = 150
+0 unsigned int SubId = 0
+1 string Text = "Dapatkan 99 Bunga Merah Ajaib!"
+[124]
+0 LocalizeTextData data
+0 unsigned int Id = 151
+0 unsigned int SubId = 0
+1 string Text = "Mendapatkan 5 Penyemprot yang Ditingkatkan!"
+[125]
+0 LocalizeTextData data
+0 unsigned int Id = 152
+0 unsigned int SubId = 0
+1 string Text = "Dapatkan 10 kotak Guardian Bait!"
+[126]
+0 LocalizeTextData data
+0 unsigned int Id = 153
+0 unsigned int SubId = 0
+1 string Text = "Mendapatkan Plushie Misterius!"
+[127]
+0 LocalizeTextData data
+0 unsigned int Id = 154
+0 unsigned int SubId = 0
+1 string Text = "Dapatkan 50 Medali Kota Emas!"
+[128]
+0 LocalizeTextData data
+0 unsigned int Id = 155
+0 unsigned int SubId = 0
+1 string Text = "Dapatkan 5000 Sprite Coin!"
+[129]
+0 LocalizeTextData data
+0 unsigned int Id = 156
+0 unsigned int SubId = 0
+1 string Text = "Tidak diterjemahkan"
+[130]
+0 LocalizeTextData data
+0 unsigned int Id = 157
+0 unsigned int SubId = 0
+1 string Text = "Tidak bisa diserahkan sekarang."
+[131]
+0 LocalizeTextData data
+0 unsigned int Id = 158
+0 unsigned int SubId = 0
+1 string Text = "[Hadiah Mini-game]\nDapatkan {#} dan\n<angka=8,1,0,0>G!"
+[132]
+0 LocalizeTextData data
+0 unsigned int Id = 159
+0 unsigned int SubId = 0
+1 string Text = "[Hadiah Mini-game]\nDapatkan <number=8,1,0,0> Sprite Coins!"
+[133]
+0 LocalizeTextData data
+0 unsigned int Id = 160
+0 unsigned int SubId = 0
+1 string Text = "kamu telah terputus dari jaringan.\nFitur komunikasi telah dinonaktifkan."
+[134]
+0 LocalizeTextData data
+0 unsigned int Id = 161
+0 unsigned int SubId = 0
+1 string Text = "Saya agak lelah."
+[135]
+0 LocalizeTextData data
+0 unsigned int Id = 162
+0 unsigned int SubId = 0
+1 string Text = "Sudah larut, saya harus pergi."
+[136]
+0 LocalizeTextData data
+0 unsigned int Id = 163
+0 unsigned int SubId = 0
+1 string Text = "Tasmu sudah penuh. Tolong bereskan tasmu."
+[137]
+0 LocalizeTextData data
+0 unsigned int Id = 164
+0 unsigned int SubId = 0
+1 string Text = "Persahabatan tidak bisa lebih tinggi lagi."
+[138]
+0 LocalizeTextData data
+0 unsigned int Id = 165
+0 unsigned int SubId = 0
+1 string Text = "Seekor hewan yang tidak ditugaskan ke fasilitas telah meninggalkan peternakan."
+[139]
+0 LocalizeTextData data
+0 unsigned int Id = 166
+0 unsigned int SubId = 0
+1 string Text = "Hewan peliharaan kamu telah kembali ke rumah."
+[140]
+0 LocalizeTextData data
+0 unsigned int Id = 167
+0 unsigned int SubId = 0
+1 string Text = "Sekarang kamu dapat mengendarai sepeda motor kamu."
+[141]
+0 LocalizeTextData data
+0 unsigned int Id = 168
+0 unsigned int SubId = 0
+1 string Text = "Kelopak bunga merah muda mengambang ditiup angin... Ini musim semi!\nDengan perubahan musim, jenis tanaman\nyang dapat kamu tanam telah berubah. Kunjungi toko untuk melihat\nbarisan musim baru mereka!"
+[142]
+0 LocalizeTextData data
+0 unsigned int Id = 169
+0 unsigned int SubId = 0
+1 string Text = "Fiuh, panas sekali! Musim panas telah tiba! Dengan perubahan\nmusim, jenis tanaman yang dapat kamu tanam telah\nberubah. Kunjungi toko untuk melihat daftar\nmusim baru mereka!"
+[143]
+0 LocalizeTextData data
+0 unsigned int Id = 170
+0 unsigned int SubId = 0
+1 string Text = "Daun berubah warna menjadi merah dan emas cerah...\nMusim gugur telah tiba! Dengan bergantinya musim,\njenis tanaman yang dapat kamu tanam telah berubah. Kunjungi\ntoko untuk melihat yang baru formasi musiman!"
+[144]
+0 LocalizeTextData data
+0 unsigned int Id = 171
+0 unsigned int SubId = 0
+1 string Text = "Brr, udaranya dingin... Musim dingin telah tiba! Dengan\nperubahan musim, jenis tanaman yang bisa\ntumbuh telah berubah. Kunjungi toko untuk melihat\nbarisan musim baru mereka !"
+[145]
+0 LocalizeTextData data
+0 unsigned int Id = 172
+0 unsigned int SubId = 0
+1 string Text = "Tahun kedua kamu di Olive Town telah dimulai!"
+[146]
+0 LocalizeTextData data
+0 unsigned int Id = 173
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat menempatkan lagi."
+[147]
+0 LocalizeTextData data
+0 unsigned int Id = 174
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat menempatkan objek lagi."
+[148]
+0 LocalizeTextData data
+0 unsigned int Id = 175
+0 unsigned int SubId = 0
+1 string Text = "Wow! kamu telah mengisi SELURUH ensiklopedia kamu!\nItu pencapaian yang cukup besar! Selamat!"
+[149]
+0 LocalizeTextData data
+0 unsigned int Id = 176
+0 unsigned int SubId = 0
+1 string Text = "Mereka sedang tidur sekarang. Sebaiknya jangan mengganggu mereka."
+[150]
+0 LocalizeTextData data
+0 unsigned int Id = 177
+0 unsigned int SubId = 0
+1 string Text = "Konten yang dapat diunduh\n<color=0>{#}</color>\ntelah ditambahkan."
+[151]
+0 LocalizeTextData data
+0 unsigned int Id = 178
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin melakukan ini? (Satu hari akan berlalu.)\n<color=0>- kamu akan kembali ke waktu sebelum kamu mengaku.</color>\n<color=0 >- kamu akan kembali ke masa sebelum kamu bertemu anak kamu.</color>\n<color=0>- Ini tidak akan memengaruhi peternakan kamu atau hubungan lainnya.</color>\n"
+[152]
+0 LocalizeTextData data
+0 unsigned int Id = 179
+0 unsigned int SubId = 0
+1 string Text = "kamu telah terputus dari jaringan. Jika\nfitur komunikasi kamu diaktifkan, upaya\nakan dilakukan untuk menyambung kembali ke jaringan pada waktu pengiriman\non pada hari dalam game berikutnya."
+[153]
+0 LocalizeTextData data
+0 unsigned int Id = 180
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada catatan turis."
+[154]
+0 LocalizeTextData data
+0 unsigned int Id = 181
+0 unsigned int SubId = 0
+1 string Text = "[Hadiah Mini-game]\nBonus skor tinggi! Stamina maksimal kamu telah meningkat!\nkamu juga mendapatkan <number=8,1,0,0> Sprite Coins!"
+[155]
+0 LocalizeTextData data
+0 unsigned int Id = 182
+0 unsigned int SubId = 0
+1 string Text = "Tidak dapat memperoleh informasi jaringan."
+[156]
+0 LocalizeTextData data
+0 unsigned int Id = 183
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin melewati ini?"
+[157]
+0 LocalizeTextData data
+0 unsigned int Id = 184
+0 unsigned int SubId = 0
+1 string Text = "Dapatkan <color=0>{#}</color> x<number=3,0,0,0>\ndari Magma Sprite!"
+[158]
+0 LocalizeTextData data
+0 unsigned int Id = 185
+0 unsigned int SubId = 0
+1 string Text = "Item lama akan segera menghilang."
+[159]
+0 LocalizeTextData data
+0 unsigned int Id = 186
+0 unsigned int SubId = 0
+1 string Text = "Item lama akan segera hilang."
+[160]
+0 LocalizeTextData data
+0 unsigned int Id = 187
+0 unsigned int SubId = 0
+1 string Text = "Item lama telah hilang."
+[161]
+0 LocalizeTextData data
+0 unsigned int Id = 188
+0 unsigned int SubId = 0
+1 string Text = "Tidak ada item penting yang hilang."
+[162]
+0 LocalizeTextData data
+0 unsigned int Id = 189
+0 unsigned int SubId = 0
+1 string Text = "Jajaran produk {#} telah diperluas\nits!"
+[163]
+0 LocalizeTextData data
+0 unsigned int Id = 190
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki hewan apapun."
+[164]
+0 LocalizeTextData data
+0 unsigned int Id = 191
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak memiliki hewan peliharaan dan/atau tunggangan."
+[165]
+0 LocalizeTextData data
+0 unsigned int Id = 192
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat memasuki gedung pada hari festival."
+[166]
+0 LocalizeTextData data
+0 unsigned int Id = 193
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak bisa pergi memancing di hari festival."
+[167]
+0 LocalizeTextData data
+0 unsigned int Id = 194
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat salat di hari raya."
+[168]
+0 LocalizeTextData data
+0 unsigned int Id = 195
+0 unsigned int SubId = 0
+1 string Text = "Beberapa karakter yang kamu pilih untuk nama ini tidak dapat\nditampilkan dalam game. Apakah kamu masih ingin melanjutkan?"
+[169]
+0 LocalizeTextData data
+0 unsigned int Id = 196
+0 unsigned int SubId = 0
+1 string Text = "Bersihkan fasilitas ini?\n<color=0>- Semua item dalam fasilitas ini akan dibuang.</color>\n<color=0>- Tanaman yang sedang tumbuh di fasilitas ini akan hilang.</ warna>"
+[170]
+0 LocalizeTextData data
+0 unsigned int Id = 197
+0 unsigned int SubId = 0
+1 string Text = "<color=0>Data simpanan rusak.</color>\nData simpanan ini tidak dapat diputar."
+[171]
+0 LocalizeTextData data
+0 unsigned int Id = 198
+0 unsigned int SubId = 0
+1 string Text = "<color=0>Data sistem rusak,\ndan tidak ada file simpanan yang dapat diputar.</color>\nSilakan buat file simpanan baru."
+[172]
+0 LocalizeTextData data
+0 unsigned int Id = 199
+0 unsigned int SubId = 0
+1 string Text = "<color=0>Terjadi kesalahan.</color>\nSilakan coba lagi."
+[173]
+0 LocalizeTextData data
+0 unsigned int Id = 200
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak dapat memainkan data ini.\n<color=0>Harap tutup game dari Menu HOME.</color>"
+[174]
+0 LocalizeTextData data
+0 unsigned int Id = 201
+0 unsigned int SubId = 0
+1 string Text = "Keuntungan dari pengiriman ini akan membuat kamu melebihi\njumlah maksimum dana yang dapat kamu bawa. Dana apa pun\nyang melebihi batas tidak dapat diperoleh.\n\nApakah kamu yakin ingin mengirimkan ini?"
+[175]
+0 LocalizeTextData data
+0 unsigned int Id = 202
+0 unsigned int SubId = 0
+1 string Text = "Kontrol orang tua telah diaktifkan, jadi <color=0>kamu tidak boleh\nmengirim kartu pos apa pun.</color>"
+[176]
+0 LocalizeTextData data
+0 unsigned int Id = 206
+0 unsigned int SubId = 0
+1 string Text = "Pakaian calon nikah telah diganti."
+[177]
+0 LocalizeTextData data
+0 unsigned int Id = 207
+0 unsigned int SubId = 0
+1 string Text = "Dengan menyelesaikan cerita, kamu telah memperoleh pakaian baru!\n\nPergilah ke salon kecantikan untuk memesannya!"
+[178]
+0 LocalizeTextData data
+0 unsigned int Id = 208
+0 unsigned int SubId = 0
+1 string Text = "Jika kamu ingin mengganti pakaian\ncalon pernikahan, kamu dapat melakukannya dengan memilih opsi "Konten\nDapat Diunduh" pada layar judul, lalu memilih\npakaian yang kamu ingin mereka kenakan."
+[179]
+0 LocalizeTextData data
+0 unsigned int Id = 209
+0 unsigned int SubId = 0
+1 string Text = "Konten yang dapat diunduh telah dihapus. kamu dapat melihat\nasedia konten yang dapat diunduh dari layar judul."
+[180]
+0 LocalizeTextData data
+0 unsigned int Id = 210
+0 unsigned int SubId = 0
+1 string Text = "Sekarang memuat konten yang dapat diunduh."
+[181]
+0 LocalizeTextData data
+0 unsigned int Id = 211
+0 unsigned int SubId = 0
+1 string Text = "Wah, lihat jamnya! Lebih baik saya menyebutnya sehari."
+[182]
+0 LocalizeTextData data
+0 unsigned int Id = 212
+0 unsigned int SubId = 0
+1 string Text = "Wah, lihat jamnya! Lebih baik aku pulang dan pukul\njerami."
+[183]
+0 LocalizeTextData data
+0 unsigned int Id = 213
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin menamai hewan\n<color=0>{#}</color>?"
+[184]
+0 LocalizeTextData data
+0 unsigned int Id = 214
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin menamai anak kamu\n<color=0>{#}</color>?"
+[185]
+0 LocalizeTextData data
+0 unsigned int Id = 215
+0 unsigned int SubId = 0
+1 string Text = "Pilih nama untuk hewan itu."
+[186]
+0 LocalizeTextData data
+0 unsigned int Id = 216
+0 unsigned int SubId = 0
+1 string Text = "Pilih nama untuk anak kamu."
+1 string IdEnumName = "BokuMono.DialogInfoId"

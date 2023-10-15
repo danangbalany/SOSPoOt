@@ -1,0 +1,328 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "StateError_en"
+ 0 LocalizeTextData list
+  0 Array Array (63 items)
+   0 int size = 63
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1
+     0 unsigned int SubId = 0
+     1 string Text = "Your bag is full."
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have enough money."
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have enough materials."
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 4
+     0 unsigned int SubId = 0
+     1 string Text = "This material can't be used."
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6
+     0 unsigned int SubId = 0
+     1 string Text = "You're full! You can't eat that right now."
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 7
+     0 unsigned int SubId = 0
+     1 string Text = "Can't select a spot reserved for baby animals."
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 8
+     0 unsigned int SubId = 0
+     1 string Text = "No room in required facility."
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 9
+     0 unsigned int SubId = 0
+     1 string Text = "Not enough room for the mother and child."
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10
+     0 unsigned int SubId = 0
+     1 string Text = "An animal is already there."
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11
+     0 unsigned int SubId = 0
+     1 string Text = "The animal is not friendly enough with you."
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12
+     0 unsigned int SubId = 0
+     1 string Text = "No room in the facility for a baby animal."
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 13
+     0 unsigned int SubId = 0
+     1 string Text = "A pregnant animal is already in the facility."
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14
+     0 unsigned int SubId = 0
+     1 string Text = "Can only be applied in a big barn/coop."
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 15
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have enough money or materials."
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 17
+     0 unsigned int SubId = 0
+     1 string Text = "You can't move that here."
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 18
+     0 unsigned int SubId = 0
+     1 string Text = "Your skill level isn't high enough."
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 19
+     0 unsigned int SubId = 0
+     1 string Text = "Your shipping bin is full."
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 20
+     0 unsigned int SubId = 0
+     1 string Text = "There is no place to store the item."
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 21
+     0 unsigned int SubId = 0
+     1 string Text = "The feed bin is full."
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 22
+     0 unsigned int SubId = 0
+     1 string Text = "Other materials have already been inserted."
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 23
+     0 unsigned int SubId = 0
+     1 string Text = "You can't donate this item."
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 24
+     0 unsigned int SubId = 0
+     1 string Text = "You've already donated this item."
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 25
+     0 unsigned int SubId = 0
+     1 string Text = "No bugs or wild animals are in the photo."
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 26
+     0 unsigned int SubId = 0
+     1 string Text = "You've already donated a photo of this type."
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 27
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have enough Sprite Points."
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 28
+     0 unsigned int SubId = 0
+     1 string Text = "You can't carry any more Sprite Coins."
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 30
+     0 unsigned int SubId = 0
+     1 string Text = "There's no room in the house."
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 31
+     0 unsigned int SubId = 0
+     1 string Text = "Facility is full. Animal can't be returned here."
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 32
+     0 unsigned int SubId = 0
+     1 string Text = "Can only be moved to a big barn/coop."
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 33
+     0 unsigned int SubId = 0
+     1 string Text = "Can't select that tool."
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 34
+     0 unsigned int SubId = 0
+     1 string Text = "Can't place that item in the tool bag."
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 35
+     0 unsigned int SubId = 0
+     1 string Text = "That tool has already been taken out."
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 36
+     0 unsigned int SubId = 0
+     1 string Text = "This item can't be split."
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 37
+     0 unsigned int SubId = 0
+     1 string Text = "Can't receive any more blessings."
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 39
+     0 unsigned int SubId = 0
+     1 string Text = "Can't select a pregnant animal."
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 40
+     0 unsigned int SubId = 0
+     1 string Text = "Can't select a baby animal."
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 41
+     0 unsigned int SubId = 0
+     1 string Text = "Can't select a nesting animal."
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 42
+     0 unsigned int SubId = 0
+     1 string Text = "Can't select the mount you're riding."
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 43
+     0 unsigned int SubId = 0
+     1 string Text = "Can't select a pet you're on a walk with."
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 45
+     0 unsigned int SubId = 0
+     1 string Text = "You can't save right now."
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 46
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have enough of the specified item."
+   [41]
+    0 LocalizeTextData data
+     0 unsigned int Id = 47
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have the specified item."
+   [42]
+    0 LocalizeTextData data
+     0 unsigned int Id = 48
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have any applicable items."
+   [43]
+    0 LocalizeTextData data
+     0 unsigned int Id = 49
+     0 unsigned int SubId = 0
+     1 string Text = "You can't ship this item."
+   [44]
+    0 LocalizeTextData data
+     0 unsigned int Id = 50
+     0 unsigned int SubId = 0
+     1 string Text = "No more livestock can be owned."
+   [45]
+    0 LocalizeTextData data
+     0 unsigned int Id = 51
+     0 unsigned int SubId = 0
+     1 string Text = "This item can't be appraised."
+   [46]
+    0 LocalizeTextData data
+     0 unsigned int Id = 52
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have enough Sprite Coins."
+   [47]
+    0 LocalizeTextData data
+     0 unsigned int Id = 53
+     0 unsigned int SubId = 0
+     1 string Text = "Can't change modes while holding an item."
+   [48]
+    0 LocalizeTextData data
+     0 unsigned int Id = 54
+     0 unsigned int SubId = 0
+     1 string Text = "Not assigned to a facility."
+   [49]
+    0 LocalizeTextData data
+     0 unsigned int Id = 55
+     0 unsigned int SubId = 0
+     1 string Text = "You can't put this item in the fridge."
+   [50]
+    0 LocalizeTextData data
+     0 unsigned int Id = 56
+     0 unsigned int SubId = 0
+     1 string Text = "No changes have been made."
+   [51]
+    0 LocalizeTextData data
+     0 unsigned int Id = 57
+     0 unsigned int SubId = 0
+     1 string Text = "The item box is full."
+   [52]
+    0 LocalizeTextData data
+     0 unsigned int Id = 58
+     0 unsigned int SubId = 0
+     1 string Text = "The fridge is full."
+   [53]
+    0 LocalizeTextData data
+     0 unsigned int Id = 59
+     0 unsigned int SubId = 0
+     1 string Text = "Can't fit all rewards in the bag."
+   [54]
+    0 LocalizeTextData data
+     0 unsigned int Id = 60
+     0 unsigned int SubId = 0
+     1 string Text = "The silo is full."
+   [55]
+    0 LocalizeTextData data
+     0 unsigned int Id = 61
+     0 unsigned int SubId = 0
+     1 string Text = "The silage is full."
+   [56]
+    0 LocalizeTextData data
+     0 unsigned int Id = 62
+     0 unsigned int SubId = 0
+     1 string Text = "The suction pump is full."
+   [57]
+    0 LocalizeTextData data
+     0 unsigned int Id = 63
+     0 unsigned int SubId = 0
+     1 string Text = "The maker is full."
+   [58]
+    0 LocalizeTextData data
+     0 unsigned int Id = 64
+     0 unsigned int SubId = 0
+     1 string Text = "Cannot choose from different quality levels."
+   [59]
+    0 LocalizeTextData data
+     0 unsigned int Id = 65
+     0 unsigned int SubId = 0
+     1 string Text = "You can't drop items on a festival day."
+   [60]
+    0 LocalizeTextData data
+     0 unsigned int Id = 66
+     0 unsigned int SubId = 0
+     1 string Text = "The request has already been completed."
+   [61]
+    0 LocalizeTextData data
+     0 unsigned int Id = 67
+     0 unsigned int SubId = 0
+     1 string Text = "You can't set the command to this key."
+   [62]
+    0 LocalizeTextData data
+     0 unsigned int Id = 68
+     0 unsigned int SubId = 0
+     1 string Text = "You can't use that letter/symbol."
+ 1 string IdEnumName = "BokuMono.StateErrorId"

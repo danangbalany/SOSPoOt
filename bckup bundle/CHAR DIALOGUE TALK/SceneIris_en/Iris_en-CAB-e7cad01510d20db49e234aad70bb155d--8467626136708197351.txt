@@ -1,0 +1,1488 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "Iris_en"
+ 0 LocalizeTextData list
+  0 Array Array (295 items)
+   0 int size = 295
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010100
+     0 unsigned int SubId = 1089
+     1 string Text = "Yah, bukankah kamu yang ramah? Aku ingin tahu\ndi mana pemilikmu."
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010200
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya ampun. Tertarik bermain dengan <player>,\nsekarang, ya?"
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010300
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee, maaf."
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010400
+     0 unsigned int SubId = 1089
+     1 string Text = "Kalian berdua sangat menggemaskan, aku tidak bisa menahan diri\ndiriku sendiri. Maukah kamu memaafkanku?"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010500
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu pasti sangat menyukai binatang,\n<player>."
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010600
+     0 unsigned int SubId = 1089
+     1 string Text = "Ah, itu benar. Kamu pernah menyebutkan bahwa Kamu adalah seorang petani,\nbukan?"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010700
+     0 unsigned int SubId = 1089
+     1 string Text = "Apakah Kamu keberatan jika aku bertanya mengapa Kamu memilih profesi itu?"
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010800
+     0 unsigned int SubId = 1089
+     1 string Text = "Begitu... Begitukah yang terjadi? Mengapa, itu sangat\nindah."
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010900
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya ampun, aku lupa diri. Maafkan aku."
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011000
+     0 unsigned int SubId = 1089
+     1 string Text = "aku baru ingat ada urusan penting yang harus\ndiurus, jadi aku harus pamit untuk hari ini."
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011100
+     0 unsigned int SubId = 1089
+     1 string Text = "Ini adalah percakapan yang paling berharga.\nTerima kasih telah meluangkan waktu bersama aku."
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011200
+     0 unsigned int SubId = 1089
+     1 string Text = "Jika Kamu memiliki kesempatan, aku ingin berbicara dengan Kamu lagi\ndalam waktu dekat. Tidak apa-apa?"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011300
+     0 unsigned int SubId = 0
+     1 string Text = "Ya, aku ingin."
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011400
+     0 unsigned int SubId = 0
+     1 string Text = "Mungkin. Jika aku mendapat kesempatan."
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011500
+     0 unsigned int SubId = 1089
+     1 string Text = "aku senang mendengarnya. aku percaya Kamu akan\nmenindaklanjuti itu."
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011600
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya ampun, kamu tidak terdengar terlalu senang tentang itu.\nMeskipun itu bukan jawaban yang aku cari..."
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011700
+     0 unsigned int SubId = 1089
+     1 string Text = "aku berharap bahwa kita akan diberkati dengan kesempatan itu\nsegera."
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011800
+     0 unsigned int SubId = 1089
+     1 string Text = "Sampai waktu berikutnya, <player>."
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020100
+     0 unsigned int SubId = 1089
+     1 string Text = "Selamat datang, <player>."
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020200
+     0 unsigned int SubId = 1091
+     1 string Text = "Halo. Apakah Kamu di sini untuk melihat Iris juga?"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020300
+     0 unsigned int SubId = 1091
+     1 string Text = "aku khawatir aku sedang ada urusan\ndengannya. Maukah Kamu menunggu sebentar?"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020400
+     0 unsigned int SubId = 1091
+     1 string Text = "Jika kamu harus tahu, tunanganku kebetulan adalah salah satu\npenggemar terhebat Iris."
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020500
+     0 unsigned int SubId = 1091
+     1 string Text = "aku tidak sering mengganggunya seperti ini, ingatlah,\ntapi aku pikir aku akan datang untuk meminta tKamu tangannya."
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020600
+     0 unsigned int SubId = 1091
+     1 string Text = "Seperti yang aku yakin Kamu ketahui, novel-novelnya benar-benar\nfenomenal!"
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020700
+     0 unsigned int SubId = 1091
+     1 string Text = "Jelas cerita-cerita itu sendiri menggugah jiwa dan\nmemikat hati pembaca, tetapi prosanya yang kemerah-merahan\n khususnya benar-benar tak tertandingi!"
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020800
+     0 unsigned int SubId = 1091
+     1 string Text = "Begitulah cara aku juga dengan cepat menjadi salah satu penggemarnya,\ndan..."
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020900
+     0 unsigned int SubId = 1089
+     1 string Text = "Nah, sekarang, itu sudah cukup. Semua pembicaraan tentang prosa yang berbunga-bunga\nini agak hiperbolis."
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021000
+     0 unsigned int SubId = 1089
+     1 string Text = "Tapi aku merasa terhormat mendengar Kamu mengatakan itu, Giorgio."
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021100
+     0 unsigned int SubId = 1089
+     1 string Text = "Semua orang selalu berkata bahwa kebaikanmu\ntidak menarik dari tinggal di Oak Tree Town."
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021200
+     0 unsigned int SubId = 1089
+     1 string Text = "aku sudah berhutang budi pada Kamu, dengan saran Kamu\na pindah ke tempat kecil yang indah ini."
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021300
+     0 unsigned int SubId = 1089
+     1 string Text = "Jika itu adalah tKamu tangan yang kamu inginkan sebagai ucapan terima kasih, setidaknya itu\nyang bisa kulakukan untuk membalasmu."
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021400
+     0 unsigned int SubId = 1091
+     1 string Text = "Terima kasih, terima kasih! aku dan tunangan aku sangat\nmenantikan karya Kamu selanjutnya."
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021500
+     0 unsigned int SubId = 1091
+     1 string Text = "Sekarang, aku harus mengemas mahakarya ini dan menyiapkannya\nsiap untuk dikirim! Permisi..."
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021600
+     0 unsigned int SubId = 1089
+     1 string Text = "aku kira kucing keluar dari tas."
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021700
+     0 unsigned int SubId = 1089
+     1 string Text = "Bukannya aku mencoba menyembunyikannya dari Kamu, jadi Kamu mungkin\nsudah mengetahuinya sendiri."
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021800
+     0 unsigned int SubId = 1089
+     1 string Text = "Tapi bagaimanapun, ya, aku seorang novelis."
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021900
+     0 unsigned int SubId = 1089
+     1 string Text = "Sejujurnya, aku sedang mencari beberapa\ninspirasi pada hari kami bertemu\nsatu sama lain di oasis."
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022000
+     0 unsigned int SubId = 1089
+     1 string Text = "Sebenarnya, kisah Kamu cukup menarik,\ndan itu memotivasi aku untuk menulis cerita baru.\naku berterima kasih untuk itu."
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022100
+     0 unsigned int SubId = 1089
+     1 string Text = "aku minta maaf jika aku menyinggung Kamu karena tidak berterus terang\ntentang itu."
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022200
+     0 unsigned int SubId = 1089
+     1 string Text = "Sikap beberapa orang berubah drastis setelah mereka\nmengetahuinya, jadi..."
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022300
+     0 unsigned int SubId = 1089
+     1 string Text = "Aku ingin mengenalmu tanpa kamu\ntahu tentang masa laluku."
+   [41]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022400
+     0 unsigned int SubId = 0
+     1 string Text = "Profesi Kamu tidak mengganggu aku."
+   [42]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022500
+     0 unsigned int SubId = 0
+     1 string Text = "aku sebenarnya sudah mengetahuinya."
+   [43]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022600
+     0 unsigned int SubId = 1089
+     1 string Text = "Profesi seseorang tidak ada artinya ketika membentuk\na persahabatan, katamu? Ya, aku cenderung setuju."
+   [44]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022700
+     0 unsigned int SubId = 1089
+     1 string Text = "aku punya firasat Kamu akan mengatakan sesuatu seperti itu."
+   [45]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022800
+     0 unsigned int SubId = 1089
+     1 string Text = "Ah, aku tahu Kamu memiliki pKamungan yang cerdik tentang Kamu."
+   [46]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022900
+     0 unsigned int SubId = 1089
+     1 string Text = "Jadi Kamu tahu, tetapi memilih untuk mengabaikannya? Seharusnya aku\nmengharapkan banyak hal dari Kamu, <player>."
+   [47]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551023000
+     0 unsigned int SubId = 1089
+     1 string Text = "Terima kasih."
+   [48]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551023100
+     0 unsigned int SubId = 1089
+     1 string Text = "aku senang diperhitungkan di antara teman-teman Kamu. Semoga persahabatan\nkita terus berkembang."
+   [49]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030100
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu datang berkunjung, <player>?\nKejutan yang menyenangkan."
+   [50]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030200
+     0 unsigned int SubId = 1089
+     1 string Text = "aku rasa aku agak sibuk saat ini..."
+   [51]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030300
+     0 unsigned int SubId = 1089
+     1 string Text = "Syukurlah, bisnis aku tidak akan memakan waktu terlalu lama, jadi silakan\nmembaca buku dari rak sambil menunggu."
+   [52]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030400
+     0 unsigned int SubId = 1089
+     1 string Text = "Halo...?"
+   [53]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030500
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>?"
+   [54]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030600
+     0 unsigned int SubId = 1089
+     1 string Text = "Ah, begitulah. aku sudah mencoba untuk mendapatkan\nperhatian Kamu selama beberapa waktu sekarang."
+   [55]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030700
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh, tidak, kamu tidak perlu khawatir tentang itu. Akulah yang\nmembuatmu menunggu sejak awal."
+   [56]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030800
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan selain itu, saat Kamu sedang membaca..."
+   [57]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030900
+     0 unsigned int SubId = 1089
+     1 string Text = "aku bisa melihat Kamu dengan baik\nterbungkus dalam sebuah buku, tidak menyadari dunia."
+   [58]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031000
+     0 unsigned int SubId = 1089
+     1 string Text = "aku harap Kamu tidak keberatan aku mengatakannya,\n<player>, tetapi Kamu cukup mudah dibaca."
+   [59]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031100
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu akan membalik halaman, dan ekspresi Kamu akan berbelok\nkanan dengan itu."
+   [60]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031200
+     0 unsigned int SubId = 1089
+     1 string Text = "aku tahu bahwa aku tidak sopan untuk menatap, tetapi aku\nterpesona olehnya."
+   [61]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031300
+     0 unsigned int SubId = 1089
+     1 string Text = "Ngomong-ngomong, apa pendapatmu tentang buku itu?"
+   [62]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031400
+     0 unsigned int SubId = 0
+     1 string Text = "Itu sangat menarik."
+   [63]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031500
+     0 unsigned int SubId = 0
+     1 string Text = "Itu membuatku berpikir!"
+   [64]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031600
+     0 unsigned int SubId = 0
+     1 string Text = "aku ingin melihatnya sebagai film!"
+   [65]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031700
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya, aku pasti tahu betapa asyiknya Kamu\ndari raut wajah Kamu. Terima kasih."
+   [66]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031800
+     0 unsigned int SubId = 1089
+     1 string Text = "Suatu kehormatan mendengarnya. Terima kasih."
+   [67]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031900
+     0 unsigned int SubId = 1089
+     1 string Text = "akungnya, kami tidak memiliki rencana untuk membuat\nini menjadi film. Tapi terima kasih."
+   [68]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551032000
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya, benar. aku yang menulis buku itu."
+   [69]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551032100
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee. Sebagai seorang penulis, tidak ada yang lebih\nmenggembirakan daripada melihat pembaca Kamu menikmati\nkarya Kamu."
+   [70]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551032200
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh, aku punya ide. Mengapa tidak meminjam beberapa buku\ndari koleksi? Anggap saja terima kasih atas\nulasan yang menyenangkan."
+   [71]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040100
+     0 unsigned int SubId = 3009
+     1 string Text = "Hah? Kamu ingin tahu apa yang aku lakukan?\nBukankah itu sudah jelas?"
+   [72]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040200
+     0 unsigned int SubId = 3009
+     1 string Text = "aku menunggu Iris!"
+   [73]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040300
+     0 unsigned int SubId = 3009
+     1 string Text = "Ada desas-desus di antara penggemar yang mengatakan bahwa dia telah\nterlihat di sekitar sini..."
+   [74]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040400
+     0 unsigned int SubId = 3009
+     1 string Text = "Hei, cari apa itu? TOLONG jangan bilang\nkamu sama sekali tidak mengerti tentang Iris."
+   [75]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040500
+     0 unsigned int SubId = 3009
+     1 string Text = "Serius?! Dia penulis pemenang penghargaan!\nNovelis yang sangat cantik! Muse\nsastra! Kamu belum pernah mendengar tentang dia?"
+   [76]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040600
+     0 unsigned int SubId = 3009
+     1 string Text = "Ugh, aku tidak bisa mempercayaimu! Aku tidak tahu siapa kamu,\ntapi aku tidak akan membiarkanmu menghalangi jalanku.\nKeluar dari sini!"
+   [77]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040700
+     0 unsigned int SubId = 1089
+     1 string Text = "A-Apa yang terjadi, <player>?!"
+   [78]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040800
+     0 unsigned int SubId = 1089
+     1 string Text = "Penggemar setia aku...?"
+   [79]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040900
+     0 unsigned int SubId = 1089
+     1 string Text = "*sigh* Itu hanya masalah waktu."
+   [80]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041000
+     0 unsigned int SubId = 1089
+     1 string Text = "Hal semacam ini terjadi lebih sering daripada yang aku tidak mau akui. Maafkan aku."
+   [81]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041100
+     0 unsigned int SubId = 1089
+     1 string Text = "Sejak aku menunjukkan wajah aku di acara penghargaan\nceremony itu, semakin banyak penggemar yang terlalu bersemangat\nmencoba menemukan aku."
+   [82]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041200
+     0 unsigned int SubId = 1089
+     1 string Text = "Ini menjadi sangat buruk sehingga kerumunan mereka akan terbentuk\ndi luar rumah aku setiap hari, di tempat aku dulu\ntinggal."
+   [83]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041300
+     0 unsigned int SubId = 1089
+     1 string Text = "aku tidak terlalu keberatan dengan hal seperti itu,\nsecara pribadi."
+   [84]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041400
+     0 unsigned int SubId = 1089
+     1 string Text = "Tapi aku tinggal dengan adik laki-laki aku\npada waktu itu, dan dia mengoperasikan toko barang antik\non tingkat yang lebih rendah."
+   [85]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041500
+     0 unsigned int SubId = 1089
+     1 string Text = "aku tidak ingin menimbulkan masalah lagi untuknya daripada\naku sudah membuat keputusan yang sulit\nuntuk pindah dari sini."
+   [86]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041600
+     0 unsigned int SubId = 1089
+     1 string Text = "Setidaknya sekarang aku sendirian, penggemar aku tidak dapat\nmengganggu orang lain."
+   [87]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041700
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan seperti yang aku katakan sebelumnya, mereka tidak terlalu mengganggu aku\n."
+   [88]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041800
+     0 unsigned int SubId = 1089
+     1 string Text = "Ini hanya harga yang harus dibayar untuk ketenaran. aku ragu\nada yang bisa aku lakukan untuk itu."
+   [89]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041900
+     0 unsigned int SubId = 1089
+     1 string Text = "Bagaimanapun, sepertinya dia akhirnya menyerah dan\nakan pulang. aku sendiri harus kembali."
+   [90]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042000
+     0 unsigned int SubId = 0
+     1 string Text = "Jika berbahaya, larilah, oke?"
+   [91]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042100
+     0 unsigned int SubId = 0
+     1 string Text = "aku selalu di sini jika Kamu perlu bicara."
+   [92]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042200
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya, aku akan mengingatnya."
+   [93]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042300
+     0 unsigned int SubId = 1089
+     1 string Text = "Omong-omong, aku belum mengucapkan terima kasih dengan benar\nyet."
+   [94]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042400
+     0 unsigned int SubId = 1089
+     1 string Text = "aku sangat berterima kasih kepada Kamu karena telah membantu aku bersembunyi."
+   [95]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042500
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu adalah orang yang perhatian, <player>."
+   [96]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042600
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee. Sampai waktu berikutnya, kurasa."
+   [97]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050100
+     0 unsigned int SubId = 3009
+     1 string Text = "Ya ampun, ini Iris! Dalam daging!"
+   [98]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050200
+     0 unsigned int SubId = 3009
+     1 string Text = "Jadi rumor itu benar! Kamu tinggal di sekitar sini!"
+   [99]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050300
+     0 unsigned int SubId = 3009
+     1 string Text = "aku penggemar terbesar Kamu!"
+   [100]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050400
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya, terima kasih. aku senang mendengarnya."
+   [101]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050500
+     0 unsigned int SubId = 1089
+     1 string Text = "Tapi aku pikir Kamu mungkin melampaui\nbatas Kamu."
+   [102]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050600
+     0 unsigned int SubId = 3009
+     1 string Text = "Aw, ayolah! Kamu sudah tampil di banyak\nartikel!"
+   [103]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050700
+     0 unsigned int SubId = 1089
+     1 string Text = "Hentikan ini sekaligus."
+   [104]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050800
+     0 unsigned int SubId = 3009
+     1 string Text = "Hanya satu gambar! Apa salahnya?!"
+   [105]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050900
+     0 unsigned int SubId = 3009
+     1 string Text = "A-Apa? Apa yang terjadi?!"
+   [106]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051000
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>?"
+   [107]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051100
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya, aku baik-baik saja. Terima kasih."
+   [108]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051200
+     0 unsigned int SubId = 0
+     1 string Text = "Tanganmu gemetar."
+   [109]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051300
+     0 unsigned int SubId = 0
+     1 string Text = "Kamu pasti sangat ketakutan."
+   [110]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051400
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu seharusnya menutup mata terhadap\nrahasia seorang wanita, tahu."
+   [111]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051500
+     0 unsigned int SubId = 1089
+     1 string Text = "Apa? Kamu...ingin aku lebih terbuka padamu?"
+   [112]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051600
+     0 unsigned int SubId = 1089
+     1 string Text = "Menurutmu aku harus mengKamulkan orang lain daripada mencoba\nmenyelesaikan semua masalahku sendirian?"
+   [113]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051700
+     0 unsigned int SubId = 1089
+     1 string Text = "Itu mungkin benar, tapi meskipun begitu..."
+   [114]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051800
+     0 unsigned int SubId = 1089
+     1 string Text = "aku bahkan tidak yakin harus mulai dari mana."
+   [115]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051900
+     0 unsigned int SubId = 1089
+     1 string Text = "Sejak kecil aku harus menjaga adik\naku."
+   [116]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052000
+     0 unsigned int SubId = 1089
+     1 string Text = "Bahkan ketika aku tidak melakukan peran itu, aku\nselalu diberitahu betapa dewasanya aku untuk usia aku, atau bagaimana\naku cukup "dewasa" untuk melakukan sesuatu sendiri."
+   [117]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052100
+     0 unsigned int SubId = 1089
+     1 string Text = "aku harus menjaga orang lain selama aku bisa\ningat."
+   [118]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052200
+     0 unsigned int SubId = 1089
+     1 string Text = "Mungkin itu sebabnya..."
+   [119]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052300
+     0 unsigned int SubId = 1089
+     1 string Text = "Sebagai pilar kekuatan itu, aku merasa seolah-olah aku dilarang\nuntuk menunjukkan tKamu-tKamu kelemahan, selamanya berkewajiban\nuntuk menyelesaikan masalah aku sendirian."
+   [120]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052400
+     0 unsigned int SubId = 1089
+     1 string Text = "aku mulai berpikir seperti itu, di suatu tempat\nsepanjang jalan. Itu menjadi sealami bernafas."
+   [121]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052500
+     0 unsigned int SubId = 1089
+     1 string Text = "Itulah sebagian alasan mengapa menjadi sangat sulit\nbagi aku untuk bergantung pada orang lain."
+   [122]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052600
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu pikir aku hanya perlu latihan? Kamu mau membantuku?"
+   [123]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052700
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu berjanji untuk segera membantuku jika aku mendapat masalah\nalagi, seperti aku hari ini?"
+   [124]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052800
+     0 unsigned int SubId = 1089
+     1 string Text = "Tapi aku tidak mungkin... T-Tidak, tolong jangan\nsalah paham. Bukannya aku berpikir kamu tidak bisa diKamulkan\nhanya karena kamu lebih muda."
+   [125]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052900
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu baru saja membantuku keluar dari situasi yang menyusahkan,\nbagaimanapun juga."
+   [126]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053000
+     0 unsigned int SubId = 1089
+     1 string Text = "Tapi aku merasa tidak enak, menempatkan beban seperti itu\nbukan kamu seperti itu..."
+   [127]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053100
+     0 unsigned int SubId = 0
+     1 string Text = "Berhenti di sana dan coba lagi!"
+   [128]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053200
+     0 unsigned int SubId = 0
+     1 string Text = "aku tidak akan kesal, aku akan senang."
+   [129]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053300
+     0 unsigned int SubId = 1089
+     1 string Text = "A-Apa?"
+   [130]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053400
+     0 unsigned int SubId = 1089
+     1 string Text = "Um... Itu..."
+   [131]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053500
+     0 unsigned int SubId = 1089
+     1 string Text = "Terima kasih...sangat banyak?"
+   [132]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053600
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu akan senang jika aku mengKamulkanmu? Benarkah?"
+   [133]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053700
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee, kamu aneh sekali, <player>."
+   [134]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053800
+     0 unsigned int SubId = 1089
+     1 string Text = "Tidak apa-apa. Kamu berhasil melewatiku. Mulai sekarang\non, aku akan bersKamur padamu daripada menanggung semuanya\nsendiri. Aku janji."
+   [135]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053900
+     0 unsigned int SubId = 1089
+     1 string Text = "Terima kasih aku yang tulus, <player>."
+   [136]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551054000
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu akan mulai dengan melihatku pulang dengan selamat,\nkatamu?"
+   [137]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551054100
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya, terima kasih. Jika berkenan, silakan."
+   [138]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551054200
+     0 unsigned int SubId = 1089
+     1 string Text = "A-Aku... Oh tidak... Apa yang harus aku...?"
+   [139]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060100
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>? Apakah ini berarti...?"
+   [140]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060200
+     0 unsigned int SubId = 1089
+     1 string Text = "Tunggu sebentar! aku kesulitan memahami\nini. Bisakah kita pergi ke tempat lain untuk membahas ini?"
+   [141]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060300
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya ampun, itu kejutan. Aku tidak menyangka kamu akan\nterus terang dengan perasaanmu."
+   [142]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060400
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh, tidak, itu tidak membuat aku kecewa. aku berjanji."
+   [143]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060500
+     0 unsigned int SubId = 1089
+     1 string Text = "Kata-kata hampir tidak dapat menggambarkan betapa bahagianya aku ketika\nKamu mengatakan kepada aku bahwa aku tidak harus memikul beban aku\nsendirian."
+   [144]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060600
+     0 unsigned int SubId = 1089
+     1 string Text = "Ini pertama kalinya seseorang mengatakan\nhal seperti itu kepada aku."
+   [145]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060700
+     0 unsigned int SubId = 1089
+     1 string Text = "Bagaimana aku bisa ditolak oleh Kamu, dari semua orang? Bagaimana aku bisa menolak ekspresi cinta yang begitu tulus?"
+   [146]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060800
+     0 unsigned int SubId = 1089
+     1 string Text = "Ada yang unik dari dirimu... \nKamu berbeda dari yang lain, <player>. \nSetidaknya, aku selalu berpikir begitu."
+   [147]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060900
+     0 unsigned int SubId = 1089
+     1 string Text = "Jika kamu yakin aku yang tepat untukmu, maka aku akan\ngdengan senang hati menjadi pacarmu."
+   [148]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061000
+     0 unsigned int SubId = 1089
+     1 string Text = "Awalnya, aku hanya menganggapmu sebagai teman yang lebih muda,\nnamun..."
+   [149]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061100
+     0 unsigned int SubId = 1089
+     1 string Text = "Kapan aku mulai memikirkanmu seperti ini?"
+   [150]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061200
+     0 unsigned int SubId = 1089
+     1 string Text = "Tidak, aku hanya berbicara keras."
+   [151]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061300
+     0 unsigned int SubId = 1089
+     1 string Text = "aku menantikan untuk melihat ke mana hubungan ini\nmembawa kita, <player> akungku."
+   [152]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061400
+     0 unsigned int SubId = 1089
+     1 string Text = "Hm? Kamu ingin aku lebih sering mengutarakan pikiran aku?"
+   [153]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061500
+     0 unsigned int SubId = 1089
+     1 string Text = "Baiklah, aku rasa aku bisa mencobanya."
+   [154]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061600
+     0 unsigned int SubId = 1089
+     1 string Text = "Bolehkah aku mulai dengan menanyakan sesuatu dari Kamu?"
+   [155]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061700
+     0 unsigned int SubId = 1089
+     1 string Text = "Bisakah kita bersama lebih lama lagi?"
+   [156]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061800
+     0 unsigned int SubId = 1089
+     1 string Text = "Terima kasih. Mari kita ngobrol di sini sebentar sebelum\nkita kembali."
+   [157]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070100
+     0 unsigned int SubId = 1089
+     1 string Text = "Terima kasih telah datang menemui aku, <player>.\naku senang memiliki Kamu."
+   [158]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070200
+     0 unsigned int SubId = 1089
+     1 string Text = "Hm... Mengapa kita tidak mengambil kesempatan ini untuk jalan-jalan kecil?"
+   [159]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070300
+     0 unsigned int SubId = 0
+     1 string Text = "Apakah Kamu mencari bahan untuk buku Kamu?"
+   [160]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070400
+     0 unsigned int SubId = 0
+     1 string Text = "Ini kencan!"
+   [161]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070500
+     0 unsigned int SubId = 1089
+     1 string Text = "Ayolah, tidak perlu malu-malu. Aku jelas mengajakmu\nberkencan."
+   [162]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070600
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya ampun, lihat apa yang telah kamu lakukan. Kamu telah membuatku\nmengungkapkannya, dasar bajingan."
+   [163]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070700
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee. aku melihat seseorang senang dengan prospek\nkencan."
+   [164]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070800
+     0 unsigned int SubId = 1089
+     1 string Text = "Tapi jika kamu sudah bersemangat bahkan sebelum kita pergi,\nkamu akan menghilang sebelum acara utama. Cobalah untuk menghemat\nsebagian dari energi itu."
+   [165]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070900
+     0 unsigned int SubId = 1089
+     1 string Text = "Kalau begitu, apakah kita akan berangkat?"
+   [166]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071000
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu menyarankan untuk mencoba yang ini? Baiklah,\nmari kita lihat..."
+   [167]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071100
+     0 unsigned int SubId = 1089
+     1 string Text = "Bagaimana penampilan aku?"
+   [168]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071200
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu menyukainya? Terima kasih."
+   [169]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071300
+     0 unsigned int SubId = 1089
+     1 string Text = "Hmm... Bagaimana kalau yang ini untukmu?"
+   [170]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071400
+     0 unsigned int SubId = 1089
+     1 string Text = "Wah, ya, itu luar biasa!"
+   [171]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071500
+     0 unsigned int SubId = 1089
+     1 string Text = "Sekarang coba yang ini."
+   [172]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071600
+     0 unsigned int SubId = 1089
+     1 string Text = "Itu adalah waktu yang indah."
+   [173]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071700
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu benar-benar sempurna untuk bermain berdKamun,\n<player>."
+   [174]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071800
+     0 unsigned int SubId = 1089
+     1 string Text = "Itu mengingatkan aku, aku punya beberapa pakaian di rumah yang aku\nbeli sebagai referensi untuk novel aku. Maukah Kamu\nmencobanya kapan-kapan?"
+   [175]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071900
+     0 unsigned int SubId = 1089
+     1 string Text = "Tentu saja aku tidak akan memaksamu. Tapi jika kamu mau,\nkatakan saja."
+   [176]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551072000
+     0 unsigned int SubId = 1089
+     1 string Text = "Kalau begitu, haruskah kita kembali?"
+   [177]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551072100
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu akan mengantarku pulang? Terima kasih. Aku akan membuatkanmu\nteh sebelum kamu pergi."
+   [178]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551072200
+     0 unsigned int SubId = 1089
+     1 string Text = "akung sekali jika ada teh\ntumpahan pada Kamu dan harus berganti pakaian, tapi...\naku tidak akan berani, tentu saja. Hilangkan pikiran itu."
+   [179]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080100
+     0 unsigned int SubId = 1089
+     1 string Text = "Selamat datang, <player>."
+   [180]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080200
+     0 unsigned int SubId = 1089
+     1 string Text = "aku baru saja membaca surat dari adik laki-laki aku."
+   [181]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080300
+     0 unsigned int SubId = 1089
+     1 string Text = "Hm? Apakah itu mengganggu aku?"
+   [182]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080400
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu benar. Aku berjanji akan lebih terbuka denganmu,\nkan?"
+   [183]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080500
+     0 unsigned int SubId = 1089
+     1 string Text = "Yang benar adalah..."
+   [184]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080600
+     0 unsigned int SubId = 1089
+     1 string Text = "Ada rumor baru yang beredar di kalangan penggemar aku.\nRumor yang mengklaim bahwa aku memiliki seseorang yang spesial sekarang..."
+   [185]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080700
+     0 unsigned int SubId = 1089
+     1 string Text = "Salah satu penggemar aku pasti telah menonton kami\ndi bazaar beberapa waktu lalu."
+   [186]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080800
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan jelas bagi mereka bahwa kita dekat,\njadi sepertinya itu menjadi gosip panas terbaru."
+   [187]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080900
+     0 unsigned int SubId = 1089
+     1 string Text = "Penggemar yang terlalu bersemangat adalah kekuatan yang harus diperhitungkan.\naku tidak akan terkejut jika mereka memendam niat buruk\nterhadap aku atas hal ini."
+   [188]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081000
+     0 unsigned int SubId = 1089
+     1 string Text = "Adik aku menulis surat kepada aku agar dia bisa memperingatkan aku."
+   [189]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081100
+     0 unsigned int SubId = 0
+     1 string Text = "Pasti menyenangkan untuk menjadi begitu populer!"
+   [190]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081200
+     0 unsigned int SubId = 0
+     1 string Text = "Siapakah seseorang yang spesial ini?!"
+   [191]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081300
+     0 unsigned int SubId = 1089
+     1 string Text = "Ini bukan sesuatu yang bisa kita abaikan begitu saja,\n<player>."
+   [192]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081400
+     0 unsigned int SubId = 1089
+     1 string Text = "Siapa lagi selain kamu? Kamu satu-satunya\nyang spesial bagiku."
+   [193]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081500
+     0 unsigned int SubId = 1089
+     1 string Text = "Ini bukan bahan tertawaan. Kamu bisa berada dalam bahaya\ntoo. Apakah Kamu mengerti?"
+   [194]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081600
+     0 unsigned int SubId = 1089
+     1 string Text = "Maaf, <player>."
+   [195]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081700
+     0 unsigned int SubId = 1089
+     1 string Text = "aku seharusnya memikirkan semuanya sebelum membawa\nKamu pada tanggal itu."
+   [196]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081800
+     0 unsigned int SubId = 1089
+     1 string Text = "Bahkan jika mereka belum yakin dengan siapa aku,\njika begini terus aku akan menyeretmu ke dalam kekacauan ini\ncepat atau lambat."
+   [197]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081900
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan, aku... aku rasa aku tidak dapat mengesampingkan kemungkinan\nmengakhiri hubungan ini, demi keselamatan Kamu."
+   [198]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082000
+     0 unsigned int SubId = 1089
+     1 string Text = "Apa? Kamu khawatir apa yang akan terjadi jika aku\ndalam bahaya dan Kamu tidak ada untuk aku?"
+   [199]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082100
+     0 unsigned int SubId = 1089
+     1 string Text = "..."
+   [200]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082200
+     0 unsigned int SubId = 1089
+     1 string Text = "Um..."
+   [201]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082300
+     0 unsigned int SubId = 1089
+     1 string Text = "T-Tidak, bukan apa-apa."
+   [202]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082400
+     0 unsigned int SubId = 1089
+     1 string Text = "Menurutmu aku harus meminta bantuan kenalan dan\ntetanggaku?"
+   [203]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082500
+     0 unsigned int SubId = 1089
+     1 string Text = "aku tidak mungkin menyusahkan mereka karena sesuatu jadi..."
+   [204]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082600
+     0 unsigned int SubId = 1089
+     1 string Text = "*sigh* Ya, oke. aku akan mencoba berbicara dengan mereka."
+   [205]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082700
+     0 unsigned int SubId = 1090
+     1 string Text = "Oh, akung, itu mengerikan! Dr. Marian sedang menangani kasus ini."
+   [206]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082800
+     0 unsigned int SubId = 1090
+     1 string Text = "Orang-orang yang merosot itu tidak akan meninggalkanmu sendirian, katamu?\nYah, aku pasti akan memberi mereka dosis kenyataan."
+   [207]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082900
+     0 unsigned int SubId = 1091
+     1 string Text = "Ya, aku mengerti situasinya. aku dan kekasih aku\nakrab dengan basis penggemar, mengingat kami telah mengumpulkan\nkita. Kami dapat menggunakan pengalaman itu untuk—"
+   [208]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083000
+     0 unsigned int SubId = 1088
+     1 string Text = "Sebanyak mungkin pengalaman Kamu bermanfaat bagi kami, aku pikir\nsituasinya sedikit berbeda di sini."
+   [209]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083100
+     0 unsigned int SubId = 1089
+     1 string Text = "Ini semua salahku. Seharusnya aku tidak melibatkan kalian semua dalam hal ini."
+   [210]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083200
+     0 unsigned int SubId = 1091
+     1 string Text = "Tidak, tidak perlu meminta maaf."
+   [211]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083300
+     0 unsigned int SubId = 1091
+     1 string Text = "aku memperkirakan hal seperti ini akan terjadi.\nItulah sebabnya aku menyarankan Kamu pindah ke sini."
+   [212]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083400
+     0 unsigned int SubId = 1091
+     1 string Text = "Itu juga alasan kami yang lain ikut dengan Kamu. aku pikir\nini akan menenangkan pikiran Kamu dengan\nwajah-wajah yang Kamu kenal untuk diajak bicara."
+   (213]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083500
+     0 unsigned int SubId = 1090
+     1 string Text = "Tidak diragukan lagi. Pernah menjadi keluarga Kota Pohon Oak, selalu\nan keluarga Kota Pohon Oak!"
+   [214]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083600
+     0 unsigned int SubId = 1090
+     1 string Text = "Kami telah bersama Kamu melalui suka dan duka. Beberapa\npenggemar yang tidak puas tidak akan membuat kami takut."
+   [215]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083700
+     0 unsigned int SubId = 1090
+     1 string Text = "Bahkan, aku agak terluka Kamu tidak pernah datang kepada kami\ntentang ini sebelumnya! aku tidak dapat mengatakan betapa bahagianya aku untuk\nmelihat Kamu meminta bantuan untuk sekali ini."
+   [216]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083800
+     0 unsigned int SubId = 1088
+     1 string Text = "Ya, selama aku mengenalnya, Iris tidak pernah\nmenjadi orang yang meminta bantuan. Mungkin dia benar-benar\nberubah hati."
+   [217]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083900
+     0 unsigned int SubId = 1088
+     1 string Text = "Bagaimanapun, kami akan melakukan apapun yang kami bisa untuk membantu Kamu."
+   [218]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084000
+     0 unsigned int SubId = 1089
+     1 string Text = "Kalian semua terlalu baik... Terima kasih."
+   [219]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084100
+     0 unsigned int SubId = 1089
+     1 string Text = "aku tidak bisa cukup berterima kasih untuk hari ini,\n<player>."
+   [220]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084200
+     0 unsigned int SubId = 1089
+     1 string Text = "aku tidak tahu bagaimana perasaan mereka terhadap aku."
+   [221]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084300
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan aku akan pergi seumur hidup aku tanpa mengetahui jika\nKamu tidak menyarankan aku pergi ke mereka."
+   [222]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084400
+     0 unsigned int SubId = 1089
+     1 string Text = "Tapi aku masih mengkhawatirkan kesehatan Kamu."
+   [223]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084500
+     0 unsigned int SubId = 1089
+     1 string Text = "aku tahu bahwa semua orang akan menjaga kita tetap aman di sini,\ndan aku sangat ragu penggemar aku akan bertindak sejauh ini\na untuk melacak Kamu ke kota Kamu, tapi..."
+   [224]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084600
+     0 unsigned int SubId = 1089
+     1 string Text = "Sepertinya kamu hanya mengkhawatirkanku. Berjanjilah padaku\nkamu akan mencoba memikirkan dirimu sendiri untuk sebuah perubahan?"
+   [225]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090100
+     0 unsigned int SubId = 3009
+     1 string Text = "H-Hei, kamu! Apa hubunganmu dengan Iris?"
+   [226]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090200
+     0 unsigned int SubId = 3009
+     1 string Text = "Dia spesial untukmu?!"
+   [227]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090300
+     0 unsigned int SubId = 3009
+     1 string Text = "Pfft! Aku akan memberitahumu bahwa Iris adalah wanita terhormat,\ncantik, dan berbakat!"
+   [228]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090400
+     0 unsigned int SubId = 3009
+     1 string Text = "Kamu tidak akan pernah bisa berharap untuk menjadi layak atas anugerahnya!"
+   [229]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090500
+     0 unsigned int SubId = 9001
+     1 string Text = "Bukan Kamu yang memutuskan."
+   [230]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090600
+     0 unsigned int SubId = 1089
+     1 string Text = "aku bisa menulis paragraf demi paragraf tentang apa yang\nmembuat <player> istimewa, dan itu masih belum\ncukup."
+   [231]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090700
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu tidak mungkin menilai <genderplayer="him","her">, Kamu juga tidak memiliki izin\naku untuk melakukannya."
+   [232]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090800
+     0 unsigned int SubId = 1089
+     1 string Text = "aku senang Kamu mengaku sebagai penggemar\naku."
+   [233]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090900
+     0 unsigned int SubId = 1089
+     1 string Text = "Namun, Kamu hanya melihat aku sebagai Iris sang novelis;\nsebuah ilusi yang Kamu ciptakan untuk memberikan kenyamanan bagi diri mu sendiri."
+   [234]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091000
+     0 unsigned int SubId = 1089
+     1 string Text = "aku bukan ilusi, bukan karya fiksi—aku adalah orang\nyang nyata. aku akan menghargainya jika Kamu tidak memaksakan\nfantasi sepihak mu kepada aku."
+   [235]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091100
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>, sebaliknya, memberitahuku\n<genderplayer="he's","she's"> selalu mencintaiku apa adanya."
+   [236]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091200
+     0 unsigned int SubId = 1089
+     1 string Text = "aku tidak akan pernah meninggalkan <genderplayer="his","her">, tidak peduli apa yang orang\nkatakan."
+   [237]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091300
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan aku tidak akan dengan mudah memaafkan seseorang yang menyakiti <genderplayer="him","her">,\njuga."
+   [238]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091400
+     0 unsigned int SubId = 3009
+     1 string Text = "T-Tapi aku...! Aku hanya memikirkan KAMU, Iris!"
+   [239]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091500
+     0 unsigned int SubId = 9001
+     1 string Text = "Daaaan cut!"
+   [240]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091600
+     0 unsigned int SubId = 1091
+     1 string Text = "Cinta memiliki banyak bentuk yang berbeda, tetapi memaksakan\nkasih yang tak terbalas kepada seseorang tidaklah menarik\nsedikit pun."
+   [241]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091700
+     0 unsigned int SubId = 1088
+     1 string Text = "Jika kamu benar-benar mencintainya, maka kamu harus mempertimbangkan\nkebahagiaannya di atas segalanya."
+   [242]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091800
+     0 unsigned int SubId = 1090
+     1 string Text = "Dan jika Kamu membutuhkan kuliah ilmiah tentang ITU,\nkami dapat mengajari Kamu kesalahan cara Kamu, h-o-n-e-y."
+   [243]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091900
+     0 unsigned int SubId = 1089
+     1 string Text = "Kalian semua datang!"
+   [244]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092000
+     0 unsigned int SubId = 1089
+     1 string Text = "aku telah...mengalami begitu banyak sejak aku pertama kali tiba di sini."
+   [245]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092100
+     0 unsigned int SubId = 1089
+     1 string Text = "aku ingin menggunakan pengalaman baru ini dan\nmemulai jejak baru dalam tulisan aku. aku ingin bereksperimen\ndengan gaya dan tema yang belum pernah aku coba..."
+   [246]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092200
+     0 unsigned int SubId = 1089
+     1 string Text = "aku akan tertarik untuk mendengar pendapat Kamu tentangnya\nbaik, setelah aku selesai menulisnya."
+   [247]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092300
+     0 unsigned int SubId = 1089
+     1 string Text = "Jadi, jika Kamu masih memiliki niat untuk mendukung aku ..."
+   [248]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092400
+     0 unsigned int SubId = 1089
+     1 string Text = "Kalau begitu aku minta Kamu meninggalkan aku dan menunggu dengan sabar\nuntuk itu."
+   [249]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092500
+     0 unsigned int SubId = 3009
+     1 string Text = "Y—"
+   [250]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092600
+     0 unsigned int SubId = 3009
+     1 string Text = "Ya, Bu! aku akan baik-baik saja, aku janji!"
+   [251]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092700
+     0 unsigned int SubId = 1091
+     1 string Text = "Kamu dapat menyerahkan sisanya kepada kami. Oh, jangan khawatir.\nKami tidak akan melakukan hal buruk padanya."
+   [252]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092800
+     0 unsigned int SubId = 1089
+     1 string Text = "Baiklah. Terima kasih atas semua bantuan Kamu."
+   [253]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092900
+     0 unsigned int SubId = 1089
+     1 string Text = "aku minta maaf karena memaparkan Kamu pada sesuatu yang begitu mengerikan."
+   [254]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093000
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu senang mendengar apa yang aku katakan?"
+   [255]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093100
+     0 unsigned int SubId = 1089
+     1 string Text = "aku senang mendengar Kamu mengatakan bahwa aku spesial bagi Kamu,\ntoo."
+   [256]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093200
+     0 unsigned int SubId = 1089
+     1 string Text = "aku malu mengakuinya, tapi pada awalnya..."
+   [257]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093300
+     0 unsigned int SubId = 1089
+     1 string Text = "Aku akan mencoba meyakinkannya bahwa kamu\nhanya seorang teman. Aku tidak ingin ada kemalangan menimpa\nkamu karena aku."
+   [258]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093400
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan kemudian kamu pergi dan menyatakan bahwa aku spesial\nbagimu."
+   [259]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093500
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu sudah berkali-kali memberitahuku untuk tidak menanggung\nbebanku sendirian."
+   [260]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093600
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan itulah yang memberi aku keberanian untuk mengungkapkan\nperasaan aku yang sebenarnya ke dalam kata-kata."
+   [261]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093700
+     0 unsigned int SubId = 1089
+     1 string Text = "Aneh sekali. Saat bersamamu, aku menjadi tidak takut."
+   [262]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093800
+     0 unsigned int SubId = 1089
+     1 string Text = "aku tidak akan pernah bermimpi bahwa aku akan membuka hati aku\nuntuk seseorang seperti ini. aku sendiri sedikit terkejut."
+   [263]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093900
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>..."
+   [264]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094000
+     0 unsigned int SubId = 1089
+     1 string Text = "aku mungkin akan membuat Kamu lebih banyak masalah di masa depan,\ntapi..."
+   [265]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094100
+     0 unsigned int SubId = 1089
+     1 string Text = "Jika saat itu tiba, maukah kamu menghadapinya dengan\naku?"
+   [266]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094200
+     0 unsigned int SubId = 0
+     1 string Text = "Kamu bahkan tidak perlu bertanya!"
+   [267]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094300
+     0 unsigned int SubId = 0
+     1 string Text = "Aku akan selalu mendukungmu!"
+   [268]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094400
+     0 unsigned int SubId = 1089
+     1 string Text = "Terima kasih. aku percaya Kamu, <player>."
+   [269]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094500
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan aku harap Kamu dapat mengKamulkan aku jika Kamu membutuhkan\napapun. Janji?"
+   [270]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094600
+     0 unsigned int SubId = 1089
+     1 string Text = "Ya, aku tahu Kamu akan melakukannya."
+   [271]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094700
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee, aku tidak menyangka bahwa mempercayai seseorang dan\nsebagai balasannya dipercaya bisa terasa begitu luar biasa."
+   [272]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100100
+     0 unsigned int SubId = 1089
+     1 string Text = "Apa?! Kamu benar-benar serius tentang ini?"
+   [273]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100200
+     0 unsigned int SubId = 1089
+     1 string Text = "B-Baiklah. Bisakah Kamu memberi aku waktu\nuntuk menenangkan diri?"
+   [274]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100300
+     0 unsigned int SubId = 1089
+     1 string Text = "Jika aku tidak bisa mengungkapkan perasaan aku dengan baik pada saat seperti\nini, aku tidak pantas menyebut diri aku seorang novelis."
+   [275]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100400
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh, jangan terlalu memanjakanku."
+   [276]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100500
+     0 unsigned int SubId = 1089
+     1 string Text = "Kau tahu, itu aneh."
+   [277]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100600
+     0 unsigned int SubId = 1089
+     1 string Text = "aku selalu merasa terputus dari kata-kata seperti\n"memanjakan" dan "bergantung." Seolah-olah kata-kata itu tidak pernah berlaku untuk aku.\n"
+   [278]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100700
+     0 unsigned int SubId = 1089
+     1 string Text = "Sebagai kakak perempuan dan sosok "dewasa", aku pikir\naku harus melakukan semuanya sendiri. aku berasumsi itu\nhanya cara dunia."
+   [279]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100800
+     0 unsigned int SubId = 1089
+     1 string Text = "Tapi kemudian aku bertemu Kamu. Dan ketika aku belajar untuk bergantung\non orang lain, aku menyadari sesuatu."
+   [280]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100900
+     0 unsigned int SubId = 1089
+     1 string Text = "Ketika aku menjauhkan diri dari orang lain, aku melakukannya\nkarena aku benci memikirkan menjadi beban\nbagi mereka."
+   [281]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101000
+     0 unsigned int SubId = 1089
+     1 string Text = "Tetapi dengan melakukan itu, aku mengabaikan kebaikan yang mereka\ndengan baik hati menawarkan aku."
+   [282]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101100
+     0 unsigned int SubId = 1089
+     1 string Text = "Sekarang terpikir oleh aku bahwa bersikeras melakukan\nsegala sesuatu yang aku lakukan justru dapat menyakiti mereka."
+   [283]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101200
+     0 unsigned int SubId = 1089
+     1 string Text = "Kaulah yang membuatku sadar akan hal itu."
+   [284]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101300
+     0 unsigned int SubId = 1089
+     1 string Text = "Kamu selalu ada untukku, siap datang\nmenolongku. Terima kasih banyak, <player>."
+   [285]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101400
+     0 unsigned int SubId = 1089
+     1 string Text = "Terima kasih telah menghubungi aku dan\nmenghargai perjuangan aku."
+   [286]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101500
+     0 unsigned int SubId = 1089
+     1 string Text = "aku pikir jauh di lubuk hati aku, aku mungkin\nsecara diam-diam berharap seseorang akan melihat bagian\ndari aku pada akhirnya."
+   [287]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101600
+     0 unsigned int SubId = 1089
+     1 string Text = "Saat aku bersamamu, aku bukanlah orang yang diinginkan\naku, tapi akhirnya aku bisa menjadi diriku yang sebenarnya: cukup\nIris."
+   [288]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101700
+     0 unsigned int SubId = 1089
+     1 string Text = "Bertemu denganmu adalah hal terbaik yang pernah terjadi\npadaku, <player>."
+   [289]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101800
+     0 unsigned int SubId = 1089
+     1 string Text = "Aku juga mencintaimu, dari lubuk hatiku yang paling dalam."
+   [290]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101900
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan aku ingin menghabiskan sisa hidupku bersamamu,\napapun yang terjadi."
+   [291]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551102000
+     0 unsigned int SubId = 1089
+     1 string Text = "Terima kasih sekali lagi, <player>. Semoga hidup kita\nbersama-sama menyenangkan."
+   [292]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551102100
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee, kita harus memberi tahu Giorgio dan yang lainnya\nnanti. Aku yakin mereka akan bersenang-senang."
+   [293]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551102200
+     0 unsigned int SubId = 1089
+     1 string Text = "aku juga perlu menulis surat kepada saudara laki-laki aku.\naku tidak sabar untuk memberi tahu dia semua tentang calon<genderplayer="groom","bride">-baru aku yang luar biasa ."
+   [294]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551102300
+     0 unsigned int SubId = 1089
+     1 string Text = "Dan tentang betapa gembiranya aku saat ini."
+ 1 string IdEnumName = ""

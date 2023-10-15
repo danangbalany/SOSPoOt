@@ -1,0 +1,1488 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "Iris_en"
+ 0 LocalizeTextData list
+  0 Array Array (295 items)
+   0 int size = 295
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010100
+     0 unsigned int SubId = 1089
+     1 string Text = "Well, well, aren't you the friendly one? I wonder\nwhere your owner is."
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010200
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh, my. Interested in playing with <player>,\nnow, are we?"
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010300
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee, I'm sorry."
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010400
+     0 unsigned int SubId = 1089
+     1 string Text = "You two are both so adorable, I couldn't help\nmyself. Will you forgive me?"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010500
+     0 unsigned int SubId = 1089
+     1 string Text = "You must be quite fond of animals,\n<player>."
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010600
+     0 unsigned int SubId = 1089
+     1 string Text = "Ah, that's right. You did mention you were a farmer,\ndid you not?"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010700
+     0 unsigned int SubId = 1089
+     1 string Text = "Do you mind if I ask why you chose that profession?"
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010800
+     0 unsigned int SubId = 1089
+     1 string Text = "I see... Is that how it happened? Why, that's just\nsplendid."
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551010900
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh my, I'm forgetting myself. My apologies."
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011000
+     0 unsigned int SubId = 1089
+     1 string Text = "I just remembered I have some urgent business to\ntake care of, so I'll have to excuse myself for today."
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011100
+     0 unsigned int SubId = 1089
+     1 string Text = "This has been a most worthwhile conversation.\nThank you kindly for spending time with me."
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011200
+     0 unsigned int SubId = 1089
+     1 string Text = "If you've the chance, I'd love to speak with you again\nsometime soon. Would that be all right?"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011300
+     0 unsigned int SubId = 0
+     1 string Text = "Yeah, I'd love to."
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011400
+     0 unsigned int SubId = 0
+     1 string Text = "Maybe. If I get the chance."
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011500
+     0 unsigned int SubId = 1089
+     1 string Text = "I'm pleased to hear it. I trust you'll follow through\non that."
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011600
+     0 unsigned int SubId = 1089
+     1 string Text = "My, you don't sound particularly thrilled about it.\nWhile it wasn't the answer I was looking for..."
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011700
+     0 unsigned int SubId = 1089
+     1 string Text = "I do hope that we'll be blessed with that opportunity\nsoon."
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551011800
+     0 unsigned int SubId = 1089
+     1 string Text = "Until next time, <player>."
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020100
+     0 unsigned int SubId = 1089
+     1 string Text = "Welcome, <player>."
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020200
+     0 unsigned int SubId = 1091
+     1 string Text = "Hello there. Are you here to see Iris as well?"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020300
+     0 unsigned int SubId = 1091
+     1 string Text = "I'm afraid I'm in the middle of some business\nwith her. Would you mind waiting a moment?"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020400
+     0 unsigned int SubId = 1091
+     1 string Text = "If you must know, my betrothed happens to be one\nof Iris' greatest fans."
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020500
+     0 unsigned int SubId = 1091
+     1 string Text = "I don't often intrude on her like this, mind you,\nbut I thought I'd come ask for her autograph."
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020600
+     0 unsigned int SubId = 1091
+     1 string Text = "As I'm sure you're aware, her novels are simply\nphenomenal!"
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020700
+     0 unsigned int SubId = 1091
+     1 string Text = "Obviously the stories themselves stir the soul and\ncaptivate the reader's very heart, but her florid prose\nin particular is truly unparalleled!"
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020800
+     0 unsigned int SubId = 1091
+     1 string Text = "Which is how I, too, quickly became one of her fans,\nand..."
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551020900
+     0 unsigned int SubId = 1089
+     1 string Text = "Now, now, that's enough. All this talk of florid prose\nis a bit hyperbolic."
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021000
+     0 unsigned int SubId = 1089
+     1 string Text = "But I'm honored to hear you say that, Giorgio."
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021100
+     0 unsigned int SubId = 1089
+     1 string Text = "Everyone always said your kindness was\none of the highlights of living in Oak Tree Town."
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021200
+     0 unsigned int SubId = 1089
+     1 string Text = "I'm already in your debt, what with you suggesting\na move to this lovely little locale."
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021300
+     0 unsigned int SubId = 1089
+     1 string Text = "If it's an autograph you want as thanks, it's the least\nI can do to repay you."
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021400
+     0 unsigned int SubId = 1091
+     1 string Text = "Thank you, thank you! My betrothed and I greatly\nlook forward to your next work."
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021500
+     0 unsigned int SubId = 1091
+     1 string Text = "Now, I'll have to pack this masterpiece up and get it\nready to ship! If you'll excuse me..."
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021600
+     0 unsigned int SubId = 1089
+     1 string Text = "I suppose the cat's out of the bag."
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021700
+     0 unsigned int SubId = 1089
+     1 string Text = "Not that I was trying to hide it from you, so you may\nhave already picked up on it on your own."
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021800
+     0 unsigned int SubId = 1089
+     1 string Text = "But anyway, yes, I'm a novelist."
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551021900
+     0 unsigned int SubId = 1089
+     1 string Text = "To be honest with you, I was searching for some\ninspiration the day we happened to run into each\nother at the oasis."
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022000
+     0 unsigned int SubId = 1089
+     1 string Text = "Your tale was quite compelling, actually,\nand it motivated me to pen a new story.\nYou have my gratitude for that."
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022100
+     0 unsigned int SubId = 1089
+     1 string Text = "I apologize if I offended you by not being forthright\nabout it."
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022200
+     0 unsigned int SubId = 1089
+     1 string Text = "Some people's attitudes change drastically once they\nfind out, so..."
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022300
+     0 unsigned int SubId = 1089
+     1 string Text = "I wanted to get to know you without you being\naware of my past."
+   [41]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022400
+     0 unsigned int SubId = 0
+     1 string Text = "Your profession doesn't bother me."
+   [42]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022500
+     0 unsigned int SubId = 0
+     1 string Text = "I already figured it out, actually."
+   [43]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022600
+     0 unsigned int SubId = 1089
+     1 string Text = "One's profession has no bearing when forming\na friendship, you say? Yes, I'm inclined to agree."
+   [44]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022700
+     0 unsigned int SubId = 1089
+     1 string Text = "I had a feeling you'd say something like that."
+   [45]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022800
+     0 unsigned int SubId = 1089
+     1 string Text = "Ah, I knew you had an astute look about you."
+   [46]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551022900
+     0 unsigned int SubId = 1089
+     1 string Text = "So you knew, but chose to disregard it? I should\nhave expected as much from you, <player>."
+   [47]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551023000
+     0 unsigned int SubId = 1089
+     1 string Text = "Thank you."
+   [48]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551023100
+     0 unsigned int SubId = 1089
+     1 string Text = "I'm glad to be counted among your friends. May our\ncamaraderie continue to prosper."
+   [49]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030100
+     0 unsigned int SubId = 1089
+     1 string Text = "You came to visit, <player>?\nWhat a lovely surprise."
+   [50]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030200
+     0 unsigned int SubId = 1089
+     1 string Text = "I'm afraid I'm a bit busy at the moment, though..."
+   [51]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030300
+     0 unsigned int SubId = 1089
+     1 string Text = "Thankfully, my business won't take too long, so feel\nfree to read a book from the shelf while you wait."
+   [52]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030400
+     0 unsigned int SubId = 1089
+     1 string Text = "Hello...?"
+   [53]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030500
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>?"
+   [54]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030600
+     0 unsigned int SubId = 1089
+     1 string Text = "Ah, there we go. I've been trying to get your\nattention for some time now."
+   [55]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030700
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh, no, you needn't worry about it. I'm the one who\nmade you wait in the first place."
+   [56]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030800
+     0 unsigned int SubId = 1089
+     1 string Text = "And besides, while you were reading..."
+   [57]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551030900
+     0 unsigned int SubId = 1089
+     1 string Text = "I was able to get a good look at you completely\nwrapped up in a book, oblivious to the world."
+   [58]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031000
+     0 unsigned int SubId = 1089
+     1 string Text = "I hope you don't mind me saying so,\n<player>, but you're quite the easy read."
+   [59]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031100
+     0 unsigned int SubId = 1089
+     1 string Text = "You'd turn the page, and your expression would turn\nright with it."
+   [60]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031200
+     0 unsigned int SubId = 1089
+     1 string Text = "I know it was rude of me to stare, but I was\ncompletely fascinated by it."
+   [61]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031300
+     0 unsigned int SubId = 1089
+     1 string Text = "By the way, what did you think of the book?"
+   [62]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031400
+     0 unsigned int SubId = 0
+     1 string Text = "It was fascinating."
+   [63]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031500
+     0 unsigned int SubId = 0
+     1 string Text = "It got me thinking!"
+   [64]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031600
+     0 unsigned int SubId = 0
+     1 string Text = "I'd love to see it as a movie!"
+   [65]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031700
+     0 unsigned int SubId = 1089
+     1 string Text = "Yes, I could certainly tell how engrossed you were\nby the look on your face. Thank you."
+   [66]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031800
+     0 unsigned int SubId = 1089
+     1 string Text = "It's an honor to hear that. Thank you."
+   [67]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551031900
+     0 unsigned int SubId = 1089
+     1 string Text = "Unfortunately, we don't have any plans to make that\none into a movie. But thank you anyway."
+   [68]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551032000
+     0 unsigned int SubId = 1089
+     1 string Text = "Yes, that's right. I wrote that book."
+   [69]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551032100
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee. As an author, there's nothing more\ngratifying than watching your readers enjoy your\nwork."
+   [70]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551032200
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh, I have an idea. Why not borrow a few books\nfrom the collection? Consider it my thanks for the\nraving review."
+   [71]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040100
+     0 unsigned int SubId = 3009
+     1 string Text = "Huh? You want to know what I'm doing?\nIsn't that obvious?"
+   [72]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040200
+     0 unsigned int SubId = 3009
+     1 string Text = "I'm waiting for Iris!"
+   [73]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040300
+     0 unsigned int SubId = 3009
+     1 string Text = "There's a rumor among fans that says she's been\nspotted around here somewhere..."
+   [74]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040400
+     0 unsigned int SubId = 3009
+     1 string Text = "Hey, what's that look for? PLEASE don't tell me\nyou're totally clueless about Iris."
+   [75]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040500
+     0 unsigned int SubId = 3009
+     1 string Text = "Seriously?! She's an award-winning author!\nThe stunningly beautiful novelist! The muse\nof literature! You've never heard of her?"
+   [76]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040600
+     0 unsigned int SubId = 3009
+     1 string Text = "Ugh, I can't believe you! I dunno who you are,\nbut I'm not letting you get in my way.\nGet out of here!"
+   [77]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040700
+     0 unsigned int SubId = 1089
+     1 string Text = "Wh-What's going on, <player>?!"
+   [78]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040800
+     0 unsigned int SubId = 1089
+     1 string Text = "A fervid fan of mine...?"
+   [79]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551040900
+     0 unsigned int SubId = 1089
+     1 string Text = "*sigh* It was only a matter of time."
+   [80]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041000
+     0 unsigned int SubId = 1089
+     1 string Text = "This sort of thing happens more often than I care\nto admit. I'm so sorry."
+   [81]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041100
+     0 unsigned int SubId = 1089
+     1 string Text = "Ever since I showed my face at that award\nceremony, I've had more and more overzealous fans\ntrying to find me."
+   [82]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041200
+     0 unsigned int SubId = 1089
+     1 string Text = "It got so bad that crowds of them would form\noutside my house every day, back where I used\nto live."
+   [83]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041300
+     0 unsigned int SubId = 1089
+     1 string Text = "I don't particularly mind that kind of thing,\npersonally."
+   [84]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041400
+     0 unsigned int SubId = 1089
+     1 string Text = "But I was living with my younger brother\nat the time, and he operated an antique store\non the lower level."
+   [85]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041500
+     0 unsigned int SubId = 1089
+     1 string Text = "I didn't want to cause any more trouble for him than\nI already had, so I made the difficult decision\nto move out here."
+   [86]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041600
+     0 unsigned int SubId = 1089
+     1 string Text = "At least now that I'm on my own, my fans can't\nbother anyone else."
+   [87]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041700
+     0 unsigned int SubId = 1089
+     1 string Text = "And as I said before, they don't annoy me all that\nmuch."
+   [88]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041800
+     0 unsigned int SubId = 1089
+     1 string Text = "It's simply the price one pays for fame. I doubt\nthere's anything I can do about it."
+   [89]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551041900
+     0 unsigned int SubId = 1089
+     1 string Text = "In any case, it seems like he's finally given up and is\ngoing home. I should be heading back, myself."
+   [90]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042000
+     0 unsigned int SubId = 0
+     1 string Text = "If it gets dangerous, run for it, okay?"
+   [91]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042100
+     0 unsigned int SubId = 0
+     1 string Text = "I'm always here if you need to talk."
+   [92]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042200
+     0 unsigned int SubId = 1089
+     1 string Text = "Yes, I'll keep that in mind."
+   [93]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042300
+     0 unsigned int SubId = 1089
+     1 string Text = "Speaking of which, I haven't properly thanked you\nyet."
+   [94]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042400
+     0 unsigned int SubId = 1089
+     1 string Text = "I'm so grateful to you for helping me hide."
+   [95]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042500
+     0 unsigned int SubId = 1089
+     1 string Text = "You're such a considerate person, <player>."
+   [96]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551042600
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee. Until next time, I suppose."
+   [97]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050100
+     0 unsigned int SubId = 3009
+     1 string Text = "Ohmygosh, it's Iris! In the flesh!"
+   [98]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050200
+     0 unsigned int SubId = 3009
+     1 string Text = "So the rumors were true! You DO live around here!"
+   [99]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050300
+     0 unsigned int SubId = 3009
+     1 string Text = "I'm your biggest fan!"
+   [100]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050400
+     0 unsigned int SubId = 1089
+     1 string Text = "Yes, thank you. I'm happy to hear that."
+   [101]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050500
+     0 unsigned int SubId = 1089
+     1 string Text = "But I think you may be overstepping your\nboundaries."
+   [102]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050600
+     0 unsigned int SubId = 3009
+     1 string Text = "Aw, c'mon! You're already featured in a ton of\narticles!"
+   [103]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050700
+     0 unsigned int SubId = 1089
+     1 string Text = "Stop this at once."
+   [104]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050800
+     0 unsigned int SubId = 3009
+     1 string Text = "It's just one picture! What's the harm in that?!"
+   [105]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551050900
+     0 unsigned int SubId = 3009
+     1 string Text = "Wh-What? What's going on?!"
+   [106]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051000
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>?"
+   [107]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051100
+     0 unsigned int SubId = 1089
+     1 string Text = "Yes, I'm fine. Thank you."
+   [108]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051200
+     0 unsigned int SubId = 0
+     1 string Text = "Your hands are shaking."
+   [109]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051300
+     0 unsigned int SubId = 0
+     1 string Text = "You must've been so scared."
+   [110]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051400
+     0 unsigned int SubId = 1089
+     1 string Text = "You're supposed to turn a blind eye to a lady's\nsecrets, you know."
+   [111]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051500
+     0 unsigned int SubId = 1089
+     1 string Text = "What? You...want me to open up to you more?"
+   [112]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051600
+     0 unsigned int SubId = 1089
+     1 string Text = "You think I should rely on others instead of trying\nto solve all of my problems alone?"
+   [113]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051700
+     0 unsigned int SubId = 1089
+     1 string Text = "That may be true, but even so..."
+   [114]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051800
+     0 unsigned int SubId = 1089
+     1 string Text = "I'm not even sure where to begin."
+   [115]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551051900
+     0 unsigned int SubId = 1089
+     1 string Text = "Since childhood, I've had to look after my younger\nbrother."
+   [116]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052000
+     0 unsigned int SubId = 1089
+     1 string Text = "Even when I wasn't performing that role, I was\nalways told how mature I was for my age, or how\nI was "adult" enough to do things by myself."
+   [117]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052100
+     0 unsigned int SubId = 1089
+     1 string Text = "I've had to look after others for as long as I can\nremember."
+   [118]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052200
+     0 unsigned int SubId = 1089
+     1 string Text = "Perhaps that's why..."
+   [119]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052300
+     0 unsigned int SubId = 1089
+     1 string Text = "As that pillar of strength, I feel as if I'm forbidden\nto show any sign of weakness, forever obligated\nto solve my problems alone."
+   [120]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052400
+     0 unsigned int SubId = 1089
+     1 string Text = "I started thinking like that, somewhere along\nthe way. It became as natural as breathing."
+   [121]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052500
+     0 unsigned int SubId = 1089
+     1 string Text = "That's part of the reason why it's become so difficult\nfor me to depend on others."
+   [122]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052600
+     0 unsigned int SubId = 1089
+     1 string Text = "You think I just need practice? You'll help me?"
+   [123]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052700
+     0 unsigned int SubId = 1089
+     1 string Text = "You promise to rush to my aid if I'm ever in trouble\nagain, like I was today?"
+   [124]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052800
+     0 unsigned int SubId = 1089
+     1 string Text = "But I couldn't possibly... N-No, please don't\nmisunderstand. It's not that I think you're unreliable\nsimply because you're younger."
+   [125]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551052900
+     0 unsigned int SubId = 1089
+     1 string Text = "You just helped me out of a troubling situation,\nafter all."
+   [126]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053000
+     0 unsigned int SubId = 1089
+     1 string Text = "But I wouldn't feel right, placing such a burden\non you like that..."
+   [127]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053100
+     0 unsigned int SubId = 0
+     1 string Text = "Stop right there and try again!"
+   [128]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053200
+     0 unsigned int SubId = 0
+     1 string Text = "I wouldn't be annoyed, I'd be happy."
+   [129]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053300
+     0 unsigned int SubId = 1089
+     1 string Text = "Wh-What?"
+   [130]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053400
+     0 unsigned int SubId = 1089
+     1 string Text = "Um... That is..."
+   [131]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053500
+     0 unsigned int SubId = 1089
+     1 string Text = "Thank you...very much?"
+   [132]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053600
+     0 unsigned int SubId = 1089
+     1 string Text = "You'd be happy if I relied on you? Really?"
+   [133]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053700
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee, you're quite peculiar, <player>."
+   [134]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053800
+     0 unsigned int SubId = 1089
+     1 string Text = "It's all right. You've gotten through to me. From now\non, I'll lean on you instead of shouldering everything\nmyself. I promise."
+   [135]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551053900
+     0 unsigned int SubId = 1089
+     1 string Text = "You have my sincerest gratitude, <player>."
+   [136]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551054000
+     0 unsigned int SubId = 1089
+     1 string Text = "You're going to start by seeing me safely home,\nyou say?"
+   [137]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551054100
+     0 unsigned int SubId = 1089
+     1 string Text = "Yes, thank you. If you would, please."
+   [138]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551054200
+     0 unsigned int SubId = 1089
+     1 string Text = "I-I... Oh no... What do I...?"
+   [139]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060100
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>? Does this mean...?"
+   [140]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060200
+     0 unsigned int SubId = 1089
+     1 string Text = "Hold on a moment! I'm having a hard time taking\nthis in. Could we go somewhere else to discuss this?"
+   [141]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060300
+     0 unsigned int SubId = 1089
+     1 string Text = "My, that was a surprise. I wasn't expecting you to be\nso frank with your feelings."
+   [142]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060400
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh, no, it hasn't put me off. I promise."
+   [143]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060500
+     0 unsigned int SubId = 1089
+     1 string Text = "Words can scarcely describe how happy I was when\nyou told me I didn't have to shoulder my burdens\nalone."
+   [144]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060600
+     0 unsigned int SubId = 1089
+     1 string Text = "It was the first time anyone had ever said\nsuch a thing to me."
+   [145]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060700
+     0 unsigned int SubId = 1089
+     1 string Text = "How could I be put off by you, of all people? How\ncould I deny such an earnest expression of love?"
+   [146]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060800
+     0 unsigned int SubId = 1089
+     1 string Text = "There's something unique about you... \nYou're different from the rest, <player>. \nAt least, I've always thought so."
+   [147]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551060900
+     0 unsigned int SubId = 1089
+     1 string Text = "If you're sure I'm the one for you, then I would\ngladly be your girlfriend."
+   [148]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061000
+     0 unsigned int SubId = 1089
+     1 string Text = "At first, I only thought of you as a younger friend,\nand yet..."
+   [149]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061100
+     0 unsigned int SubId = 1089
+     1 string Text = "When did I start thinking of you this way?"
+   [150]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061200
+     0 unsigned int SubId = 1089
+     1 string Text = "No, I'm just speaking out loud."
+   [151]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061300
+     0 unsigned int SubId = 1089
+     1 string Text = "I look forward to seeing where this relationship\ntakes us, my dear <player>."
+   [152]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061400
+     0 unsigned int SubId = 1089
+     1 string Text = "Hm? You want me to speak my mind more often?"
+   [153]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061500
+     0 unsigned int SubId = 1089
+     1 string Text = "Well, I suppose I can try."
+   [154]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061600
+     0 unsigned int SubId = 1089
+     1 string Text = "May I start by asking something of you?"
+   [155]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061700
+     0 unsigned int SubId = 1089
+     1 string Text = "Can we stay together a little longer?"
+   [156]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551061800
+     0 unsigned int SubId = 1089
+     1 string Text = "Thank you. Let's chat here for a while before\nwe return."
+   [157]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070100
+     0 unsigned int SubId = 1089
+     1 string Text = "Thank you for coming to see me, <player>.\nI'm delighted to have you."
+   [158]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070200
+     0 unsigned int SubId = 1089
+     1 string Text = "Hm... Why don't we take this opportunity to go on\na little outing?"
+   [159]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070300
+     0 unsigned int SubId = 0
+     1 string Text = "Are you looking for material for your book?"
+   [160]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070400
+     0 unsigned int SubId = 0
+     1 string Text = "It's a date!"
+   [161]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070500
+     0 unsigned int SubId = 1089
+     1 string Text = "Come on, no need to be coy. I'm plainly asking you\nout on a date."
+   [162]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070600
+     0 unsigned int SubId = 1089
+     1 string Text = "Goodness, look what you've done. You've made me\nblurt it right out, you little rogue."
+   [163]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070700
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee. I see someone's thrilled with the prospect\nof a date."
+   [164]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070800
+     0 unsigned int SubId = 1089
+     1 string Text = "But if you're this excited before we even leave,\nyou'll peter out before the main event. Try to save\nsome of that energy."
+   [165]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551070900
+     0 unsigned int SubId = 1089
+     1 string Text = "Well, then, shall we be off?"
+   [166]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071000
+     0 unsigned int SubId = 1089
+     1 string Text = "You suggest trying on this one? Well, all right,\nlet's see..."
+   [167]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071100
+     0 unsigned int SubId = 1089
+     1 string Text = "How do I look?"
+   [168]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071200
+     0 unsigned int SubId = 1089
+     1 string Text = "You like it? Thank you."
+   [169]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071300
+     0 unsigned int SubId = 1089
+     1 string Text = "Hmm... How about this one for you?"
+   [170]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071400
+     0 unsigned int SubId = 1089
+     1 string Text = "Why, yes, that's marvelous!"
+   [171]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071500
+     0 unsigned int SubId = 1089
+     1 string Text = "Now try on this one."
+   [172]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071600
+     0 unsigned int SubId = 1089
+     1 string Text = "That was a wonderful time."
+   [173]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071700
+     0 unsigned int SubId = 1089
+     1 string Text = "You're absolutely perfect for playing dress up,\n<player>."
+   [174]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071800
+     0 unsigned int SubId = 1089
+     1 string Text = "That reminds me, I have some clothes at home that I\nbought as references for my novels. Would you like\nto try them on sometime?"
+   [175]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551071900
+     0 unsigned int SubId = 1089
+     1 string Text = "I won't force you, of course. But if you're up for it,\njust say the word."
+   [176]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551072000
+     0 unsigned int SubId = 1089
+     1 string Text = "Well then, should we head back?"
+   [177]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551072100
+     0 unsigned int SubId = 1089
+     1 string Text = "You'll walk me home? Thank you. I'll brew you some\ntea before you leave."
+   [178]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551072200
+     0 unsigned int SubId = 1089
+     1 string Text = "It'd be a shame if you happened to have some tea\nspilled on you and had to change clothes, but...\nI wouldn't dare, of course. Perish the thought."
+   [179]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080100
+     0 unsigned int SubId = 1089
+     1 string Text = "Welcome, <player>."
+   [180]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080200
+     0 unsigned int SubId = 1089
+     1 string Text = "I was just reading a letter from my younger brother."
+   [181]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080300
+     0 unsigned int SubId = 1089
+     1 string Text = "Hm? Is it bothering me?"
+   [182]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080400
+     0 unsigned int SubId = 1089
+     1 string Text = "You're right. I promised I'd be more open with you,\ndidn't I?"
+   [183]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080500
+     0 unsigned int SubId = 1089
+     1 string Text = "The truth is..."
+   [184]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080600
+     0 unsigned int SubId = 1089
+     1 string Text = "There's a new rumor circulating among my fans.\nA rumor that claims I have a special someone now..."
+   [185]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080700
+     0 unsigned int SubId = 1089
+     1 string Text = "One of my fans must have been watching us\nin the bazaar a while back."
+   [186]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080800
+     0 unsigned int SubId = 1089
+     1 string Text = "And it was clear to them that we're close,\nso it seems it's become the latest hot gossip."
+   [187]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551080900
+     0 unsigned int SubId = 1089
+     1 string Text = "Overzealous fans are a force to be reckoned with.\nI wouldn't be surprised if they harbored some ill will\ntowards me over this."
+   [188]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081000
+     0 unsigned int SubId = 1089
+     1 string Text = "My brother wrote to me so he could warn me."
+   [189]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081100
+     0 unsigned int SubId = 0
+     1 string Text = "Must be nice to be so popular!"
+   [190]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081200
+     0 unsigned int SubId = 0
+     1 string Text = "Who is this special someone?!"
+   [191]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081300
+     0 unsigned int SubId = 1089
+     1 string Text = "This isn't something we can simply shrug off,\n<player>."
+   [192]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081400
+     0 unsigned int SubId = 1089
+     1 string Text = "Who could it be other than you? You're the only one\nwho's special to me."
+   [193]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081500
+     0 unsigned int SubId = 1089
+     1 string Text = "This is no laughing matter. You could be in danger\ntoo. Do you understand?"
+   [194]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081600
+     0 unsigned int SubId = 1089
+     1 string Text = "I'm so sorry, <player>."
+   [195]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081700
+     0 unsigned int SubId = 1089
+     1 string Text = "I should have thought things through before taking\nyou on that date."
+   [196]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081800
+     0 unsigned int SubId = 1089
+     1 string Text = "Even if they aren't yet sure who I was with,\nat this rate I'll end up drawing you into this mess\nsooner or later."
+   [197]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551081900
+     0 unsigned int SubId = 1089
+     1 string Text = "And, I... I suppose I can't rule out the possibility\nof ending this relationship, for your safety."
+   [198]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082000
+     0 unsigned int SubId = 1089
+     1 string Text = "What? You're worried what would happen if I was\nin danger and you weren't there for me?"
+   [199]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082100
+     0 unsigned int SubId = 1089
+     1 string Text = "..."
+   [200]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082200
+     0 unsigned int SubId = 1089
+     1 string Text = "Um..."
+   [201]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082300
+     0 unsigned int SubId = 1089
+     1 string Text = "N-No, it's nothing."
+   [202]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082400
+     0 unsigned int SubId = 1089
+     1 string Text = "You think I should ask my acquaintances and\nneighbors to help?"
+   [203]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082500
+     0 unsigned int SubId = 1089
+     1 string Text = "I couldn't possibly trouble them over something so..."
+   [204]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082600
+     0 unsigned int SubId = 1089
+     1 string Text = "*sigh* Yes, okay. I'll try talking to them."
+   [205]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082700
+     0 unsigned int SubId = 1090
+     1 string Text = "Oh, honey, that's awful! Dr. Marian is on the case."
+   [206]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082800
+     0 unsigned int SubId = 1090
+     1 string Text = "Those degenerates won't leave you alone, you say?\nWell, I'll be sure to prescribe them a dose of reality."
+   [207]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551082900
+     0 unsigned int SubId = 1091
+     1 string Text = "Yes, I understand the situation. My dearest and I are\nfamiliar with fanbases, seeing as we've garnered our\nown. We can use that experience to—"
+   [208]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083000
+     0 unsigned int SubId = 1088
+     1 string Text = "As much as your experience might benefit us, I think\nthe situation is a little different here."
+   [209]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083100
+     0 unsigned int SubId = 1089
+     1 string Text = "This is all my fault. I shouldn't have gotten you all\ninvolved in this."
+   [210]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083200
+     0 unsigned int SubId = 1091
+     1 string Text = "No, there's no need to apologize."
+   [211]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083300
+     0 unsigned int SubId = 1091
+     1 string Text = "I predicted something like this might happen.\nIt's why I suggested you move here."
+   [212]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083400
+     0 unsigned int SubId = 1091
+     1 string Text = "It's also why the rest of us came with you. I thought\nit would put your mind at ease to have some\nfamiliar faces to speak with."
+   [213]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083500
+     0 unsigned int SubId = 1090
+     1 string Text = "Indubitably. Once an Oak Tree Town family, always\nan Oak Tree Town family!"
+   [214]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083600
+     0 unsigned int SubId = 1090
+     1 string Text = "We've been with you through thick and thin. A few\ndisgruntled fans won't scare us."
+   [215]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083700
+     0 unsigned int SubId = 1090
+     1 string Text = "In fact, I was rather wounded you never came to us\nabout this before! I can't tell you how happy I am to\nsee you reach out for help for once."
+   [216]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083800
+     0 unsigned int SubId = 1088
+     1 string Text = "Yes, for as long as I've known her, Iris has never\nbeen one to ask for favors. Perhaps she's truly had\na change of heart."
+   [217]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551083900
+     0 unsigned int SubId = 1088
+     1 string Text = "In any case, we'll do whatever we can to help you."
+   [218]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084000
+     0 unsigned int SubId = 1089
+     1 string Text = "You're all too kind... Thank you."
+   [219]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084100
+     0 unsigned int SubId = 1089
+     1 string Text = "I can't thank you enough for today,\n<player>."
+   [220]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084200
+     0 unsigned int SubId = 1089
+     1 string Text = "I had no idea that's how they felt about me."
+   [221]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084300
+     0 unsigned int SubId = 1089
+     1 string Text = "And I would have gone my whole life not knowing if\nyou hadn't suggested I go to them."
+   [222]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084400
+     0 unsigned int SubId = 1089
+     1 string Text = "But I'm still concerned about your well-being."
+   [223]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084500
+     0 unsigned int SubId = 1089
+     1 string Text = "I know that everyone will keep us safe here,\nand I highly doubt my fans will go so far\nas to track you down to your town, but..."
+   [224]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551084600
+     0 unsigned int SubId = 1089
+     1 string Text = "You only seem to worry about me. Promise me\nyou'll try to think of yourself for a change?"
+   [225]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090100
+     0 unsigned int SubId = 3009
+     1 string Text = "H-Hey, you! What's your relationship with Iris?"
+   [226]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090200
+     0 unsigned int SubId = 3009
+     1 string Text = "She's special to you?!"
+   [227]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090300
+     0 unsigned int SubId = 3009
+     1 string Text = "Pfft! I'll have you know Iris is a distinguished,\ngorgeous, talented woman!"
+   [228]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090400
+     0 unsigned int SubId = 3009
+     1 string Text = "You could never hope to be worthy of her grace!"
+   [229]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090500
+     0 unsigned int SubId = 9001
+     1 string Text = "That isn't for you to decide."
+   [230]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090600
+     0 unsigned int SubId = 1089
+     1 string Text = "I could write paragraph upon paragraph about what\nmakes <player> special, and it still wouldn't\nbe enough."
+   [231]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090700
+     0 unsigned int SubId = 1089
+     1 string Text = "You cannot possibly judge <genderplayer="him","her">, nor do you have my\npermission to do so."
+   [232]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090800
+     0 unsigned int SubId = 1089
+     1 string Text = "I am glad that you profess yourself to be a fan\nof mine."
+   [233]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551090900
+     0 unsigned int SubId = 1089
+     1 string Text = "However, you only see me as Iris the novelist;\nan illusion you've created to bring yourself comfort."
+   [234]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091000
+     0 unsigned int SubId = 1089
+     1 string Text = "I am no illusion, no work of fiction—I am a real\nperson. I would appreciate it if you didn't force your\none-sided fantasies on me."
+   [235]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091100
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>, on the other hand, has told me\n<genderplayer="he's","she's"> always loved me for who I truly am."
+   [236]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091200
+     0 unsigned int SubId = 1089
+     1 string Text = "I will never leave <genderplayer="his","her"> side, no matter what anyone\nsays."
+   [237]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091300
+     0 unsigned int SubId = 1089
+     1 string Text = "And I won't easily forgive someone who hurts <genderplayer="him","her">,\neither."
+   [238]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091400
+     0 unsigned int SubId = 3009
+     1 string Text = "B-But I...! I was only thinking of YOU, Iris!"
+   [239]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091500
+     0 unsigned int SubId = 9001
+     1 string Text = "Aaand cut!"
+   [240]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091600
+     0 unsigned int SubId = 1091
+     1 string Text = "Love takes many different forms, but forcing your\nunrequited affections onto someone is not attractive\nin the least."
+   [241]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091700
+     0 unsigned int SubId = 1088
+     1 string Text = "If you truly love her, then you must consider her\nhappiness above all else."
+   [242]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091800
+     0 unsigned int SubId = 1090
+     1 string Text = "And if you need a scientific lecture on THAT, well,\nwe can teach you the errors of your ways, h-o-n-e-y."
+   [243]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551091900
+     0 unsigned int SubId = 1089
+     1 string Text = "You all came!"
+   [244]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092000
+     0 unsigned int SubId = 1089
+     1 string Text = "I've...experienced so much since I first arrived here."
+   [245]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092100
+     0 unsigned int SubId = 1089
+     1 string Text = "I want to put these new experiences to use and\nblaze a new trail in my writing. I want to experiment\nwith styles and themes I've never tried before..."
+   [246]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092200
+     0 unsigned int SubId = 1089
+     1 string Text = "I would be interested in hearing your thoughts on it\nas well, once I finish writing it."
+   [247]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092300
+     0 unsigned int SubId = 1089
+     1 string Text = "So if you still have any intention of supporting me..."
+   [248]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092400
+     0 unsigned int SubId = 1089
+     1 string Text = "Then I ask that you leave me be and wait patiently\nfor it."
+   [249]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092500
+     0 unsigned int SubId = 3009
+     1 string Text = "Y—"
+   [250]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092600
+     0 unsigned int SubId = 3009
+     1 string Text = "Yes, ma'am! I'll be good, I promise!"
+   [251]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092700
+     0 unsigned int SubId = 1091
+     1 string Text = "You can leave the rest to us. Oh, don't you worry.\nWe won't do anything bad to him."
+   [252]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092800
+     0 unsigned int SubId = 1089
+     1 string Text = "All right. Thank you for all your help."
+   [253]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551092900
+     0 unsigned int SubId = 1089
+     1 string Text = "I'm sorry for exposing you to something so dreadful."
+   [254]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093000
+     0 unsigned int SubId = 1089
+     1 string Text = "You were happy to hear what I said?"
+   [255]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093100
+     0 unsigned int SubId = 1089
+     1 string Text = "I was glad to hear you say that I'm special to you,\ntoo."
+   [256]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093200
+     0 unsigned int SubId = 1089
+     1 string Text = "I'm ashamed to admit it, but at first..."
+   [257]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093300
+     0 unsigned int SubId = 1089
+     1 string Text = "I was going to try to convince him that you were\njust a friend. I didn't want any misfortune to befall\nyou because of me."
+   [258]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093400
+     0 unsigned int SubId = 1089
+     1 string Text = "And then you went and declared that I'm special\nto you."
+   [259]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093500
+     0 unsigned int SubId = 1089
+     1 string Text = "You've told me time and time again not to bear my\nburdens all by myself."
+   [260]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093600
+     0 unsigned int SubId = 1089
+     1 string Text = "And that's what gave me the courage to put my true\nfeelings into words."
+   [261]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093700
+     0 unsigned int SubId = 1089
+     1 string Text = "It's so strange. When I'm with you, I become fearless."
+   [262]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093800
+     0 unsigned int SubId = 1089
+     1 string Text = "I would have never dreamed that I'd open my heart\nup to someone like this. I'm a little shocked, myself."
+   [263]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551093900
+     0 unsigned int SubId = 1089
+     1 string Text = "<player>..."
+   [264]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094000
+     0 unsigned int SubId = 1089
+     1 string Text = "I might cause you even more trouble in the future,\nbut..."
+   [265]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094100
+     0 unsigned int SubId = 1089
+     1 string Text = "When that time comes, will you face it head on with\nme?"
+   [266]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094200
+     0 unsigned int SubId = 0
+     1 string Text = "You don't even need to ask!"
+   [267]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094300
+     0 unsigned int SubId = 0
+     1 string Text = "I'll always have your back!"
+   [268]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094400
+     0 unsigned int SubId = 1089
+     1 string Text = "Thank you. I trust you, <player>."
+   [269]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094500
+     0 unsigned int SubId = 1089
+     1 string Text = "And I hope you can count on me if you need\nanything. Promise me?"
+   [270]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094600
+     0 unsigned int SubId = 1089
+     1 string Text = "Yes, I know you will."
+   [271]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551094700
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee, I had no idea that trusting someone and\nbeing trusted in return could feel so extraordinary."
+   [272]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100100
+     0 unsigned int SubId = 1089
+     1 string Text = "What?! You're truly serious about this?"
+   [273]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100200
+     0 unsigned int SubId = 1089
+     1 string Text = "A-All right. Could you give me a moment\nto compose myself?"
+   [274]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100300
+     0 unsigned int SubId = 1089
+     1 string Text = "If I can't properly express my feelings at a time like\nthis, I don't deserve to call myself a novelist."
+   [275]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100400
+     0 unsigned int SubId = 1089
+     1 string Text = "Oh, don't coddle me so."
+   [276]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100500
+     0 unsigned int SubId = 1089
+     1 string Text = "You know, it's odd."
+   [277]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100600
+     0 unsigned int SubId = 1089
+     1 string Text = "I've always felt so disconnected from words like\n"coddle" and "rely." It's as if they never applied to me.\n"
+   [278]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100700
+     0 unsigned int SubId = 1089
+     1 string Text = "As the elder sister and the "adult" figure, I thought\nI had to do everything myself. I assumed that was\njust the way of the world."
+   [279]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100800
+     0 unsigned int SubId = 1089
+     1 string Text = "But then I met you. And as I learned to depend\non others, I realized something."
+   [280]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551100900
+     0 unsigned int SubId = 1089
+     1 string Text = "When I distanced myself from others, I did so\nbecause I hated the thought of being a burden\nto them."
+   [281]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101000
+     0 unsigned int SubId = 1089
+     1 string Text = "But in doing so, I was neglecting the kindness they\nso graciously offered me."
+   [282]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101100
+     0 unsigned int SubId = 1089
+     1 string Text = "It occurs to me now that insisting on doing\neverything myself could, in fact, hurt them instead."
+   [283]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101200
+     0 unsigned int SubId = 1089
+     1 string Text = "You're the one who made me aware of that."
+   [284]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101300
+     0 unsigned int SubId = 1089
+     1 string Text = "You've always been there for me, ready to come\nto my aid. Thank you so much, <player>."
+   [285]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101400
+     0 unsigned int SubId = 1089
+     1 string Text = "Thank you for reaching out to me and\nacknowledging my struggles."
+   [286]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101500
+     0 unsigned int SubId = 1089
+     1 string Text = "I think somewhere deep down, I may have been\nsecretly hoping that someone would see that part\nof me eventually."
+   [287]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101600
+     0 unsigned int SubId = 1089
+     1 string Text = "When I'm with you, I'm not the person others want\nme to be, but I can finally be my true self: simply\nIris."
+   [288]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101700
+     0 unsigned int SubId = 1089
+     1 string Text = "Meeting you was the best thing that ever happened\nto me, <player>."
+   [289]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101800
+     0 unsigned int SubId = 1089
+     1 string Text = "I love you too, from the depths of my heart."
+   [290]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551101900
+     0 unsigned int SubId = 1089
+     1 string Text = "And I want to spend the rest of my life with you,\ncome what may."
+   [291]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551102000
+     0 unsigned int SubId = 1089
+     1 string Text = "Thank you once again, <player>. May our\nlife together be a joyful one."
+   [292]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551102100
+     0 unsigned int SubId = 1089
+     1 string Text = "Hee hee, we'll have to go tell Giorgio and the others\nlater. I'm sure they'll be beside themselves with joy."
+   [293]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551102200
+     0 unsigned int SubId = 1089
+     1 string Text = "I'll need to write a letter to my brother, as well.\nI can't wait to tell him all about my remarkable\nnew <genderplayer="groom","bride">-to-be."
+   [294]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1551102300
+     0 unsigned int SubId = 1089
+     1 string Text = "And about how ecstatic I am at this very moment."
+ 1 string IdEnumName = ""

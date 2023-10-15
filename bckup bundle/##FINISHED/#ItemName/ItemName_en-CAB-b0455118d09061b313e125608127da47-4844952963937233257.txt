@@ -1,0 +1,4353 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "ItemName_en"
+ 0 LocalizeTextData list
+  0 Array Array (868 items)
+   0 int size = 868
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 100
+     0 unsigned int SubId = 0
+     1 string Text = "Kapak"
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101
+     0 unsigned int SubId = 0
+     1 string Text = "Kapak Besi"
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102
+     0 unsigned int SubId = 0
+     1 string Text = "Kapak Perak"
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103
+     0 unsigned int SubId = 0
+     1 string Text = "Kapak Emas"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104
+     0 unsigned int SubId = 0
+     1 string Text = "Kapak Orichalcum"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 200
+     0 unsigned int SubId = 0
+     1 string Text = "Sabit"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 201
+     0 unsigned int SubId = 0
+     1 string Text = "Sabit Besi"
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 202
+     0 unsigned int SubId = 0
+     1 string Text = "Sabit Perak"
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 203
+     0 unsigned int SubId = 0
+     1 string Text = "Sabit Emas"
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 204
+     0 unsigned int SubId = 0
+     1 string Text = "Sabit Orichalcum"
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 300
+     0 unsigned int SubId = 0
+     1 string Text = "Palu"
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 301
+     0 unsigned int SubId = 0
+     1 string Text = "Palu Besi"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 302
+     0 unsigned int SubId = 0
+     1 string Text = "Palu Perak"
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 303
+     0 unsigned int SubId = 0
+     1 string Text = "Palu Emas"
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 304
+     0 unsigned int SubId = 0
+     1 string Text = "Palu Orichalcum"
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 400
+     0 unsigned int SubId = 0
+     1 string Text = "Ember"
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 401
+     0 unsigned int SubId = 0
+     1 string Text = "Ember Besi"
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 402
+     0 unsigned int SubId = 0
+     1 string Text = "Ember Perak"
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 403
+     0 unsigned int SubId = 0
+     1 string Text = "Ember Emas"
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 404
+     0 unsigned int SubId = 0
+     1 string Text = "Ember Orichalcum"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 500
+     0 unsigned int SubId = 0
+     1 string Text = "Pacul"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 501
+     0 unsigned int SubId = 0
+     1 string Text = "Pacul Besi"
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 502
+     0 unsigned int SubId = 0
+     1 string Text = "Pacul Perak"
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 503
+     0 unsigned int SubId = 0
+     1 string Text = "Pacul Emas"
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 504
+     0 unsigned int SubId = 0
+     1 string Text = "Pacul Orichalcum"
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 600
+     0 unsigned int SubId = 0
+     1 string Text = "Penyiram"
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 601
+     0 unsigned int SubId = 0
+     1 string Text = "Penyiram Besi"
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 602
+     0 unsigned int SubId = 0
+     1 string Text = "Penyiram Perak"
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 603
+     0 unsigned int SubId = 0
+     1 string Text = "Penyiram Emas"
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 604
+     0 unsigned int SubId = 0
+     1 string Text = "Penyiram Orichalcum"
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 700
+     0 unsigned int SubId = 0
+     1 string Text = "Pancing"
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 701
+     0 unsigned int SubId = 0
+     1 string Text = "Pancing Besi"
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 702
+     0 unsigned int SubId = 0
+     1 string Text = "Pancing Perak"
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 703
+     0 unsigned int SubId = 0
+     1 string Text = "Pancing Emas"
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 704
+     0 unsigned int SubId = 0
+     1 string Text = "Pancing Orichalcum"
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 800
+     0 unsigned int SubId = 0
+     1 string Text = "Kamera"
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 900
+     0 unsigned int SubId = 0
+     1 string Text = "Tali peliharaan"
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101000
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit lobak"
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101001
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit kentang"
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101002
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit kubis"
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101003
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit timun"
+   [41]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101004
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bawang bombai"
+   [42]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101005
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit stroberi"
+   [43]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101006
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bawang"
+   [44]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101007
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit labu"
+   [45]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101008
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit tomat"
+   [46]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101009
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit paprika perah"
+   [47]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101010
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit jagung"
+   [48]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101011
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit zucchini(timun Jepang)"
+   [49]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101012
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit semangka"
+   [50]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101013
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit melon"
+   [51]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101014
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit nanas"
+   [52]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101015
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bayam"
+   [53]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101016
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit wortel"
+   [54]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101017
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit terong"
+   [55]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101018
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit ubi manis"
+   [56]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101019
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit paprika hijau"
+   [57]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101020
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit Okra"
+   [58]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101021
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bok choy"
+   [59]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101022
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit cabai rawit"
+   [60]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101023
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit brokoli"
+   [61]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101024
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit lobak daikon"
+   [62]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101025
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit sawi putih"
+   [63]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101026
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bawang prei"
+   [64]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101027
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit burdock(Ketela Jepang)"
+   [65]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101028
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit lobak merah"
+   [66]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101029
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit Padi"
+   [67]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101030
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit Gandum"
+   [68]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101031
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit kacang"
+   [69]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101032
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit daun teh"
+   [70]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101033
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit pakan ternak"
+   [71]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101034
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit tulip"
+   [72]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101035
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga nemophila"
+   [73]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101036
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga pansy"
+   [74]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101037
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga buttercup"
+   [75]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101038
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga pansy hitam"
+   [76]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101039
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga kembang sepatu"
+   [77]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101040
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga petunia"
+   [78]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101041
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga marigold"
+   [79]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101042
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga matahari"
+   [80]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101043
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga lily"
+   [81]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101044
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga mawar"
+   [82]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101045
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga mum"
+   [83]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101046
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga clematis"
+   [84]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101047
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit smawar hitam"
+   [85]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101048
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga daisy"
+   [86]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101049
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga cineraria"
+   [87]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101050
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga primrose"
+   [88]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101051
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga begonia"
+   [89]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101052
+     0 unsigned int SubId = 0
+     1 string Text = "Tanaman Hellebore Bibit"
+   [90]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101053
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit bunga campanula"
+   [91]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102000
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit kopi"
+   [92]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102001
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit alpukat"
+   [93]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102002
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit ceri"
+   [94]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102003
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit jeruk"
+   [95]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102004
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit almond"
+   [96]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102005
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit lemon"
+   [97]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102006
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit mangga"
+   [98]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102007
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit kelapa"
+   [99]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102008
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit pisang"
+   [100]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102009
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit coklat"
+   [101]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102010
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit pohon persik"
+   [102]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102011
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit apel"
+   [103]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102012
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit anggur"
+   [104]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102013
+     0 unsigned int SubId = 0
+     1 string Text = "Bibit zaitun"
+   [105]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103000
+     0 unsigned int SubId = 0
+     1 string Text = "Lobak"
+   [106]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103001
+     0 unsigned int SubId = 0
+     1 string Text = "Lobak besar"
+   [107]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103002
+     0 unsigned int SubId = 0
+     1 string Text = "Kentang"
+   [108]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103003
+     0 unsigned int SubId = 0
+     1 string Text = "Kentang bintang"
+   [109]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103004
+     0 unsigned int SubId = 0
+     1 string Text = "Kubis"
+   [110]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103005
+     0 unsigned int SubId = 0
+     1 string Text = "Timun"
+   [111]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103006
+     0 unsigned int SubId = 0
+     1 string Text = "Bawang bombai"
+   [112]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103007
+     0 unsigned int SubId = 0
+     1 string Text = "Stroberi"
+   [113]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103008
+     0 unsigned int SubId = 0
+     1 string Text = "Stroberi emas"
+   [114]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103009
+     0 unsigned int SubId = 0
+     1 string Text = "Bawang"
+   [115]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103010
+     0 unsigned int SubId = 0
+     1 string Text = "Labu"
+   [116]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103011
+     0 unsigned int SubId = 0
+     1 string Text = "Tomat"
+   [117]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103012
+     0 unsigned int SubId = 0
+     1 string Text = "Tomat besar"
+   [118]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103013
+     0 unsigned int SubId = 0
+     1 string Text = "Lada"
+   [119]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103014
+     0 unsigned int SubId = 0
+     1 string Text = "Jagung"
+   [120]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103015
+     0 unsigned int SubId = 0
+     1 string Text = "Jagung mosaik"
+   [121]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103016
+     0 unsigned int SubId = 0
+     1 string Text = "Zucchini(Timun Jepang)"
+   [122]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103017
+     0 unsigned int SubId = 0
+     1 string Text = "Semangka"
+   [123]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103018
+     0 unsigned int SubId = 0
+     1 string Text = "Melon"
+   [124]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103019
+     0 unsigned int SubId = 0
+     1 string Text = "Melon permata"
+   [125]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103020
+     0 unsigned int SubId = 0
+     1 string Text = "Nanas"
+   [126]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103021
+     0 unsigned int SubId = 0
+     1 string Text = "Bayam"
+   [127]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103022
+     0 unsigned int SubId = 0
+     1 string Text = "Bayam hati"
+   [128]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103023
+     0 unsigned int SubId = 0
+     1 string Text = "Wortel"
+   [129]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103024
+     0 unsigned int SubId = 0
+     1 string Text = "Terong"
+   [130]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103025
+     0 unsigned int SubId = 0
+     1 string Text = "Terong bulat"
+   [131]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103026
+     0 unsigned int SubId = 0
+     1 string Text = "Ubi jalar"
+   [132]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103027
+     0 unsigned int SubId = 0
+     1 string Text = "Ubi jalar besar"
+   [133]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103028
+     0 unsigned int SubId = 0
+     1 string Text = "Paprika hijau"
+   [134]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103029
+     0 unsigned int SubId = 0
+     1 string Text = "Okra"
+   [135]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103030
+     0 unsigned int SubId = 0
+     1 string Text = "Bok Choy"
+   [136]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103031
+     0 unsigned int SubId = 0
+     1 string Text = "Cabai rawit"
+   [137]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103032
+     0 unsigned int SubId = 0
+     1 string Text = "Brokoli"
+   [138]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103033
+     0 unsigned int SubId = 0
+     1 string Text = "Lobak daikon"
+   [139]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103034
+     0 unsigned int SubId = 0
+     1 string Text = "Akar-Fork Daikon"
+   [140]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103035
+     0 unsigned int SubId = 0
+     1 string Text = "Kubis napa"
+   [141]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103036
+     0 unsigned int SubId = 0
+     1 string Text = "Kubis napa emas"
+   [142]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103037
+     0 unsigned int SubId = 0
+     1 string Text = "Bawang prei"
+   [143]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103038
+     0 unsigned int SubId = 0
+     1 string Text = "Bawang prei besar"
+   [144]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103039
+     0 unsigned int SubId = 0
+     1 string Text = "Burdock(Ketela Jepang)"
+   [145]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103040
+     0 unsigned int SubId = 0
+     1 string Text = "Lobak merah"
+   [146]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104000
+     0 unsigned int SubId = 0
+     1 string Text = "Beras"
+   [147]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104001
+     0 unsigned int SubId = 0
+     1 string Text = "Gandum"
+   [148]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104002
+     0 unsigned int SubId = 0
+     1 string Text = "Kacang polong"
+   [149]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104003
+     0 unsigned int SubId = 0
+     1 string Text = "Daun teh"
+   [150]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104004
+     0 unsigned int SubId = 0
+     1 string Text = "Pakan ternak"
+   [151]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104005
+     0 unsigned int SubId = 0
+     1 string Text = "Pakan ternak mewah"
+   [152]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105000
+     0 unsigned int SubId = 0
+     1 string Text = "Tulip"
+   [153]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105001
+     0 unsigned int SubId = 0
+     1 string Text = "Nemophila"
+   [154]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105002
+     0 unsigned int SubId = 0
+     1 string Text = "Pansy"
+   [155]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105003
+     0 unsigned int SubId = 0
+     1 string Text = "Buttercup"
+   [156]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105004
+     0 unsigned int SubId = 0
+     1 string Text = "Black Pansy"
+   [157]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105005
+     0 unsigned int SubId = 0
+     1 string Text = "Hibiscus"
+   [158]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105006
+     0 unsigned int SubId = 0
+     1 string Text = "Petunia"
+   [159]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105007
+     0 unsigned int SubId = 0
+     1 string Text = "Marigold"
+   [160]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105008
+     0 unsigned int SubId = 0
+     1 string Text = "Bunga matahari"
+   [161]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105009
+     0 unsigned int SubId = 0
+     1 string Text = "Lily"
+   [162]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105010
+     0 unsigned int SubId = 0
+     1 string Text = "Mawar"
+   [163]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105011
+     0 unsigned int SubId = 0
+     1 string Text = "Mum"
+   [164]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105012
+     0 unsigned int SubId = 0
+     1 string Text = "Clematis"
+   [165]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105014
+     0 unsigned int SubId = 0
+     1 string Text = "Daisy"
+   [166]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105013
+     0 unsigned int SubId = 0
+     1 string Text = "Mawar hitam"
+   [167]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105015
+     0 unsigned int SubId = 0
+     1 string Text = "Cineraria"
+   [168]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105016
+     0 unsigned int SubId = 0
+     1 string Text = "Primrose"
+   [169]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105017
+     0 unsigned int SubId = 0
+     1 string Text = "Begonia"
+   [170]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105019
+     0 unsigned int SubId = 0
+     1 string Text = "Campanula"
+   [171]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105018
+     0 unsigned int SubId = 0
+     1 string Text = "Hellebore"
+   [172]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106000
+     0 unsigned int SubId = 0
+     1 string Text = "Biji kopi"
+   [173]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106001
+     0 unsigned int SubId = 0
+     1 string Text = "Alpukat"
+   [174]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106002
+     0 unsigned int SubId = 0
+     1 string Text = "Alpukat besar"
+   [175]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106003
+     0 unsigned int SubId = 0
+     1 string Text = "Ceri"
+   [176]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106004
+     0 unsigned int SubId = 0
+     1 string Text = "Jeruk"
+   [177]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106005
+     0 unsigned int SubId = 0
+     1 string Text = "Almond"
+   [178]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106006
+     0 unsigned int SubId = 0
+     1 string Text = "Lemon"
+   [179]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106007
+     0 unsigned int SubId = 0
+     1 string Text = "Mangga"
+   [180]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106008
+     0 unsigned int SubId = 0
+     1 string Text = "Kelapa"
+   [181]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106009
+     0 unsigned int SubId = 0
+     1 string Text = "Pisang"
+   [182]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106010
+     0 unsigned int SubId = 0
+     1 string Text = "Buaj Coklat"
+   [183]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106011
+     0 unsigned int SubId = 0
+     1 string Text = "Persik"
+   [184]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106012
+     0 unsigned int SubId = 0
+     1 string Text = "Persik Emas"
+   [185]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106013
+     0 unsigned int SubId = 0
+     1 string Text = "Apel"
+   [186]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106014
+     0 unsigned int SubId = 0
+     1 string Text = "Apel Emas"
+   [187]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106015
+     0 unsigned int SubId = 0
+     1 string Text = "Anggur"
+   [188]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106016
+     0 unsigned int SubId = 0
+     1 string Text = "Zaitun"
+   [189]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107000
+     0 unsigned int SubId = 0
+     1 string Text = "Jamur shiitake"
+   [190]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107001
+     0 unsigned int SubId = 0
+     1 string Text = "Jamur matsutake"
+   [191]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107002
+     0 unsigned int SubId = 0
+     1 string Text = "Jamur Shimeji"
+   [192]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107003
+     0 unsigned int SubId = 0
+     1 string Text = "Jamur terompet"
+   [193]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107004
+     0 unsigned int SubId = 0
+     1 string Text = "Jamur karang"
+   [194]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107005
+     0 unsigned int SubId = 0
+     1 string Text = "Jamur biasa"
+   [195]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107006
+     0 unsigned int SubId = 0
+     1 string Text = "Kecambah shiitake"
+   [196]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107007
+     0 unsigned int SubId = 0
+     1 string Text = "Kecambah matsutake"
+   [197]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107008
+     0 unsigned int SubId = 0
+     1 string Text = "Kecambah shimeji"
+   [198]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107009
+     0 unsigned int SubId = 0
+     1 string Text = "Kecambah terompet"
+   [199]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107010
+     0 unsigned int SubId = 0
+     1 string Text = "Kecambah karang"
+   [200]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107011
+     0 unsigned int SubId = 0
+     1 string Text = "Kecambah biasa"
+   [201]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108000
+     0 unsigned int SubId = 0
+     1 string Text = "Sarang madu"
+   [202]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108001
+     0 unsigned int SubId = 0
+     1 string Text = "Sarang lebah"
+   [203]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108002
+     0 unsigned int SubId = 0
+     1 string Text = "Sarang lebah pekerja"
+   [204]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108003
+     0 unsigned int SubId = 0
+     1 string Text = "Sarang ratu lebah"
+   [205]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108004
+     0 unsigned int SubId = 0
+     1 string Text = "Madu"
+   [206]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108005
+     0 unsigned int SubId = 0
+     1 string Text = "Potongan Madu"
+   [207]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108006
+     0 unsigned int SubId = 0
+     1 string Text = "Worker Jelly"
+   [208]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108007
+     0 unsigned int SubId = 0
+     1 string Text = "Royal Jelly"
+   [209]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109000
+     0 unsigned int SubId = 0
+     1 string Text = "Susu"
+   [210]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109001
+     0 unsigned int SubId = 0
+     1 string Text = "Susu kerbau"
+   [211]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109002
+     0 unsigned int SubId = 0
+     1 string Text = "Susu kambing"
+   [212]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109003
+     0 unsigned int SubId = 0
+     1 string Text = "Susu +"
+   [213]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109004
+     0 unsigned int SubId = 0
+     1 string Text = "Susu kerbau +"
+   [214]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109005
+     0 unsigned int SubId = 0
+     1 string Text = "Susu kambing +"
+   [215]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110000
+     0 unsigned int SubId = 0
+     1 string Text = "Telur"
+   [216]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110001
+     0 unsigned int SubId = 0
+     1 string Text = "Telur sutra"
+   [217]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110002
+     0 unsigned int SubId = 0
+     1 string Text = "Telur +"
+   [218]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110003
+     0 unsigned int SubId = 0
+     1 string Text = "Telur sutra +"
+   [219]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111000
+     0 unsigned int SubId = 0
+     1 string Text = "Wol"
+   [220]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111001
+     0 unsigned int SubId = 0
+     1 string Text = "Wol domba kepala hitam"
+   [221]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111002
+     0 unsigned int SubId = 0
+     1 string Text = "Alpaka Wool"
+   [222]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111003
+     0 unsigned int SubId = 0
+     1 string Text = "Wol Alpaka Coklat"
+   [223]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111004
+     0 unsigned int SubId = 0
+     1 string Text = "Bulu kelinci"
+   [224]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111005
+     0 unsigned int SubId = 0
+     1 string Text = "Bulu kelinci abu-abu"
+   [225]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111006
+     0 unsigned int SubId = 0
+     1 string Text = "Bulu kelinci pink"
+   [226]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111007
+     0 unsigned int SubId = 0
+     1 string Text = "Wol +"
+   [227]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111008
+     0 unsigned int SubId = 0
+     1 string Text = "Wol domba kepala hitam +"
+   [228]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111009
+     0 unsigned int SubId = 0
+     1 string Text = "Wol alpaka +"
+   [229]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111010
+     0 unsigned int SubId = 0
+     1 string Text = "Brown Alpaka Wool +"
+   [230]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111011
+     0 unsigned int SubId = 0
+     1 string Text = "Bulu kelinci +"
+   [231]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111012
+     0 unsigned int SubId = 0
+     1 string Text = "Bulu kelinci abu-abu +"
+   [232]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111013
+     0 unsigned int SubId = 0
+     1 string Text = "Bulu kelinci pink +"
+   [233]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112000
+     0 unsigned int SubId = 0
+     1 string Text = "Sarden"
+   [234]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112001
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan Shishamo Smelt"
+   [235]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112002
+     0 unsigned int SubId = 0
+     1 string Text = "Makarel kuda"
+   [236]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112003
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan tari"
+   [237]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112004
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan haring"
+   [238]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112005
+     0 unsigned int SubId = 0
+     1 string Text = "ikan kod"
+   [239]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112006
+     0 unsigned int SubId = 0
+     1 string Text = "Belut"
+   [240]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112007
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan kakap laut"
+   [241]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112008
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan kakap kuning"
+   [242]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112009
+     0 unsigned int SubId = 0
+     1 string Text = "Nila"
+   [243]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112010
+     0 unsigned int SubId = 0
+     1 string Text = "Lele"
+   [244]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112011
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan kepala ular"
+   [245]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112012
+     0 unsigned int SubId = 0
+     1 string Text = "Kakap bintang"
+   [246]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112013
+     0 unsigned int SubId = 0
+     1 string Text = "Bandeng"
+   [247]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112014
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan tai"
+   [248]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112015
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan flounder"
+   [249]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112016
+     0 unsigned int SubId = 0
+     1 string Text = "Mahi-mahi"
+   [250]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112017
+     0 unsigned int SubId = 0
+     1 string Text = "Salmon"
+   [251]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112018
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan Oarfish"
+   [252]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112019
+     0 unsigned int SubId = 0
+     1 string Text = "Tuna"
+   [253]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112020
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan aligator spatula"
+   [254]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112021
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan monkfish"
+   [255]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112022
+     0 unsigned int SubId = 0
+     1 string Text = "Lele dumbo"
+   [256]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112023
+     0 unsigned int SubId = 0
+     1 string Text = "Pari elang berbintik"
+   [257]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112024
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan Halibut"
+   [258]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112025
+     0 unsigned int SubId = 0
+     1 string Text = "Kerapu besar"
+   [259]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112026
+     0 unsigned int SubId = 0
+     1 string Text = "Cumi-cumi besar"
+   [260]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112027
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan marlin"
+   [261]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112028
+     0 unsigned int SubId = 0
+     1 string Text = "Udang air tawar besar"
+   [262]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112029
+     0 unsigned int SubId = 0
+     1 string Text = "Udang beras merah"
+   [263]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112030
+     0 unsigned int SubId = 0
+     1 string Text = "Udang harimau besar"
+   [264]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112031
+     0 unsigned int SubId = 0
+     1 string Text = "Lobster"
+   [265]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112032
+     0 unsigned int SubId = 0
+     1 string Text = "Lobster batu"
+   [266]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112033
+     0 unsigned int SubId = 0
+     1 string Text = "Tiram"
+   [267]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112034
+     0 unsigned int SubId = 0
+     1 string Text = "Kerang"
+   [268]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112035
+     0 unsigned int SubId = 0
+     1 string Text = "Kerang darah"
+   [269]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112036
+     0 unsigned int SubId = 0
+     1 string Text = "Kerang abalon"
+   [270]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112037
+     0 unsigned int SubId = 0
+     1 string Text = "Kepiting alaska"
+   [271]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112038
+     0 unsigned int SubId = 0
+     1 string Text = "Kepiting berbulu"
+   [272]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112039
+     0 unsigned int SubId = 0
+     1 string Text = "Kepiting gazami"
+   [273]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112040
+     0 unsigned int SubId = 0
+     1 string Text = "Kepiting biru"
+   [274]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112041
+     0 unsigned int SubId = 0
+     1 string Text = "Kepiting raja besar"
+   [275]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112042
+     0 unsigned int SubId = 0
+     1 string Text = "Cumi sirip besar"
+   [276]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112043
+     0 unsigned int SubId = 0
+     1 string Text = "Sotong"
+   [277]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112044
+     0 unsigned int SubId = 0
+     1 string Text = "Cumi biasa"
+   [278]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112045
+     0 unsigned int SubId = 0
+     1 string Text = "Cumi tombak"
+   [279]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112046
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan Aurora"
+   [280]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112047
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan bersinar"
+   [281]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112048
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan berkilau"
+   [282]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112049
+     0 unsigned int SubId = 0
+     1 string Text = "Lobster air tawar"
+   [283]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113000
+     0 unsigned int SubId = 0
+     1 string Text = "Umpan dasar"
+   [284]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113001
+     0 unsigned int SubId = 0
+     1 string Text = "Umpan ikan kecil"
+   [285]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113002
+     0 unsigned int SubId = 0
+     1 string Text = "Umpan ikan sedang"
+   [286]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113003
+     0 unsigned int SubId = 0
+     1 string Text = "Umpan ikan besar"
+   [287]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113004
+     0 unsigned int SubId = 0
+     1 string Text = "Umpan udang"
+   [288]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113006
+     0 unsigned int SubId = 0
+     1 string Text = "Umpan kepiting"
+   [289]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113007
+     0 unsigned int SubId = 0
+     1 string Text = "Umpan cumi"
+   [290]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113008
+     0 unsigned int SubId = 0
+     1 string Text = "Umpan guardian"
+   [291]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113009
+     0 unsigned int SubId = 0
+     1 string Text = "Umpan misterius"
+   [292]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114000
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat Kayu"
+   [293]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114001
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat benang"
+   [294]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114002
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat tekstil"
+   [295]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114003
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat logam batang"
+   [296]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114004
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat permata"
+   [297]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114005
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat bata"
+   [298]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114006
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat bibit"
+   [299]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114007
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat bubuk"
+   [300]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114008
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat bibit pohon"
+   [301]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114009
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat selai"
+   [302]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114010
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat spora"
+   [303]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114011
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat madu"
+   [304]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114012
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat benang rajutan"
+   [305]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114013
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat kain"
+   [306]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114014
+     0 unsigned int SubId = 0
+     1 string Text = "pembuat keju"
+   [307]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114015
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat mentega"
+   [308]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114016
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat yoghurt"
+   [309]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114017
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat mayones"
+   [310]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114018
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat bumbu"
+   [311]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114019
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat rempah"
+   [312]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114020
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat ekstraksi"
+   [313]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114021
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat pewarna"
+   [314]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114022
+     0 unsigned int SubId = 0
+     1 string Text = "Giant Lumber Maker"
+   [315]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114023
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat benang besar"
+   [316]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114024
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat tekstil besar"
+   [317]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114025
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat logam batang besar"
+   [318]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114026
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat permata besar"
+   [319]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114027
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat bata besar"
+   [320]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114028
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat bibit besar"
+   [321]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114029
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat bubuk besar"
+   [322]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114030
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat bibit pohon besar"
+   [323]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114031
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat selai besar"
+   [324]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114032
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat spora besar"
+   [325]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114033
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat madu besar"
+   [326]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114034
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat benang rajutan besar"
+   [327]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114035
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat kain besar"
+   [328]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114036
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat keju besar"
+   [329]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114037
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat mentega besar"
+   [330]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114038
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat yoghurt besar"
+   [331]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114039
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat mayones besar"
+   [332]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114040
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat Bumbu besar"
+   [333]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114041
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat rempah besar"
+   [334]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114042
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat ekstraksi besar"
+   [335]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114043
+     0 unsigned int SubId = 0
+     1 string Text = "Pembuat pewarna besar"
+   [336]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115000
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu gelondongan"
+   [337]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115001
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu gelondongan padat"
+   [338]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115002
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu gelondongan supel"
+   [339]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115003
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu gelondongan awet"
+   [340]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115004
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu gelondongan khayal"
+   [341]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115005
+     0 unsigned int SubId = 0
+     1 string Text = "Getah"
+   [342]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116000
+     0 unsigned int SubId = 0
+     1 string Text = "Rumput"
+   [343]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116001
+     0 unsigned int SubId = 0
+     1 string Text = "Rumput fleksibel"
+   [344]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116002
+     0 unsigned int SubId = 0
+     1 string Text = "Rumput keras"
+   [345]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116003
+     0 unsigned int SubId = 0
+     1 string Text = "Rumput halus"
+   [346]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116004
+     0 unsigned int SubId = 0
+     1 string Text = "Rumput khayal"
+   [347]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117000
+     0 unsigned int SubId = 0
+     1 string Text = "Batu"
+   [348]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117001
+     0 unsigned int SubId = 0
+     1 string Text = "Batu kaca"
+   [349]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117002
+     0 unsigned int SubId = 0
+     1 string Text = "Batu arang"
+   [350]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117003
+     0 unsigned int SubId = 0
+     1 string Text = "Bijih besi"
+   [351]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117004
+     0 unsigned int SubId = 0
+     1 string Text = "Bijih perak"
+   [352]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117005
+     0 unsigned int SubId = 0
+     1 string Text = "Bijih emas"
+   [353]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117006
+     0 unsigned int SubId = 0
+     1 string Text = "Bijih Orichalcum"
+   [354]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117007
+     0 unsigned int SubId = 0
+     1 string Text = "Mentahan opal putih"
+   [355]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117008
+     0 unsigned int SubId = 0
+     1 string Text = "Mentahan rubi"
+   [356]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117009
+     0 unsigned int SubId = 0
+     1 string Text = "Mentahan safir"
+   [357]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117010
+     0 unsigned int SubId = 0
+     1 string Text = "Mentahan zambrud"
+   [358]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117011
+     0 unsigned int SubId = 0
+     1 string Text = "Mentahan berlian"
+   [359]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117012
+     0 unsigned int SubId = 0
+     1 string Text = "Mentahan Beril merah"
+   [360]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118000
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu"
+   [361]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118001
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu padat"
+   [362]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118002
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu supel"
+   [363]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118003
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu awet"
+   [364]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118004
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu khayal"
+   [365]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118005
+     0 unsigned int SubId = 0
+     1 string Text = "Arang kayu"
+   [366]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119000
+     0 unsigned int SubId = 0
+     1 string Text = "Benang"
+   [367]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119001
+     0 unsigned int SubId = 0
+     1 string Text = "Benang rajutan"
+   [368]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119002
+     0 unsigned int SubId = 0
+     1 string Text = "Benang fleksibel"
+   [369]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119003
+     0 unsigned int SubId = 0
+     1 string Text = "Benang keras"
+   [370]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119004
+     0 unsigned int SubId = 0
+     1 string Text = "Benang halus"
+   [371]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119005
+     0 unsigned int SubId = 0
+     1 string Text = "Benang khayal"
+   [372]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119006
+     0 unsigned int SubId = 0
+     1 string Text = "Benang wol"
+   [373]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119007
+     0 unsigned int SubId = 0
+     1 string Text = "Benang domba kepala hitam"
+   [374]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119008
+     0 unsigned int SubId = 0
+     1 string Text = "Benang alpaka"
+   [375]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119009
+     0 unsigned int SubId = 0
+     1 string Text = "Benang alpaka coklat"
+   [376]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119010
+     0 unsigned int SubId = 0
+     1 string Text = "Benang kelinci"
+   [377]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119011
+     0 unsigned int SubId = 0
+     1 string Text = "Benang kelinci abu-abu"
+   [378]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119012
+     0 unsigned int SubId = 0
+     1 string Text = "Benang kelinci pink"
+   [379]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120000
+     0 unsigned int SubId = 0
+     1 string Text = "Kain"
+   [380]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120001
+     0 unsigned int SubId = 0
+     1 string Text = "Kain fleksibel"
+   [381]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120002
+     0 unsigned int SubId = 0
+     1 string Text = "Kain keras"
+   [382]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120003
+     0 unsigned int SubId = 0
+     1 string Text = "Kain halus"
+   [383]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120004
+     0 unsigned int SubId = 0
+     1 string Text = "Kain khayal"
+   [384]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120005
+     0 unsigned int SubId = 0
+     1 string Text = "Kain wol"
+   [385]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120006
+     0 unsigned int SubId = 0
+     1 string Text = "Kain domba kepala hitam"
+   [386]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120007
+     0 unsigned int SubId = 0
+     1 string Text = "Kain alpaka"
+   [387]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120008
+     0 unsigned int SubId = 0
+     1 string Text = "Kain alpaka coklat"
+   [388]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120009
+     0 unsigned int SubId = 0
+     1 string Text = "Kain kelinci"
+   [389]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120010
+     0 unsigned int SubId = 0
+     1 string Text = "Kain kelinci abu-abu"
+   [390]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120011
+     0 unsigned int SubId = 0
+     1 string Text = "Kain kelinci pink"
+   [391]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121000
+     0 unsigned int SubId = 0
+     1 string Text = "Batubara halus"
+   [392]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121001
+     0 unsigned int SubId = 0
+     1 string Text = "Kaca"
+   [393]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121002
+     0 unsigned int SubId = 0
+     1 string Text = "Logam besi"
+   [394]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121003
+     0 unsigned int SubId = 0
+     1 string Text = "Logam perak"
+   [395]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121004
+     0 unsigned int SubId = 0
+     1 string Text = "Logam emas"
+   [396]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121005
+     0 unsigned int SubId = 0
+     1 string Text = "Logam orichalcum"
+   [397]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122000
+     0 unsigned int SubId = 0
+     1 string Text = "Opal putih"
+   [398]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122001
+     0 unsigned int SubId = 0
+     1 string Text = "Rubi"
+   [399]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122002
+     0 unsigned int SubId = 0
+     1 string Text = "Safir"
+   [400]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122003
+     0 unsigned int SubId = 0
+     1 string Text = "Zamrud"
+   [401]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122004
+     0 unsigned int SubId = 0
+     1 string Text = "Berlian"
+   [402]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122005
+     0 unsigned int SubId = 0
+     1 string Text = "Beril merah"
+   [403]
+    0 LocalizeTextData data
+     0 unsigned int Id = 123002
+     0 unsigned int SubId = 0
+     1 string Text = "Sari bunga"
+   [404]
+    0 LocalizeTextData data
+     0 unsigned int Id = 123003
+     0 unsigned int SubId = 0
+     1 string Text = "Esensi buket"
+   [405]
+    0 LocalizeTextData data
+     0 unsigned int Id = 123004
+     0 unsigned int SubId = 0
+     1 string Text = "Sari buah"
+   [406]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124000
+     0 unsigned int SubId = 0
+     1 string Text = "Beri liar"
+   [407]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124001
+     0 unsigned int SubId = 0
+     1 string Text = "Pakis raja"
+   [408]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124002
+     0 unsigned int SubId = 0
+     1 string Text = "Butterbur"
+   [409]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124003
+     0 unsigned int SubId = 0
+     1 string Text = "Paku ekor kuda"
+   [410]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124004
+     0 unsigned int SubId = 0
+     1 string Text = "Kastanye"
+   [411]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124005
+     0 unsigned int SubId = 0
+     1 string Text = "Rebung"
+   [412]
+    0 LocalizeTextData data
+     0 unsigned int Id = 125000
+     0 unsigned int SubId = 0
+     1 string Text = "Oregano"
+   [413]
+    0 LocalizeTextData data
+     0 unsigned int Id = 125001
+     0 unsigned int SubId = 0
+     1 string Text = "Herbal Sage"
+   [414]
+    0 LocalizeTextData data
+     0 unsigned int Id = 125002
+     0 unsigned int SubId = 0
+     1 string Text = "Lemon Marigold"
+   [415]
+    0 LocalizeTextData data
+     0 unsigned int Id = 125003
+     0 unsigned int SubId = 0
+     1 string Text = "Rain Rosemary Emas"
+   [416]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126000
+     0 unsigned int SubId = 0
+     1 string Text = "Batu garam"
+   [417]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126001
+     0 unsigned int SubId = 0
+     1 string Text = "Biji merica"
+   [418]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126002
+     0 unsigned int SubId = 0
+     1 string Text = "Tebu"
+   [419]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126003
+     0 unsigned int SubId = 0
+     1 string Text = "Garam"
+   [420]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126004
+     0 unsigned int SubId = 0
+     1 string Text = "Lada"
+   [421]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126005
+     0 unsigned int SubId = 0
+     1 string Text = "Gula"
+   [422]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126006
+     0 unsigned int SubId = 0
+     1 string Text = "Kecap asin"
+   [423]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126007
+     0 unsigned int SubId = 0
+     1 string Text = "Cuka"
+   [424]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126008
+     0 unsigned int SubId = 0
+     1 string Text = "Minyak zaitun"
+   [425]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126009
+     0 unsigned int SubId = 0
+     1 string Text = "Herbal campuran"
+   [426]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126010
+     0 unsigned int SubId = 0
+     1 string Text = "Rempah campuran"
+   [427]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126011
+     0 unsigned int SubId = 0
+     1 string Text = "Bubuk kopi"
+   [428]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126012
+     0 unsigned int SubId = 0
+     1 string Text = "Bubuk cokelat"
+   [429]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126013
+     0 unsigned int SubId = 0
+     1 string Text = "Tepung"
+   [430]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126014
+     0 unsigned int SubId = 0
+     1 string Text = "Mentega"
+   [431]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126015
+     0 unsigned int SubId = 0
+     1 string Text = "Keju"
+   [432]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126016
+     0 unsigned int SubId = 0
+     1 string Text = "Mayones"
+   [433]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126017
+     0 unsigned int SubId = 0
+     1 string Text = "Yoghurt"
+   [434]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127000
+     0 unsigned int SubId = 0
+     1 string Text = "Salad sayur"
+   [435]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127001
+     0 unsigned int SubId = 0
+     1 string Text = "Salad kentang"
+   [436]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127002
+     0 unsigned int SubId = 0
+     1 string Text = "Salad telur"
+   [437]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127003
+     0 unsigned int SubId = 0
+     1 string Text = "Salad campur"
+   [438]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127004
+     0 unsigned int SubId = 0
+     1 string Text = "Salad buah"
+   [439]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127005
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan kecil Marinade"
+   [440]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127006
+     0 unsigned int SubId = 0
+     1 string Text = "Jamur Marinade"
+   [441]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127007
+     0 unsigned int SubId = 0
+     1 string Text = "Acar"
+   [442]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127008
+     0 unsigned int SubId = 0
+     1 string Text = "Kimchi"
+   [443]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127009
+     0 unsigned int SubId = 0
+     1 string Text = "Kentang Lyonnaise"
+   [444]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127010
+     0 unsigned int SubId = 0
+     1 string Text = "Salad Caprese"
+   [445]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127011
+     0 unsigned int SubId = 0
+     1 string Text = "Salad kacang"
+   [446]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127012
+     0 unsigned int SubId = 0
+     1 string Text = "Rosolli"
+   [447]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127013
+     0 unsigned int SubId = 0
+     1 string Text = "Yum Woon Sen"
+   [448]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127014
+     0 unsigned int SubId = 0
+     1 string Text = "Salad bayam"
+   [449]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127015
+     0 unsigned int SubId = 0
+     1 string Text = "Bhindi Masala"
+   [450]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127016
+     0 unsigned int SubId = 0
+     1 string Text = "Kinpira Gobo"
+   [451]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128000
+     0 unsigned int SubId = 0
+     1 string Text = "Sup kaldu kuning"
+   [452]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128001
+     0 unsigned int SubId = 0
+     1 string Text = "Sup kaldu hijau"
+   [453]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128002
+     0 unsigned int SubId = 0
+     1 string Text = "Sup campur"
+   [454]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128003
+     0 unsigned int SubId = 0
+     1 string Text = "Sup oarfish"
+   [455]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128004
+     0 unsigned int SubId = 0
+     1 string Text = "Sup kerang"
+   [456]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128005
+     0 unsigned int SubId = 0
+     1 string Text = "Kenchin-jiru"
+   [457]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128006
+     0 unsigned int SubId = 0
+     1 string Text = "Bouillabaisse"
+   [458]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128007
+     0 unsigned int SubId = 0
+     1 string Text = "Tom Yum Goong"
+   [459]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128008
+     0 unsigned int SubId = 0
+     1 string Text = "Minestrone"
+   [460]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128009
+     0 unsigned int SubId = 0
+     1 string Text = "Clam Chowder"
+   [461]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128010
+     0 unsigned int SubId = 0
+     1 string Text = "Borscht"
+   [462]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128011
+     0 unsigned int SubId = 0
+     1 string Text = "Pot-au-Feu"
+   [463]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128012
+     0 unsigned int SubId = 0
+     1 string Text = "Gazpacho"
+   [464]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128013
+     0 unsigned int SubId = 0
+     1 string Text = "Sopa de Ajo"
+   [465]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128014
+     0 unsigned int SubId = 0
+     1 string Text = "Sup lemon"
+   [466]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128015
+     0 unsigned int SubId = 0
+     1 string Text = "Sup Panas & Asam"
+   [467]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128016
+     0 unsigned int SubId = 0
+     1 string Text = "Sup bawang"
+   [468]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128017
+     0 unsigned int SubId = 0
+     1 string Text = "Sup Okra"
+   [469]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128018
+     0 unsigned int SubId = 0
+     1 string Text = "Tteokguk"
+   [470]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128019
+     0 unsigned int SubId = 0
+     1 string Text = "Sup ceri asam"
+   [471]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128020
+     0 unsigned int SubId = 0
+     1 string Text = "Acqua Pazza"
+   [472]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129000
+     0 unsigned int SubId = 0
+     1 string Text = "Telor goreng"
+   [473]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129001
+     0 unsigned int SubId = 0
+     1 string Text = "Sashimi ikan air tawar"
+   [474]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129002
+     0 unsigned int SubId = 0
+     1 string Text = "Marlin Sushi"
+   [475]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129003
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan bakar"
+   [476]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129004
+     0 unsigned int SubId = 0
+     1 string Text = "Ikan rebus"
+   [477]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129005
+     0 unsigned int SubId = 0
+     1 string Text = "Chuka Soba"
+   [478]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129006
+     0 unsigned int SubId = 0
+     1 string Text = "Kitsune Udon"
+   [479]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129007
+     0 unsigned int SubId = 0
+     1 string Text = "Tempura"
+   [480]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129008
+     0 unsigned int SubId = 0
+     1 string Text = "Unaju"
+   [481]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129009
+     0 unsigned int SubId = 0
+     1 string Text = "Nasi campur"
+   [482]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129010
+     0 unsigned int SubId = 0
+     1 string Text = "Nasi Matsutake"
+   [483]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129011
+     0 unsigned int SubId = 0
+     1 string Text = "Nasi kastanye"
+   [484]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129012
+     0 unsigned int SubId = 0
+     1 string Text = "Gar panggang"
+   [485]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129013
+     0 unsigned int SubId = 0
+     1 string Text = "Sashimi Bowl"
+   [486]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129014
+     0 unsigned int SubId = 0
+     1 string Text = "Sayur rebus"
+   [487]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129015
+     0 unsigned int SubId = 0
+     1 string Text = "Ubi jalar rebus"
+   [488]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129016
+     0 unsigned int SubId = 0
+     1 string Text = "Potongan tuna goreng"
+   [489]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129017
+     0 unsigned int SubId = 0
+     1 string Text = "Sandwich selai"
+   [490]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129018
+     0 unsigned int SubId = 0
+     1 string Text = "Roti bakar"
+   [491]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129019
+     0 unsigned int SubId = 0
+     1 string Text = "Roti isi sayur"
+   [492]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129020
+     0 unsigned int SubId = 0
+     1 string Text = "Roti isi telur"
+   [493]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129021
+     0 unsigned int SubId = 0
+     1 string Text = "Roti isi tuna"
+   [494]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129022
+     0 unsigned int SubId = 0
+     1 string Text = "Hot Pot"
+   [495]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129023
+     0 unsigned int SubId = 0
+     1 string Text = "Kimchi Hot Pot"
+   [496]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129024
+     0 unsigned int SubId = 0
+     1 string Text = "Seafood Cataplana"
+   [497]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129025
+     0 unsigned int SubId = 0
+     1 string Text = "Rebusan"
+   [498]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129026
+     0 unsigned int SubId = 0
+     1 string Text = "Nasi kari"
+   [499]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129027
+     0 unsigned int SubId = 0
+     1 string Text = "Kari okra"
+   [500]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129028
+     0 unsigned int SubId = 0
+     1 string Text = "Pescatore"
+   [501]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129029
+     0 unsigned int SubId = 0
+     1 string Text = "Carbonara"
+   [502]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129030
+     0 unsigned int SubId = 0
+     1 string Text = "Peperoncino Pasta "
+   [503]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129031
+     0 unsigned int SubId = 0
+     1 string Text = "Neapolitan Pasta"
+   [504]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129032
+     0 unsigned int SubId = 0
+     1 string Text = "Pasta saus krim"
+   [505]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129033
+     0 unsigned int SubId = 0
+     1 string Text = "Genovese Pasta"
+   [506]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129034
+     0 unsigned int SubId = 0
+     1 string Text = "Pizza"
+   [507]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129035
+     0 unsigned int SubId = 0
+     1 string Text = "Pizza Seafood besar"
+   [508]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129036
+     0 unsigned int SubId = 0
+     1 string Text = "Pizza sayur"
+   [509]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129037
+     0 unsigned int SubId = 0
+     1 string Text = "Tom Yum Pla"
+   [510]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129038
+     0 unsigned int SubId = 0
+     1 string Text = "Seafood Pilaf Platter"
+   [511]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129039
+     0 unsigned int SubId = 0
+     1 string Text = "Risi e Bisi"
+   [512]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129040
+     0 unsigned int SubId = 0
+     1 string Text = "Ratatouille"
+   [513]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129041
+     0 unsigned int SubId = 0
+     1 string Text = "Halibut al Cartoccio"
+   [514]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129042
+     0 unsigned int SubId = 0
+     1 string Text = "Pai jamur"
+   [515]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129043
+     0 unsigned int SubId = 0
+     1 string Text = "Quiche"
+   [516]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129044
+     0 unsigned int SubId = 0
+     1 string Text = "Sayur tumis"
+   [517]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129045
+     0 unsigned int SubId = 0
+     1 string Text = "Sayur goreng kuah"
+   [518]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129046
+     0 unsigned int SubId = 0
+     1 string Text = "Gratin"
+   [519]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129047
+     0 unsigned int SubId = 0
+     1 string Text = "Omelet"
+   [520]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129048
+     0 unsigned int SubId = 0
+     1 string Text = "Kacang panggang"
+   [521]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129049
+     0 unsigned int SubId = 0
+     1 string Text = "Gulungan kubis jamur"
+   [522]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129050
+     0 unsigned int SubId = 0
+     1 string Text = "Udang cabai"
+   [523]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129051
+     0 unsigned int SubId = 0
+     1 string Text = "Sup tortila"
+   [524]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129052
+     0 unsigned int SubId = 0
+     1 string Text = "Keju Fondue"
+   [525]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129053
+     0 unsigned int SubId = 0
+     1 string Text = "Udang panggang"
+   [526]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129054
+     0 unsigned int SubId = 0
+     1 string Text = "Champiñones a la Plancha"
+   [527]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129055
+     0 unsigned int SubId = 0
+     1 string Text = "Boquerones en Vinagre"
+   [528]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129056
+     0 unsigned int SubId = 0
+     1 string Text = "Calçots"
+   [529]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129057
+     0 unsigned int SubId = 0
+     1 string Text = "Kari Boo Paht Pong"
+   [530]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129058
+     0 unsigned int SubId = 0
+     1 string Text = "Mala Crayfish"
+   [531]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129059
+     0 unsigned int SubId = 0
+     1 string Text = "Onigiri"
+   [532]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130000
+     0 unsigned int SubId = 0
+     1 string Text = "Apel panggang"
+   [533]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130001
+     0 unsigned int SubId = 0
+     1 string Text = "Yoghurt madu"
+   [534]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130002
+     0 unsigned int SubId = 0
+     1 string Text = "Kompot"
+   [535]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130003
+     0 unsigned int SubId = 0
+     1 string Text = "Ubi jalar madu"
+   [536]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130004
+     0 unsigned int SubId = 0
+     1 string Text = "Manisan Ubi jalar"
+   [537]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130005
+     0 unsigned int SubId = 0
+     1 string Text = "Shortcake"
+   [538]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130006
+     0 unsigned int SubId = 0
+     1 string Text = "Kue cokelat"
+   [539]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130007
+     0 unsigned int SubId = 0
+     1 string Text = "Kue keju"
+   [540]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130008
+     0 unsigned int SubId = 0
+     1 string Text = "Mont Blanc"
+   [541]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130009
+     0 unsigned int SubId = 0
+     1 string Text = "Kue buah"
+   [542]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130010
+     0 unsigned int SubId = 0
+     1 string Text = "Tiramisu"
+   [543]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130011
+     0 unsigned int SubId = 0
+     1 string Text = "Injeolmi Toast"
+   [544]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130012
+     0 unsigned int SubId = 0
+     1 string Text = "Pancakes"
+   [545]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130013
+     0 unsigned int SubId = 0
+     1 string Text = "Kue kering"
+   [546]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130014
+     0 unsigned int SubId = 0
+     1 string Text = "Kue kering almond"
+   [547]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130015
+     0 unsigned int SubId = 0
+     1 string Text = "Kue kering cokelat"
+   [548]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130016
+     0 unsigned int SubId = 0
+     1 string Text = "Puding"
+   [549]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130017
+     0 unsigned int SubId = 0
+     1 string Text = "Puding madu"
+   [550]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130018
+     0 unsigned int SubId = 0
+     1 string Text = "Puding kopi"
+   [551]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130019
+     0 unsigned int SubId = 0
+     1 string Text = "Maple Muffin"
+   [552]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130020
+     0 unsigned int SubId = 0
+     1 string Text = "Muffin Kacang"
+   [553]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130021
+     0 unsigned int SubId = 0
+     1 string Text = "Muffin Coklat"
+   [554]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130022
+     0 unsigned int SubId = 0
+     1 string Text = "Sachertorte"
+   [555]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130023
+     0 unsigned int SubId = 0
+     1 string Text = "Kue Black Forest"
+   [556]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130024
+     0 unsigned int SubId = 0
+     1 string Text = "Lamington"
+   [557]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130025
+     0 unsigned int SubId = 0
+     1 string Text = "Brownies"
+   [558]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130026
+     0 unsigned int SubId = 0
+     1 string Text = "Panna Cotta"
+   [559]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130027
+     0 unsigned int SubId = 0
+     1 string Text = "Panellets"
+   [560]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130028
+     0 unsigned int SubId = 0
+     1 string Text = "Khaoniao Mamuang(Ketan mangga)"
+   [561]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130029
+     0 unsigned int SubId = 0
+     1 string Text = "Botamochi"
+   [562]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130030
+     0 unsigned int SubId = 0
+     1 string Text = "Chestnut Monaka"
+   [563]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130031
+     0 unsigned int SubId = 0
+     1 string Text = "Oshiruko"
+   [564]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130032
+     0 unsigned int SubId = 0
+     1 string Text = "Mochi stroberi"
+   [565]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130033
+     0 unsigned int SubId = 0
+     1 string Text = "Mochi kusa"
+   [566]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131000
+     0 unsigned int SubId = 0
+     1 string Text = "Roti"
+   [567]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131001
+     0 unsigned int SubId = 0
+     1 string Text = "Roti bawang"
+   [568]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131002
+     0 unsigned int SubId = 0
+     1 string Text = "Roti jagung"
+   [569]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131003
+     0 unsigned int SubId = 0
+     1 string Text = "Nasi putih"
+   [570]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131004
+     0 unsigned int SubId = 0
+     1 string Text = "Jus tomat"
+   [571]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131005
+     0 unsigned int SubId = 0
+     1 string Text = "Jus sayuran"
+   [572]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131006
+     0 unsigned int SubId = 0
+     1 string Text = "Jus jeruk"
+   [573]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131007
+     0 unsigned int SubId = 0
+     1 string Text = "Jus mangga"
+   [574]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131008
+     0 unsigned int SubId = 0
+     1 string Text = "Jus kelapa"
+   [575]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131009
+     0 unsigned int SubId = 0
+     1 string Text = "Jus apel"
+   [576]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131010
+     0 unsigned int SubId = 0
+     1 string Text = "Jus anggur"
+   [577]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131011
+     0 unsigned int SubId = 0
+     1 string Text = "Minuman yoghurt"
+   [578]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131012
+     0 unsigned int SubId = 0
+     1 string Text = "Susu stroberi"
+   [579]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131013
+     0 unsigned int SubId = 0
+     1 string Text = "Susu pisang"
+   [580]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131014
+     0 unsigned int SubId = 0
+     1 string Text = "Fruit au Lait"
+   [581]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131015
+     0 unsigned int SubId = 0
+     1 string Text = "Teh"
+   [582]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131016
+     0 unsigned int SubId = 0
+     1 string Text = "Teh susu"
+   [583]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131017
+     0 unsigned int SubId = 0
+     1 string Text = "Kopi"
+   [584]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131018
+     0 unsigned int SubId = 0
+     1 string Text = "Susu madu latte"
+   [585]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131019
+     0 unsigned int SubId = 0
+     1 string Text = "Caffè Mocha"
+   [586]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131020
+     0 unsigned int SubId = 0
+     1 string Text = "Teh susu Chai"
+   [587]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131021
+     0 unsigned int SubId = 0
+     1 string Text = "Coklat"
+   [588]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131022
+     0 unsigned int SubId = 0
+     1 string Text = "Susu coklat madu"
+   [589]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131023
+     0 unsigned int SubId = 0
+     1 string Text = "Susu panas"
+   [590]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131024
+     0 unsigned int SubId = 0
+     1 string Text = "Jus melon madu"
+   [591]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131025
+     0 unsigned int SubId = 0
+     1 string Text = "Teh herbal"
+   [592]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131026
+     0 unsigned int SubId = 0
+     1 string Text = "Selai stroberi"
+   [593]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131027
+     0 unsigned int SubId = 0
+     1 string Text = "Selai ceri"
+   [594]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131028
+     0 unsigned int SubId = 0
+     1 string Text = "Selai jeruk"
+   [595]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131029
+     0 unsigned int SubId = 0
+     1 string Text = "Selai semangka"
+   [596]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131030
+     0 unsigned int SubId = 0
+     1 string Text = "Selai melon"
+   [597]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131031
+     0 unsigned int SubId = 0
+     1 string Text = "Selai nanas"
+   [598]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131032
+     0 unsigned int SubId = 0
+     1 string Text = "Selai lemon"
+   [599]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131033
+     0 unsigned int SubId = 0
+     1 string Text = "Selai mangga"
+   [600]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131034
+     0 unsigned int SubId = 0
+     1 string Text = "Selai kelapa"
+   [601]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131035
+     0 unsigned int SubId = 0
+     1 string Text = "Selai pisang"
+   [602]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131036
+     0 unsigned int SubId = 0
+     1 string Text = "Selai persik"
+   [603]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131037
+     0 unsigned int SubId = 0
+     1 string Text = "Selai apel"
+   [604]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131038
+     0 unsigned int SubId = 0
+     1 string Text = "Selai anggur"
+   [605]
+    0 LocalizeTextData data
+     0 unsigned int Id = 132000
+     0 unsigned int SubId = 0
+     1 string Text = "Parfum bunga"
+   [606]
+    0 LocalizeTextData data
+     0 unsigned int Id = 132001
+     0 unsigned int SubId = 0
+     1 string Text = "Parfum buket bunga"
+   [607]
+    0 LocalizeTextData data
+     0 unsigned int Id = 132002
+     0 unsigned int SubId = 0
+     1 string Text = "Parfum buah"
+   [608]
+    0 LocalizeTextData data
+     0 unsigned int Id = 132003
+     0 unsigned int SubId = 0
+     1 string Text = "Parfum menawan"
+   [609]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133000
+     0 unsigned int SubId = 0
+     1 string Text = "Karangan bunga Springtime March"
+   [610]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133001
+     0 unsigned int SubId = 0
+     1 string Text = "Karangan bunga Blazing Waltz"
+   [611]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133002
+     0 unsigned int SubId = 0
+     1 string Text = "Karangan bunga Moonlight Nocturne"
+   [612]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133003
+     0 unsigned int SubId = 0
+     1 string Text = "Karangan bunga Winter Bloom Rondo"
+   [613]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133004
+     0 unsigned int SubId = 0
+     1 string Text = "Karangan bunga Earth Concerto"
+   [614]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133005
+     0 unsigned int SubId = 0
+     1 string Text = "Karangan bunga pelangi"
+   [615]
+    0 LocalizeTextData data
+     0 unsigned int Id = 134000
+     0 unsigned int SubId = 0
+     1 string Text = "Cincin perhiasan"
+   [616]
+    0 LocalizeTextData data
+     0 unsigned int Id = 134001
+     0 unsigned int SubId = 0
+     1 string Text = "Liontin perhiasan"
+   [617]
+    0 LocalizeTextData data
+     0 unsigned int Id = 134002
+     0 unsigned int SubId = 0
+     1 string Text = "Gelang modis"
+   [618]
+    0 LocalizeTextData data
+     0 unsigned int Id = 134003
+     0 unsigned int SubId = 0
+     1 string Text = "Jam tangan bersinar"
+   [619]
+    0 LocalizeTextData data
+     0 unsigned int Id = 136000
+     0 unsigned int SubId = 0
+     1 string Text = "Liontin pengakuan"
+   [620]
+    0 LocalizeTextData data
+     0 unsigned int Id = 137000
+     0 unsigned int SubId = 0
+     1 string Text = "Bulu biru"
+   [621]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138000
+     0 unsigned int SubId = 0
+     1 string Text = "Aksesoris antik"
+   [622]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138001
+     0 unsigned int SubId = 0
+     1 string Text = "Cermin antik"
+   [623]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138002
+     0 unsigned int SubId = 0
+     1 string Text = "Dekorasi antik"
+   [624]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138003
+     0 unsigned int SubId = 0
+     1 string Text = "Monumen antik"
+   [625]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138004
+     0 unsigned int SubId = 0
+     1 string Text = "Koin jadul"
+   [626]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138005
+     0 unsigned int SubId = 0
+     1 string Text = "Kipas jadul"
+   [627]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138006
+     0 unsigned int SubId = 0
+     1 string Text = "Gulungan jadul"
+   [628]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138007
+     0 unsigned int SubId = 0
+     1 string Text = "Kompas jadul"
+   [629]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138008
+     0 unsigned int SubId = 0
+     1 string Text = "Peta jadul"
+   [630]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138009
+     0 unsigned int SubId = 0
+     1 string Text = "Taji berkilau"
+   [631]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138010
+     0 unsigned int SubId = 0
+     1 string Text = "Piala besi mengkilap"
+   [632]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138011
+     0 unsigned int SubId = 0
+     1 string Text = "Helm sapi"
+   [633]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138012
+     0 unsigned int SubId = 0
+     1 string Text = "Tanduk mas"
+   [634]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138013
+     0 unsigned int SubId = 0
+     1 string Text = "Buku hitam kuno"
+   [635]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138014
+     0 unsigned int SubId = 0
+     1 string Text = "Buku putih kuno"
+   [636]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138015
+     0 unsigned int SubId = 0
+     1 string Text = "Sandal kaca"
+   [637]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138016
+     0 unsigned int SubId = 0
+     1 string Text = "Perlengkapan prasejarah"
+   [638]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138017
+     0 unsigned int SubId = 0
+     1 string Text = "Kristal Olive"
+   [639]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138018
+     0 unsigned int SubId = 0
+     1 string Text = "Fulgurite"
+   [640]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138019
+     0 unsigned int SubId = 0
+     1 string Text = "Arthurite"
+   [641]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138020
+     0 unsigned int SubId = 0
+     1 string Text = "Mawar gurun"
+   [642]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138021
+     0 unsigned int SubId = 0
+     1 string Text = "Okenite"
+   [643]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138022
+     0 unsigned int SubId = 0
+     1 string Text = "Batu Gibeon"
+   [644]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138023
+     0 unsigned int SubId = 0
+     1 string Text = "Batu parasit"
+   [645]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138024
+     0 unsigned int SubId = 0
+     1 string Text = "Ambergis"
+   [646]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138025
+     0 unsigned int SubId = 0
+     1 string Text = "Mutiara gua"
+   [647]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138026
+     0 unsigned int SubId = 0
+     1 string Text = "Kristalisasi Ambar"
+   [648]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138027
+     0 unsigned int SubId = 0
+     1 string Text = "Fosil cangkang kuno"
+   [649]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138028
+     0 unsigned int SubId = 0
+     1 string Text = "Fosil kumbang kuno"
+   [650]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138029
+     0 unsigned int SubId = 0
+     1 string Text = "Fosil dinosaurus"
+   [651]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139000
+     0 unsigned int SubId = 0
+     1 string Text = "Penyiram otomatis"
+   [652]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139001
+     0 unsigned int SubId = 0
+     1 string Text = "Penyiram otomatis LV.2"
+   [653]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139002
+     0 unsigned int SubId = 0
+     1 string Text = "Pakan otomatis"
+   [654]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139003
+     0 unsigned int SubId = 0
+     1 string Text = "Jaring"
+   [655]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139004
+     0 unsigned int SubId = 0
+     1 string Text = "Jaring sebaguna"
+   [656]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139005
+     0 unsigned int SubId = 0
+     1 string Text = "Jaring besar"
+   [657]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139006
+     0 unsigned int SubId = 0
+     1 string Text = "Pompa hisap"
+   [658]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139007
+     0 unsigned int SubId = 0
+     1 string Text = "Kotak barang kayu"
+   [659]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139008
+     0 unsigned int SubId = 0
+     1 string Text = "Kotak barang batu"
+   [660]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139009
+     0 unsigned int SubId = 0
+     1 string Text = "Kotak barang besi"
+   [661]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139010
+     0 unsigned int SubId = 0
+     1 string Text = "Kotak barang semen"
+   [662]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139011
+     0 unsigned int SubId = 0
+     1 string Text = "Peti harta karun"
+   [663]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139012
+     0 unsigned int SubId = 0
+     1 string Text = "Pagar kayu"
+   [664]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139013
+     0 unsigned int SubId = 0
+     1 string Text = "Gerbang kayu"
+   [665]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139014
+     0 unsigned int SubId = 0
+     1 string Text = "Pagar batu"
+   [666]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139015
+     0 unsigned int SubId = 0
+     1 string Text = "Gerbang batu"
+   [667]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139016
+     0 unsigned int SubId = 0
+     1 string Text = "Pagar besi"
+   [668]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139017
+     0 unsigned int SubId = 0
+     1 string Text = "Gerbang besi"
+   [669]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139018
+     0 unsigned int SubId = 0
+     1 string Text = "Pagar semen"
+   [670]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139019
+     0 unsigned int SubId = 0
+     1 string Text = "Gerbang semen"
+   [671]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139020
+     0 unsigned int SubId = 0
+     1 string Text = "Pagar bata"
+   [672]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139021
+     0 unsigned int SubId = 0
+     1 string Text = "Gerbang bata"
+   [673]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139022
+     0 unsigned int SubId = 0
+     1 string Text = "Jalan kayu"
+   [674]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139023
+     0 unsigned int SubId = 0
+     1 string Text = "Jalan batu"
+   [675]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139024
+     0 unsigned int SubId = 0
+     1 string Text = "Jalan besi"
+   [676]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139025
+     0 unsigned int SubId = 0
+     1 string Text = "Jalan semen"
+   [677]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139026
+     0 unsigned int SubId = 0
+     1 string Text = "Jalan bata"
+   [678]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139027
+     0 unsigned int SubId = 0
+     1 string Text = "Obor"
+   [679]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139028
+     0 unsigned int SubId = 0
+     1 string Text = "Lampu jalan biasa"
+   [680]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139029
+     0 unsigned int SubId = 0
+     1 string Text = "Lampu jalan indah"
+   [681]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139030
+     0 unsigned int SubId = 0
+     1 string Text = "Lampu jalan cantik"
+   [682]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139031
+     0 unsigned int SubId = 0
+     1 string Text = "Lentera batu"
+   [683]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139032
+     0 unsigned int SubId = 0
+     1 string Text = "Bangku kayu"
+   [684]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139033
+     0 unsigned int SubId = 0
+     1 string Text = "Bangku besi"
+   [685]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139034
+     0 unsigned int SubId = 0
+     1 string Text = "Meja payung"
+   [686]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139035
+     0 unsigned int SubId = 0
+     1 string Text = "Meja piknik"
+   [687]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139036
+     0 unsigned int SubId = 0
+     1 string Text = "Air mancur"
+   [688]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139037
+     0 unsigned int SubId = 0
+     1 string Text = "Gerbang selamat datang"
+   [689]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139038
+     0 unsigned int SubId = 0
+     1 string Text = "Barel"
+   [690]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139039
+     0 unsigned int SubId = 0
+     1 string Text = "Tangki susu raksasa"
+   [691]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139040
+     0 unsigned int SubId = 0
+     1 string Text = "Gulungan pakan"
+   [692]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139041
+     0 unsigned int SubId = 0
+     1 string Text = "Peti kayu"
+   [693]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139042
+     0 unsigned int SubId = 0
+     1 string Text = "Gerobak"
+   [694]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139043
+     0 unsigned int SubId = 0
+     1 string Text = "Orangan sawah"
+   [695]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139044
+     0 unsigned int SubId = 0
+     1 string Text = "Topiari sapi"
+   [696]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139045
+     0 unsigned int SubId = 0
+     1 string Text = "Topiari ayam"
+   [697]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139046
+     0 unsigned int SubId = 0
+     1 string Text = "Topiari kuda"
+   [698]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139047
+     0 unsigned int SubId = 0
+     1 string Text = "Topiari domba"
+   [699]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139048
+     0 unsigned int SubId = 0
+     1 string Text = "Topiari alpaka"
+   [700]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139049
+     0 unsigned int SubId = 0
+     1 string Text = "Ukiran beruang raksasa"
+   [701]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140000
+     0 unsigned int SubId = 0
+     1 string Text = "Kursi bundar"
+   [702]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140001
+     0 unsigned int SubId = 0
+     1 string Text = "Kursi kotak"
+   [703]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140002
+     0 unsigned int SubId = 0
+     1 string Text = "Kursi elegan"
+   [704]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140003
+     0 unsigned int SubId = 0
+     1 string Text = "Sofa relaxing"
+   [705]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140004
+     0 unsigned int SubId = 0
+     1 string Text = "Sofa santai"
+   [706]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140005
+     0 unsigned int SubId = 0
+     1 string Text = "Sofa indah"
+   [707]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140006
+     0 unsigned int SubId = 0
+     1 string Text = "Sofa nyaman"
+   [708]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140007
+     0 unsigned int SubId = 0
+     1 string Text = "Meja kecil"
+   [709]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140008
+     0 unsigned int SubId = 0
+     1 string Text = "Meja besar"
+   [710]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140009
+     0 unsigned int SubId = 0
+     1 string Text = "Meja bundar kecil"
+   [711]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140010
+     0 unsigned int SubId = 0
+     1 string Text = "Beja bundar besar"
+   [712]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140011
+     0 unsigned int SubId = 0
+     1 string Text = "Meja berkelas"
+   [713]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140012
+     0 unsigned int SubId = 0
+     1 string Text = "Rak buku"
+   [714]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140013
+     0 unsigned int SubId = 0
+     1 string Text = "Peti"
+   [715]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140014
+     0 unsigned int SubId = 0
+     1 string Text = "Lemari"
+   [716]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140015
+     0 unsigned int SubId = 0
+     1 string Text = "Kesombangan"
+   [717]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140016
+     0 unsigned int SubId = 0
+     1 string Text = "Perapian"
+   [718]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140017
+     0 unsigned int SubId = 0
+     1 string Text = "Rak kayu bakar"
+   [719]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140018
+     0 unsigned int SubId = 0
+     1 string Text = "Lampu berdiri biasa"
+   [720]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140019
+     0 unsigned int SubId = 0
+     1 string Text = "Lampu berdiri trendi"
+   [721]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140020
+     0 unsigned int SubId = 0
+     1 string Text = "Lentera kertas"
+   [722]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140021
+     0 unsigned int SubId = 0
+     1 string Text = "Eastern Screen"
+   [723]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140022
+     0 unsigned int SubId = 0
+     1 string Text = "Tanaman cendrawasih"
+   [724]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140023
+     0 unsigned int SubId = 0
+     1 string Text = "Pohon uang"
+   [725]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140024
+     0 unsigned int SubId = 0
+     1 string Text = "Tanaman ficus"
+   [726]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140025
+     0 unsigned int SubId = 0
+     1 string Text = "Karpet elok"
+   [727]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140026
+     0 unsigned int SubId = 0
+     1 string Text = "Karpet cerah"
+   [728]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140027
+     0 unsigned int SubId = 0
+     1 string Text = "Karpet coklat"
+   [729]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140028
+     0 unsigned int SubId = 0
+     1 string Text = "Karpet ubin"
+   [730]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140029
+     0 unsigned int SubId = 0
+     1 string Text = "Karpet lembut"
+   [731]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140030
+     0 unsigned int SubId = 0
+     1 string Text = "Karpet ayam"
+   [732]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140031
+     0 unsigned int SubId = 0
+     1 string Text = "Karpet yg indah"
+   [733]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140032
+     0 unsigned int SubId = 0
+     1 string Text = "Karpet biru"
+   [734]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140033
+     0 unsigned int SubId = 0
+     1 string Text = "Karpet merah"
+   [735]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140034
+     0 unsigned int SubId = 0
+     1 string Text = "Jam dinding"
+   [736]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140035
+     0 unsigned int SubId = 0
+     1 string Text = "Jam pendulum"
+   [737]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140036
+     0 unsigned int SubId = 0
+     1 string Text = "Lukisan yg tak terbayangkan"
+   [738]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140037
+     0 unsigned int SubId = 0
+     1 string Text = "Lukisan yg menyenangkan"
+   [739]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140038
+     0 unsigned int SubId = 0
+     1 string Text = "Lukisan lelucon"
+   [740]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140039
+     0 unsigned int SubId = 0
+     1 string Text = "Peta tua"
+   [741]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140040
+     0 unsigned int SubId = 0
+     1 string Text = "Cermin panjang"
+   [742]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140041
+     0 unsigned int SubId = 0
+     1 string Text = "Lampu bulat"
+   [743]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140042
+     0 unsigned int SubId = 0
+     1 string Text = "Lampu bentuk-pot"
+   [744]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140043
+     0 unsigned int SubId = 0
+     1 string Text = "Jam meja"
+   [745]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140044
+     0 unsigned int SubId = 0
+     1 string Text = "Bonek misterius"
+   [746]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140045
+     0 unsigned int SubId = 0
+     1 string Text = "Bingkai gambar"
+   [747]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140046
+     0 unsigned int SubId = 0
+     1 string Text = "Globe"
+   [748]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140047
+     0 unsigned int SubId = 0
+     1 string Text = "Vas"
+   [749]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140048
+     0 unsigned int SubId = 0
+     1 string Text = "Vas kecil"
+   [750]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140049
+     0 unsigned int SubId = 0
+     1 string Text = "Tanaman daun lebar"
+   [751]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140050
+     0 unsigned int SubId = 0
+     1 string Text = "Bonsai"
+   [752]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140051
+     0 unsigned int SubId = 0
+     1 string Text = "Lilin"
+   [753]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140052
+     0 unsigned int SubId = 0
+     1 string Text = "Lampu meja mewah"
+   [754]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140053
+     0 unsigned int SubId = 0
+     1 string Text = "Lampu meja sederhana"
+   [755]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140054
+     0 unsigned int SubId = 0
+     1 string Text = "Dudukan buku"
+   [756]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140055
+     0 unsigned int SubId = 0
+     1 string Text = "Bola salju"
+   [757]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140056
+     0 unsigned int SubId = 0
+     1 string Text = "Olive Town Yo-Yo"
+   [758]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140057
+     0 unsigned int SubId = 0
+     1 string Text = "Cincin perjanjian"
+   [759]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140058
+     0 unsigned int SubId = 0
+     1 string Text = "Karangan bunga Linh"
+   [760]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140059
+     0 unsigned int SubId = 0
+     1 string Text = "Tupai Statue"
+   [761]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140060
+     0 unsigned int SubId = 0
+     1 string Text = "Rubah oranye Statue"
+   [762]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140061
+     0 unsigned int SubId = 0
+     1 string Text = "Rubah putih Statue"
+   [763]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140062
+     0 unsigned int SubId = 0
+     1 string Text = "Cerpelai coklat Statue"
+   [764]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140063
+     0 unsigned int SubId = 0
+     1 string Text = "Cerpelai putih Statue"
+   [765]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140064
+     0 unsigned int SubId = 0
+     1 string Text = "Beruang Statue"
+   [766]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140065
+     0 unsigned int SubId = 0
+     1 string Text = "Monyet Statue"
+   [767]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140066
+     0 unsigned int SubId = 0
+     1 string Text = "Pipit Statue"
+   [768]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140067
+     0 unsigned int SubId = 0
+     1 string Text = "Burung hantu Statue"
+   [769]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140068
+     0 unsigned int SubId = 0
+     1 string Text = "Burung biru Statue"
+   [770]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140069
+     0 unsigned int SubId = 0
+     1 string Text = "Burung arktik Statue"
+   [771]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140070
+     0 unsigned int SubId = 0
+     1 string Text = "Rajawali Statue"
+   [772]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140071
+     0 unsigned int SubId = 0
+     1 string Text = "Elang Statue"
+   [773]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140073
+     0 unsigned int SubId = 0
+     1 string Text = "Rhinoceros Beetle Statue"
+   [774]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140074
+     0 unsigned int SubId = 0
+     1 string Text = "Kumbang Hercules Statue"
+   [775]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140075
+     0 unsigned int SubId = 0
+     1 string Text = "Kumbang rusa Statue"
+   [776]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140076
+     0 unsigned int SubId = 0
+     1 string Text = "Kupu-kupu putih Statue"
+   [777]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140077
+     0 unsigned int SubId = 0
+     1 string Text = "Ekor walet Statue"
+   [778]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140078
+     0 unsigned int SubId = 0
+     1 string Text = "Morpho Statue"
+   [779]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140079
+     0 unsigned int SubId = 0
+     1 string Text = "Patung G. P. Millipede"
+   [780]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140080
+     0 unsigned int SubId = 0
+     1 string Text = "Piala emas lomba peliharaan"
+   [781]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140081
+     0 unsigned int SubId = 0
+     1 string Text = "Piala peruak lomba peliharaan"
+   [782]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140082
+     0 unsigned int SubId = 0
+     1 string Text = "Piala perunggu lomba peliharaan"
+   [783]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140083
+     0 unsigned int SubId = 0
+     1 string Text = "Piala emas Palu"
+   [784]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140084
+     0 unsigned int SubId = 0
+     1 string Text = "Piala perak Palu"
+   [785]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140085
+     0 unsigned int SubId = 0
+     1 string Text = "Piala perunggu Palu"
+   [786]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140086
+     0 unsigned int SubId = 0
+     1 string Text = "Piala emas shroom"
+   [787]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140087
+     0 unsigned int SubId = 0
+     1 string Text = "Piala perak shroom"
+   [788]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140088
+     0 unsigned int SubId = 0
+     1 string Text = "Piala perunggu shroom"
+   [789]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140089
+     0 unsigned int SubId = 0
+     1 string Text = "Piala emas memancing"
+   [790]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140090
+     0 unsigned int SubId = 0
+     1 string Text = "Piala perak memancing"
+   [791]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140091
+     0 unsigned int SubId = 0
+     1 string Text = "Piala perunggu memancing"
+   [792]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140092
+     0 unsigned int SubId = 0
+     1 string Text = "Mahkota bunga Reina"
+   [793]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140093
+     0 unsigned int SubId = 0
+     1 string Text = "Replika aksesoris antik"
+   [794]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140094
+     0 unsigned int SubId = 0
+     1 string Text = "Replika kaca antik"
+   [795]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140095
+     0 unsigned int SubId = 0
+     1 string Text = "Replika dekorasi antik"
+   [796]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140096
+     0 unsigned int SubId = 0
+     1 string Text = "Replika monumen antik"
+   [797]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140097
+     0 unsigned int SubId = 0
+     1 string Text = "Replika koin jadul"
+   [798]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140098
+     0 unsigned int SubId = 0
+     1 string Text = "Replika kipas jadul"
+   [799]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140099
+     0 unsigned int SubId = 0
+     1 string Text = "Replika gulungan jadul"
+   [800]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140100
+     0 unsigned int SubId = 0
+     1 string Text = "Replika kompas jadul"
+   [801]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140101
+     0 unsigned int SubId = 0
+     1 string Text = "Replika peta jadul"
+   [802]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140102
+     0 unsigned int SubId = 0
+     1 string Text = "Replika taji berkilau"
+   [803]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140103
+     0 unsigned int SubId = 0
+     1 string Text = "Reploka Piala mengkilap"
+   [804]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140104
+     0 unsigned int SubId = 0
+     1 string Text = "Replika helm sapi"
+   [805]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140105
+     0 unsigned int SubId = 0
+     1 string Text = "Replika tanduk emas"
+   [806]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140106
+     0 unsigned int SubId = 0
+     1 string Text = "Replika buku hitam kuno"
+   [807]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140107
+     0 unsigned int SubId = 0
+     1 string Text = "Replika buku putih kuno"
+   [808]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140108
+     0 unsigned int SubId = 0
+     1 string Text = "Replika sandal kaca"
+   [809]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140109
+     0 unsigned int SubId = 0
+     1 string Text = "Replika perlengkapan prasejarah"
+   [810]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140110
+     0 unsigned int SubId = 0
+     1 string Text = "Replika Olive Crystal"
+   [811]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140111
+     0 unsigned int SubId = 0
+     1 string Text = "Replika Fulgurite"
+   [812]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140112
+     0 unsigned int SubId = 0
+     1 string Text = "Replika Arthurite"
+   [813]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140113
+     0 unsigned int SubId = 0
+     1 string Text = "Replika mawar gurun"
+   [814]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140114
+     0 unsigned int SubId = 0
+     1 string Text = "Replika okenite"
+   [815]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140115
+     0 unsigned int SubId = 0
+     1 string Text = "Replika batu gibeon"
+   [816]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140116
+     0 unsigned int SubId = 0
+     1 string Text = "Replika batu parasit"
+   [817]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140117
+     0 unsigned int SubId = 0
+     1 string Text = "Replika ambar"
+   [818]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140118
+     0 unsigned int SubId = 0
+     1 string Text = "Replika mutiara gua"
+   [819]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140119
+     0 unsigned int SubId = 0
+     1 string Text = "Replika kerstalisasi amber"
+   [820]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140120
+     0 unsigned int SubId = 0
+     1 string Text = "Replika fosil cangkang kuno"
+   [821]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140121
+     0 unsigned int SubId = 0
+     1 string Text = "Replika fosil kumbang kuno"
+   [822]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140122
+     0 unsigned int SubId = 0
+     1 string Text = "Replika fosil dinosaurus"
+   [823]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140123
+     0 unsigned int SubId = 0
+     1 string Text = "Patung kepiting"
+   [824]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141000
+     0 unsigned int SubId = 0
+     1 string Text = "Sumur"
+   [825]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141001
+     0 unsigned int SubId = 0
+     1 string Text = "Kandang ternak"
+   [826]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141002
+     0 unsigned int SubId = 0
+     1 string Text = "Kandang ayam"
+   [827]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141003
+     0 unsigned int SubId = 0
+     1 string Text = "Kandang ternak besar"
+   [828]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141004
+     0 unsigned int SubId = 0
+     1 string Text = "Kandang ayam besar"
+   [829]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141005
+     0 unsigned int SubId = 0
+     1 string Text = "Penyimpan makanan"
+   [830]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141006
+     0 unsigned int SubId = 0
+     1 string Text = "Cadangan pakan"
+   [831]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141007
+     0 unsigned int SubId = 0
+     1 string Text = "Kandang kuda"
+   [832]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141008
+     0 unsigned int SubId = 0
+     1 string Text = "Sarang lebah"
+   [833]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141009
+     0 unsigned int SubId = 0
+     1 string Text = "Kayu jamur"
+   [834]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141010
+     0 unsigned int SubId = 0
+     1 string Text = "Tanaman hidrokultur"
+   [835]
+    0 LocalizeTextData data
+     0 unsigned int Id = 142000
+     0 unsigned int SubId = 0
+     1 string Text = "Objek yang sudah usang"
+   [836]
+    0 LocalizeTextData data
+     0 unsigned int Id = 142001
+     0 unsigned int SubId = 0
+     1 string Text = "Benda berat"
+   [837]
+    0 LocalizeTextData data
+     0 unsigned int Id = 142002
+     0 unsigned int SubId = 0
+     1 string Text = "Objek bersinar"
+   [838]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143001
+     0 unsigned int SubId = 0
+     1 string Text = "Lumpur"
+   [839]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143002
+     0 unsigned int SubId = 0
+     1 string Text = "Bata"
+   [840]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143003
+     0 unsigned int SubId = 0
+     1 string Text = "Makanan peliharaan"
+   [841]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143004
+     0 unsigned int SubId = 0
+     1 string Text = "Makanan peliharaan mewah"
+   [842]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143005
+     0 unsigned int SubId = 0
+     1 string Text = "Bola melenting"
+   [843]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143006
+     0 unsigned int SubId = 0
+     1 string Text = "Tikus mainan"
+   [844]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143007
+     0 unsigned int SubId = 0
+     1 string Text = "Bunga moondrop"
+   [845]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143008
+     0 unsigned int SubId = 0
+     1 string Text = "Bunga pink cat"
+   [846]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143009
+     0 unsigned int SubId = 0
+     1 string Text = "Bunga magic biru"
+   [847]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143010
+     0 unsigned int SubId = 0
+     1 string Text = "Bunga magic merah"
+   [848]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143011
+     0 unsigned int SubId = 0
+     1 string Text = "Kaleng kosong"
+   [849]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143012
+     0 unsigned int SubId = 0
+     1 string Text = "Sepatu tua"
+   [850]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143013
+     0 unsigned int SubId = 0
+     1 string Text = "Botol kosong"
+   [851]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143014
+     0 unsigned int SubId = 0
+     1 string Text = "Koral"
+   [852]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143015
+     0 unsigned int SubId = 0
+     1 string Text = "Cangkang kerang jantung"
+   [853]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143016
+     0 unsigned int SubId = 0
+     1 string Text = "Cangkang keong racun :D"
+   [854]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143017
+     0 unsigned int SubId = 0
+     1 string Text = "Kerang kerangka ikan"
+   [855]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143019
+     0 unsigned int SubId = 0
+     1 string Text = "Pewarna merah"
+   [856]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143020
+     0 unsigned int SubId = 0
+     1 string Text = "Pewarna biru"
+   [857]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143021
+     0 unsigned int SubId = 0
+     1 string Text = "Pewarna hijau"
+   [858]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143022
+     0 unsigned int SubId = 0
+     1 string Text = "Pewarna kuning"
+   [859]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143023
+     0 unsigned int SubId = 0
+     1 string Text = "Pewarna pink"
+   [860]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143024
+     0 unsigned int SubId = 0
+     1 string Text = "Pewarna ungu"
+   [861]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143025
+     0 unsigned int SubId = 0
+     1 string Text = "Pewarna putih"
+   [862]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143026
+     0 unsigned int SubId = 0
+     1 string Text = "Pewarna hitam"
+   [863]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143027
+     0 unsigned int SubId = 0
+     1 string Text = "Semen"
+   [864]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143028
+     0 unsigned int SubId = 0
+     1 string Text = "Medal kota perunggu"
+   [865]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143029
+     0 unsigned int SubId = 0
+     1 string Text = "Medal kota perak"
+   [866]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143030
+     0 unsigned int SubId = 0
+     1 string Text = "Medal kota emas"
+   [867]
+    0 LocalizeTextData data
+     0 unsigned int Id = 4200000000
+     0 unsigned int SubId = 0
+     1 string Text = "???"
+ 1 string IdEnumName = "BokuMono.ItemNameId"

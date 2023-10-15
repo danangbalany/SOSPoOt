@@ -1,0 +1,113 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "OptionSelect_en"
+ 0 LocalizeTextData list
+  0 Array Array (20 items)
+   0 int size = 20
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1
+     0 unsigned int SubId = 0
+     1 string Text = "Fullscreen"
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2
+     0 unsigned int SubId = 0
+     1 string Text = "Windowed"
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3
+     0 unsigned int SubId = 0
+     1 string Text = "Borderless Windowed"
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 4
+     0 unsigned int SubId = 0
+     1 string Text = "Japanese"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 5
+     0 unsigned int SubId = 0
+     1 string Text = "Chinese (Traditional)"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 6
+     0 unsigned int SubId = 0
+     1 string Text = "Chinese (Simplified)"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 7
+     0 unsigned int SubId = 0
+     1 string Text = "Korean"
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 8
+     0 unsigned int SubId = 0
+     1 string Text = "English"
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 9
+     0 unsigned int SubId = 0
+     1 string Text = "French"
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10
+     0 unsigned int SubId = 0
+     1 string Text = "German"
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11
+     0 unsigned int SubId = 0
+     1 string Text = "Indonesia"
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12
+     0 unsigned int SubId = 0
+     1 string Text = "Italian"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 13
+     0 unsigned int SubId = 0
+     1 string Text = "ON"
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14
+     0 unsigned int SubId = 0
+     1 string Text = "OFF"
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 26
+     0 unsigned int SubId = 0
+     1 string Text = "Slow"
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 27
+     0 unsigned int SubId = 0
+     1 string Text = "Normal"
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 28
+     0 unsigned int SubId = 0
+     1 string Text = "Fast"
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 29
+     0 unsigned int SubId = 0
+     1 string Text = "High"
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 30
+     0 unsigned int SubId = 0
+     1 string Text = "Normal"
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 31
+     0 unsigned int SubId = 0
+     1 string Text = "Low"
+ 1 string IdEnumName = "BokuMono.OptionSelectId"

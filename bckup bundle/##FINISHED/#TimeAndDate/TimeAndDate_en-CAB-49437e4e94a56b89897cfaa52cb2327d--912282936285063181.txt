@@ -1,0 +1,218 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "TimeAndDate_en"
+ 0 LocalizeTextData list
+  0 Array Array (41 items)
+   0 int size = 41
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1
+     0 unsigned int SubId = 0
+     1 string Text = "Musim Semi"
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2
+     0 unsigned int SubId = 0
+     1 string Text = "Musim Panas"
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3
+     0 unsigned int SubId = 0
+     1 string Text = "Musim Gugur"
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 4
+     0 unsigned int SubId = 0
+     1 string Text = "Musim Dingin"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 7
+     0 unsigned int SubId = 0
+     1 string Text = "(Minggu)"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 8
+     0 unsigned int SubId = 0
+     1 string Text = "(Senin)"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 9
+     0 unsigned int SubId = 0
+     1 string Text = "(Selasa)"
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10
+     0 unsigned int SubId = 0
+     1 string Text = "(Rabu)"
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11
+     0 unsigned int SubId = 0
+     1 string Text = "(Kamis)"
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12
+     0 unsigned int SubId = 0
+     1 string Text = "(Jumat)"
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 13
+     0 unsigned int SubId = 0
+     1 string Text = "(Sabtu)"
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14
+     0 unsigned int SubId = 0
+     1 string Text = "<month> <day> <dayofweek>"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16
+     0 unsigned int SubId = 0
+     1 string Text = "<hour>:<minute> <ampm>"
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 17
+     0 unsigned int SubId = 0
+     1 string Text = "AM"
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 18
+     0 unsigned int SubId = 0
+     1 string Text = "PM"
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 19
+     0 unsigned int SubId = 0
+     1 string Text = "Tahun <year>, <month> <day> <dayofweek>"
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 20
+     0 unsigned int SubId = 0
+     1 string Text = "{#} Menit"
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 21
+     0 unsigned int SubId = 0
+     1 string Text = "{#} Jam"
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 22
+     0 unsigned int SubId = 0
+     1 string Text = "{#} Hari"
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 23
+     0 unsigned int SubId = 0
+     1 string Text = "{#} jam, {#} menit"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 24
+     0 unsigned int SubId = 0
+     1 string Text = "{#} hari, {#} menit"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 25
+     0 unsigned int SubId = 0
+     1 string Text = "{#} hari, {#} jam"
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 26
+     0 unsigned int SubId = 0
+     1 string Text = "{#} hari, {#} jam, {#} menit"
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 27
+     0 unsigned int SubId = 0
+     1 string Text = "Tahun Ke-<year>, <month> <day>"
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 29
+     0 unsigned int SubId = 0
+     1 string Text = "Minggu"
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 30
+     0 unsigned int SubId = 0
+     1 string Text = "Senin"
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 31
+     0 unsigned int SubId = 0
+     1 string Text = "Selasa"
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 32
+     0 unsigned int SubId = 0
+     1 string Text = "Rabu"
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 33
+     0 unsigned int SubId = 0
+     1 string Text = "Kamis"
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 34
+     0 unsigned int SubId = 0
+     1 string Text = "Jumat"
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 35
+     0 unsigned int SubId = 0
+     1 string Text = "Sabtu"
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 36
+     0 unsigned int SubId = 0
+     1 string Text = "<month> <day>"
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 37
+     0 unsigned int SubId = 0
+     1 string Text = "Tahun <year>"
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 38
+     0 unsigned int SubId = 0
+     1 string Text = "<hour>:<minute> <ampm> - <hour>:<minute> <ampm>"
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 40
+     0 unsigned int SubId = 0
+     1 string Text = "Senin"
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 41
+     0 unsigned int SubId = 0
+     1 string Text = "Selasa"
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 42
+     0 unsigned int SubId = 0
+     1 string Text = "Rabu"
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 43
+     0 unsigned int SubId = 0
+     1 string Text = "Kamis"
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 46
+     0 unsigned int SubId = 0
+     1 string Text = "<dateconst=p,0>Tahun <year>, <month> <day>"
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 47
+     0 unsigned int SubId = 0
+     1 string Text = "<dateoffset=-1>Tahun <year>, <month> <day> <dayofweek>"
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 48
+     0 unsigned int SubId = 0
+     1 string Text = "<dateconst=p,0><month> <day>"
+ 1 string IdEnumName = "BokuMono.TimeAndDateId"

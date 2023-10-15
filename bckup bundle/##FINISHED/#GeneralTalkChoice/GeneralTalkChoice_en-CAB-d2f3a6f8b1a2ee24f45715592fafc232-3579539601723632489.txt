@@ -1,0 +1,558 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "GeneralTalkChoice_en"
+ 0 LocalizeTextData list
+  0 Array Array (109 items)
+   0 int size = 109
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 1
+     0 unsigned int SubId = 0
+     1 string Text = "keluar"
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 2
+     0 unsigned int SubId = 0
+     1 string Text = "Tutup"
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 3
+     0 unsigned int SubId = 0
+     1 string Text = "Tidak melakukan apapun"
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10000
+     0 unsigned int SubId = 0
+     1 string Text = "Beli ternak"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10001
+     0 unsigned int SubId = 0
+     1 string Text = "Terapkan pengemangbiakkan ternak"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10002
+     0 unsigned int SubId = 0
+     1 string Text = "Terapkan pengemangbiakkan ayam"
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10003
+     0 unsigned int SubId = 0
+     1 string Text = "Beli peliharaan"
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10004
+     0 unsigned int SubId = 0
+     1 string Text = "Beli Hewan tunggangan"
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10005
+     0 unsigned int SubId = 0
+     1 string Text = "Beli fasilitas ternak"
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10006
+     0 unsigned int SubId = 0
+     1 string Text = "Kembangkan fasilitas ternak"
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10007
+     0 unsigned int SubId = 0
+     1 string Text = "Perluas rumah"
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10008
+     0 unsigned int SubId = 0
+     1 string Text = "Makan"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10009
+     0 unsigned int SubId = 0
+     1 string Text = "Tingkatkan alat"
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10010
+     0 unsigned int SubId = 0
+     1 string Text = "Perbarui tas"
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10011
+     0 unsigned int SubId = 0
+     1 string Text = "Ganti warna motor"
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10012
+     0 unsigned int SubId = 0
+     1 string Text = "Beli barang"
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10013
+     0 unsigned int SubId = 0
+     1 string Text = "Beli bahan"
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10014
+     0 unsigned int SubId = 0
+     1 string Text = "Beli barang"
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10015
+     0 unsigned int SubId = 0
+     1 string Text = "Buat buket"
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10016
+     0 unsigned int SubId = 0
+     1 string Text = "Buat parfum"
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10017
+     0 unsigned int SubId = 0
+     1 string Text = "Beli bahan"
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10018
+     0 unsigned int SubId = 0
+     1 string Text = "Buat pakaian"
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10019
+     0 unsigned int SubId = 0
+     1 string Text = "Ganti gaya rambut"
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10020
+     0 unsigned int SubId = 0
+     1 string Text = "Ganti penampilan"
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10021
+     0 unsigned int SubId = 0
+     1 string Text = "Donasi foto"
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10022
+     0 unsigned int SubId = 0
+     1 string Text = "Donasi ikan"
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10023
+     0 unsigned int SubId = 0
+     1 string Text = "Donasi harta karun"
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10024
+     0 unsigned int SubId = 0
+     1 string Text = "Dapatkan penilaian"
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10025
+     0 unsigned int SubId = 0
+     1 string Text = "Beli patung hewan"
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10026
+     0 unsigned int SubId = 0
+     1 string Text = "Lihat daftar permintaan"
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10027
+     0 unsigned int SubId = 0
+     1 string Text = "Terima hadiah title"
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10028
+     0 unsigned int SubId = 0
+     1 string Text = "Kasih hidangan"
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10029
+     0 unsigned int SubId = 0
+     1 string Text = "Daftar untuk perjalanan"
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10030
+     0 unsigned int SubId = 0
+     1 string Text = "Terima Blessing"
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10031
+     0 unsigned int SubId = 0
+     1 string Text = "Doa spesial"
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10032
+     0 unsigned int SubId = 0
+     1 string Text = "Aku ingin memutar waktu kembali"
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10033
+     0 unsigned int SubId = 0
+     1 string Text = "Lupakan..."
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10034
+     0 unsigned int SubId = 0
+     1 string Text = "Beli replika harta"
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10035
+     0 unsigned int SubId = 0
+     1 string Text = "Beli perabotan"
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10036
+     0 unsigned int SubId = 0
+     1 string Text = "Kirim kartu pos"
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10037
+     0 unsigned int SubId = 0
+     1 string Text = "Lihat log pengunjung"
+   [41]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10038
+     0 unsigned int SubId = 0
+     1 string Text = "Tentang keluargaku..."
+   [42]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10039
+     0 unsigned int SubId = 0
+     1 string Text = "Ganti nama anak"
+   [43]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10040
+     0 unsigned int SubId = 0
+     1 string Text = "Ganti nama hewan"
+   [44]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10041
+     0 unsigned int SubId = 0
+     1 string Text = "Ganti nama ayam"
+   [45]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10042
+     0 unsigned int SubId = 0
+     1 string Text = "Ganti nama hewan tunggangan"
+   [46]
+    0 LocalizeTextData data
+     0 unsigned int Id = 10043
+     0 unsigned int SubId = 0
+     1 string Text = "Ganti nama peliharaan"
+   [47]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11000
+     0 unsigned int SubId = 0
+     1 string Text = "Toko Sprite"
+   [48]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11001
+     0 unsigned int SubId = 0
+     1 string Text = "Lepaskan hewan"
+   [49]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11002
+     0 unsigned int SubId = 0
+     1 string Text = "Lepaskan ternak"
+   [50]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11003
+     0 unsigned int SubId = 0
+     1 string Text = "Lepaskan ayam"
+   [51]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11004
+     0 unsigned int SubId = 0
+     1 string Text = "Lepaskan hewan tunggangan"
+   [52]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11005
+     0 unsigned int SubId = 0
+     1 string Text = "Lepaskan peliharaan"
+   [53]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11006
+     0 unsigned int SubId = 0
+     1 string Text = "Pergi"
+   [54]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11007
+     0 unsigned int SubId = 0
+     1 string Text = "Manajemen Sprite earth"
+   [55]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11008
+     0 unsigned int SubId = 0
+     1 string Text = "Kembali ke farm"
+   [56]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11009
+     0 unsigned int SubId = 0
+     1 string Text = "Pergi ke lokasi spesial"
+   [57]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11010
+     0 unsigned int SubId = 0
+     1 string Text = "Hilang dan ditemukan"
+   [58]
+    0 LocalizeTextData data
+     0 unsigned int Id = 11011
+     0 unsigned int SubId = 0
+     1 string Text = "Naik perahu"
+   [59]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14000
+     0 unsigned int SubId = 0
+     1 string Text = "Lihat ensiklopedia"
+   [60]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14001
+     0 unsigned int SubId = 0
+     1 string Text = "Bantuan"
+   [61]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14002
+     0 unsigned int SubId = 0
+     1 string Text = "Lihat catatan ternak"
+   [62]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14003
+     0 unsigned int SubId = 0
+     1 string Text = "Lihat catatan ayam"
+   [63]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14004
+     0 unsigned int SubId = 0
+     1 string Text = "Lihat catatan hewan tunggangan"
+   [64]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14005
+     0 unsigned int SubId = 0
+     1 string Text = "Lihat catatan peliharaan"
+   [65]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14006
+     0 unsigned int SubId = 0
+     1 string Text = "Tidur"
+   [66]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14007
+     0 unsigned int SubId = 0
+     1 string Text = "Tulis di jurnal"
+   [67]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14008
+     0 unsigned int SubId = 0
+     1 string Text = "Mandi"
+   [68]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14009
+     0 unsigned int SubId = 0
+     1 string Text = "Masukan pakan dari silo"
+   [69]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14010
+     0 unsigned int SubId = 0
+     1 string Text = "Masukkan pakan dari Silase"
+   [70]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14011
+     0 unsigned int SubId = 0
+     1 string Text = "Masukkan Makanan Pakan Mewah dari Silase"
+   [71]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14012
+     0 unsigned int SubId = 0
+     1 string Text = "Pergi ke Kamar Beth"
+   [72]
+    0 LocalizeTextData data
+     0 unsigned int Id = 14013
+     0 unsigned int SubId = 0
+     1 string Text = "Pergi ke Kamar Karina"
+   [73]
+    0 LocalizeTextData data
+     0 unsigned int Id = 15000
+     0 unsigned int SubId = 0
+     1 string Text = "Minta Bekerja dengan bahan yang ada"
+   [74]
+    0 LocalizeTextData data
+     0 unsigned int Id = 15001
+     0 unsigned int SubId = 0
+     1 string Text = "Minta Bekerja dengan uang"
+   [75]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16000
+     0 unsigned int SubId = 0
+     1 string Text = "Ikut lomba peliharaan"
+   [76]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16001
+     0 unsigned int SubId = 0
+     1 string Text = "Ikuti Kompetisi Serangan Palu"
+   [77]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16002
+     0 unsigned int SubId = 0
+     1 string Text = "Ikuti Perburuan Jamur"
+   [78]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16003
+     0 unsigned int SubId = 0
+     1 string Text = "Ikuti turnamen mancing"
+   [79]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16004
+     0 unsigned int SubId = 0
+     1 string Text = "Lihat aturan"
+   [80]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16005
+     0 unsigned int SubId = 0
+     1 string Text = "Mode latihan"
+   [81]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16006
+     0 unsigned int SubId = 0
+     1 string Text = "Mainkan Digging for Sprites"
+   [82]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16007
+     0 unsigned int SubId = 0
+     1 string Text = "Mainkan Mining Frenzy"
+   [83]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16008
+     0 unsigned int SubId = 0
+     1 string Text = "Masukkan hewan peliharaan"
+   [84]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16009
+     0 unsigned int SubId = 0
+     1 string Text = "Masuk Hewan Peliharaan rental"
+   [85]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16010
+     0 unsigned int SubId = 0
+     1 string Text = "Lupakan..."
+   [86]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16011
+     0 unsigned int SubId = 0
+     1 string Text = "Aku masih ingin melakukan ini."
+   [87]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12801011
+     0 unsigned int SubId = 0
+     1 string Text = "Dengan senang hati!"
+   [88]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12801012
+     0 unsigned int SubId = 0
+     1 string Text = "Mungkin tidak..."
+   [89]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12801021
+     0 unsigned int SubId = 0
+     1 string Text = "Mari cari bersama!"
+   [90]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12801022
+     0 unsigned int SubId = 0
+     1 string Text = "Mari memencar dan cari!"
+   [91]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12802021
+     0 unsigned int SubId = 0
+     1 string Text = "Ya, mari kita tonton bersama!"
+   [92]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12802022
+     0 unsigned int SubId = 0
+     1 string Text = "Aku lebih suka menonton kembang api sendirian."
+   [93]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12803021
+     0 unsigned int SubId = 0
+     1 string Text = "Tentu!"
+   [94]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12803022
+     0 unsigned int SubId = 0
+     1 string Text = "Aku ingin sendiri."
+   [95]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12804021
+     0 unsigned int SubId = 0
+     1 string Text = "Tentu, ayo pergi bersama!"
+   [96]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12804022
+     0 unsigned int SubId = 0
+     1 string Text = "Aku ingin sendiri."
+   [97]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12801031
+     0 unsigned int SubId = 0
+     1 string Text = "Aku akan mencarinya sendiri!"
+   [98]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12801032
+     0 unsigned int SubId = 0
+     1 string Text = "Biarkan aku mengundang seseorang!"
+   [99]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12802031
+     0 unsigned int SubId = 0
+     1 string Text = "Aku baik!"
+   [100]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12802032
+     0 unsigned int SubId = 0
+     1 string Text = "Tunggu sebentar!"
+   [101]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12803031
+     0 unsigned int SubId = 0
+     1 string Text = "Aku baik-baik saja sendiri."
+   [102]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12803032
+     0 unsigned int SubId = 0
+     1 string Text = "Aku akan mengundang seseorang."
+   [103]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12804031
+     0 unsigned int SubId = 0
+     1 string Text = "Mungkin aku akan menonton sendiri."
+   [104]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12804032
+     0 unsigned int SubId = 0
+     1 string Text = "Mungkin aku akan mencari seseorang."
+   [105]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12801041
+     0 unsigned int SubId = 0
+     1 string Text = "Tentu saja!"
+   [106]
+    0 LocalizeTextData data
+     0 unsigned int Id = 12801042
+     0 unsigned int SubId = 0
+     1 string Text = "Aku butuh sedikit lebih banyak waktu!"
+   [107]
+    0 LocalizeTextData data
+     0 unsigned int Id = 90001091
+     0 unsigned int SubId = 0
+     1 string Text = "Ok dengan yang ini."
+   [108]
+    0 LocalizeTextData data
+     0 unsigned int Id = 90001092
+     0 unsigned int SubId = 0
+     1 string Text = "Dengan gaya lain."
+ 1 string IdEnumName = "BokuMono.GeneralTalkChoiceId"

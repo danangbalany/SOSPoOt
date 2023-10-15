@@ -1,0 +1,313 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "SubMenuText_en"
+ 0 LocalizeTextData list
+  0 Array Array (60 items)
+   0 int size = 60
+[0]
+0 LocalizeTextData data
+0 unsigned int Id = 1
+0 unsigned int SubId = 0
+1 string Text = "Berapa banyak yang ingin kamu beli?"
+[1]
+0 LocalizeTextData data
+0 unsigned int Id = 2
+0 unsigned int SubId = 0
+1 string Text = "Pilih bahan secara otomatis?"
+[2]
+0 LocalizeTextData data
+0 unsigned int Id = 3
+0 unsigned int SubId = 0
+1 string Text = "Buat parfum ini?"
+[3]
+0 LocalizeTextData data
+0 unsigned int Id = 4
+0 unsigned int SubId = 0
+1 string Text = "Buat buket ini?"
+[4]
+0 LocalizeTextData data
+0 unsigned int Id = 5
+0 unsigned int SubId = 0
+1 string Text = "Beli hewan ini?"
+[5]
+0 LocalizeTextData data
+0 unsigned int Id = 9
+0 unsigned int SubId = 0
+1 string Text = "Terapkan alat pembiakan?"
+[6]
+0 LocalizeTextData data
+0 unsigned int Id = 11
+0 unsigned int SubId = 0
+1 string Text = "Kembangkan fasilitas ini?"
+[7]
+0 LocalizeTextData data
+0 unsigned int Id = 12
+0 unsigned int SubId = 0
+1 string Text = "Perluas rumahmu?"
+[8]
+0 LocalizeTextData data
+0 unsigned int Id = 13
+0 unsigned int SubId = 0
+1 string Text = "Pesan makanan ini?"
+[9]
+0 LocalizeTextData data
+0 unsigned int Id = 14
+0 unsigned int SubId = 0
+1 string Text = "Tingkatkan alat ini?"
+[10]
+0 LocalizeTextData data
+0 unsigned int Id = 15
+0 unsigned int SubId = 0
+1 string Text = "Perbesar tasmu?"
+[11]
+0 LocalizeTextData data
+0 unsigned int Id = 16
+0 unsigned int SubId = 0
+1 string Text = "Ganti warna motor?"
+[12]
+0 LocalizeTextData data
+0 unsigned int Id = 17
+0 unsigned int SubId = 0
+1 string Text = "Komisikan item ini?"
+[13]
+0 LocalizeTextData data
+0 unsigned int Id = 19
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin mundur?"
+[14]
+0 LocalizeTextData data
+0 unsigned int Id = 21
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin mundur?"
+[15]
+0 LocalizeTextData data
+0 unsigned int Id = 22
+0 unsigned int SubId = 0
+1 string Text = "Ikuti penampilan ini?"
+[16]
+0 LocalizeTextData data
+0 unsigned int Id = 24
+0 unsigned int SubId = 0
+1 string Text = "Apakah warna motor ini oke?"
+[17]
+0 LocalizeTextData data
+0 unsigned int Id = 26
+0 unsigned int SubId = 0
+1 string Text = "Masukkan nama."
+[18]
+0 LocalizeTextData data
+0 unsigned int Id = 30
+0 unsigned int SubId = 0
+1 string Text = "Jinakkan hewan ini?"
+[19]
+0 LocalizeTextData data
+0 unsigned int Id = 31
+0 unsigned int SubId = 0
+1 string Text = "Sumbangkan barang ini?"
+[20]
+0 LocalizeTextData data
+0 unsigned int Id = 32
+0 unsigned int SubId = 0
+1 string Text = "Tempatkan di sini?"
+[21]
+0 LocalizeTextData data
+0 unsigned int Id = 33
+0 unsigned int SubId = 0
+1 string Text = "Sumbangkan foto\n<color=0>{#}</color>?"
+[22]
+0 LocalizeTextData data
+0 unsigned int Id = 34
+0 unsigned int SubId = 0
+1 string Text = "Terima blessing ini?"
+[23]
+0 LocalizeTextData data
+0 unsigned int Id = 40
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin menimpa\ndata simpanan?"
+[24]
+0 LocalizeTextData data
+0 unsigned int Id = 41
+0 unsigned int SubId = 0
+1 string Text = "Permainan harus dimulai ulang untuk mencerminkan\npilihan bahasa baru kamu. Kembali ke layar judul?"
+[25]
+0 LocalizeTextData data
+0 unsigned int Id = 42
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin kembali ke\nlayar sebelumnya tanpa mengubah\npengaturan kamu?"
+[26]
+0 LocalizeTextData data
+0 unsigned int Id = 43
+0 unsigned int SubId = 0
+1 string Text = "Setelan untuk\n<color=0>{#}</color> akan\ndi inisialisasi."
+[27]
+0 LocalizeTextData data
+0 unsigned int Id = 46
+0 unsigned int SubId = 0
+1 string Text = "Tempatkan hewan di fasilitas ini?"
+[28]
+0 LocalizeTextData data
+0 unsigned int Id = 47
+0 unsigned int SubId = 0
+1 string Text = "Memproses bahan?"
+[29]
+0 LocalizeTextData data
+0 unsigned int Id = 48
+0 unsigned int SubId = 0
+1 string Text = "Terima hadiahnya?"
+[30]
+0 LocalizeTextData data
+0 unsigned int Id = 49
+0 unsigned int SubId = 0
+1 string Text = "Muat data simpanan ini?"
+[31]
+0 LocalizeTextData data
+0 unsigned int Id = 50
+0 unsigned int SubId = 0
+1 string Text = "Hapus data simpanan ini? <color=0>Setelah dihapus,\ndata kamu tidak dapat dipulihkan.</color>"
+[32]
+0 LocalizeTextData data
+0 unsigned int Id = 51
+0 unsigned int SubId = 0
+1 string Text = "Sisipkan bunga ini?"
+[33]
+0 LocalizeTextData data
+0 unsigned int Id = 53
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin melepaskan hewan ini?"
+[34]
+0 LocalizeTextData data
+0 unsigned int Id = 54
+0 unsigned int SubId = 0
+1 string Text = "Letakkan item yang dipilih di tanah\ndan tukar?"
+[35]
+0 LocalizeTextData data
+0 unsigned int Id = 55
+0 unsigned int SubId = 0
+1 string Text = "Letakkan item yang saat ini dipegang di tanah?"
+[36]
+0 LocalizeTextData data
+0 unsigned int Id = 56
+0 unsigned int SubId = 0
+1 string Text = "Letakkan alat di dalam tas alat dan tukar?"
+[37]
+0 LocalizeTextData data
+0 unsigned int Id = 57
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin mengirimkan ini?"
+[38]
+0 LocalizeTextData data
+0 unsigned int Id = 58
+0 unsigned int SubId = 0
+1 string Text = "Permintaan kota ini dapat diselesaikan dengan\nitem lain. Apakah kamu yakin ingin mengirimkan\nset item ini?"
+[39]
+0 LocalizeTextData data
+0 unsigned int Id = 59
+0 unsigned int SubId = 0
+1 string Text = "Pilih kesulitan."
+[40]
+0 LocalizeTextData data
+0 unsigned int Id = 60
+0 unsigned int SubId = 0
+1 string Text = "Hewan sekarang akan dipindahkan."
+[41]
+0 LocalizeTextData data
+0 unsigned int Id = 61
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin menghapus foto ini?"
+[42]
+0 LocalizeTextData data
+0 unsigned int Id = 62
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin menghapus\nfoto yang dipilih?"
+[43]
+0 LocalizeTextData data
+0 unsigned int Id = 63
+0 unsigned int SubId = 0
+1 string Text = "kamu tidak punya foto."
+[44]
+0 LocalizeTextData data
+0 unsigned int Id = 64
+0 unsigned int SubId = 0
+1 string Text = "Masuk dengan hewan peliharaan ini?"
+[45]
+0 LocalizeTextData data
+0 unsigned int Id = 65
+0 unsigned int SubId = 0
+1 string Text = "Masuk dengan hewan peliharaan sewaan ini?"
+[46]
+0 LocalizeTextData data
+0 unsigned int Id = 66
+0 unsigned int SubId = 0
+1 string Text = "Silakan tetapkan Pengikut Sprite."
+[47]
+0 LocalizeTextData data
+0 unsigned int Id = 67
+0 unsigned int SubId = 0
+1 string Text = "Buat berapa?"
+[48]
+0 LocalizeTextData data
+0 unsigned int Id = 68
+0 unsigned int SubId = 0
+1 string Text = "Serahkan hidangan ini?"
+[49]
+0 LocalizeTextData data
+0 unsigned int Id = 69
+0 unsigned int SubId = 0
+1 string Text = "Lovett telah mengakui usaha kuliner kamu,\ndan telah mengirimkan permintaan baru yang lebih sulit\n!"
+[50]
+0 LocalizeTextData data
+0 unsigned int Id = 70
+0 unsigned int SubId = 0
+1 string Text = "Nilai item ini?"
+[51]
+0 LocalizeTextData data
+0 unsigned int Id = 71
+0 unsigned int SubId = 0
+1 string Text = "Beli item ini?"
+[52]
+0 LocalizeTextData data
+0 unsigned int Id = 72
+0 unsigned int SubId = 0
+1 string Text = "Unggah informasi terdaftar ke\ninternet?"
+[53]
+0 LocalizeTextData data
+0 unsigned int Id = 73
+0 unsigned int SubId = 0
+1 string Text = "Buat nama petani kamu menjadi publik? kamu juga dapat\nmerahasiakannya jika kamu mau."
+[54]
+0 LocalizeTextData data
+0 unsigned int Id = 74
+0 unsigned int SubId = 0
+1 string Text = "Gagal terhubung. Apakah kamu ingin mencoba\nmengunggah lagi?"
+[55]
+0 LocalizeTextData data
+0 unsigned int Id = 75
+0 unsigned int SubId = 0
+1 string Text = "Unggah foto yang dipilih ke internet?"
+[56]
+0 LocalizeTextData data
+0 unsigned int Id = 76
+0 unsigned int SubId = 0
+1 string Text = "Apakah kamu yakin ingin memuat data simpanan ini?\nData dalam file yang sedang kamu putar akan\nhilang. Jangan lupa simpan!"
+[57]
+0 LocalizeTextData data
+0 unsigned int Id = 77
+0 unsigned int SubId = 0
+1 string Text = "Buat hidangan ini?"
+[58]
+0 LocalizeTextData data
+0 unsigned int Id = 78
+0 unsigned int SubId = 0
+1 string Text = "Pengaturan <color=0>{#}</color>\nakan diubah. Bolehkah?"
+[59]
+0 LocalizeTextData data
+0 unsigned int Id = 79
+0 unsigned int SubId = 0
+1 string Text = "Buat berapa?"
+1 string IdEnumName = "BokuMono.SubMenuTextId"

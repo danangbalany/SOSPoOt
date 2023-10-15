@@ -1,0 +1,948 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "DialogInfo_en"
+ 0 LocalizeTextData list
+  0 Array Array (187 items)
+   0 int size = 187
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 9
+     0 unsigned int SubId = 0
+     1 string Text = "Repair {#}?"
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 13
+     0 unsigned int SubId = 0
+     1 string Text = "Insufficient materials."
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 16
+     0 unsigned int SubId = 0
+     1 string Text = "Hit the hay and call it a day?"
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 28
+     0 unsigned int SubId = 0
+     1 string Text = "You can't call your animals out to pasture in this poor\nweather."
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 29
+     0 unsigned int SubId = 0
+     1 string Text = "It's not a good time to call your animals out to pasture."
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 30
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have the right facility."
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 31
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have any space to accommodate this animal."
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 32
+     0 unsigned int SubId = 0
+     1 string Text = "Aw, the fish got away..."
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 33
+     0 unsigned int SubId = 0
+     1 string Text = "The shop's closed right now.\nHours of Operation: <color=0>8:00 AM - 6:00 PM</color>"
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 34
+     0 unsigned int SubId = 0
+     1 string Text = "The shop's closed right now.\nHours of Operation: <color=0>10:00 AM - 6:00 PM</color>"
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 35
+     0 unsigned int SubId = 0
+     1 string Text = "The shop's closed right now.\nHours of Operation: <color=0>12:00 PM - 10:00 PM</color>"
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 36
+     0 unsigned int SubId = 0
+     1 string Text = "Your skill level isn't high enough. Try taking care of\nsome animals first!"
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 37
+     0 unsigned int SubId = 0
+     1 string Text = "In order to take care of this animal, you'll have to bring\nit to the proper facility. Move to a facility?"
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 38
+     0 unsigned int SubId = 0
+     1 string Text = ""
+   [14]
+    0 LocalizeTextData data
+     0 unsigned int Id = 39
+     0 unsigned int SubId = 0
+     1 string Text = "End the festival and head home?"
+   [15]
+    0 LocalizeTextData data
+     0 unsigned int Id = 40
+     0 unsigned int SubId = 0
+     1 string Text = "Go on a date?"
+   [16]
+    0 LocalizeTextData data
+     0 unsigned int Id = 41
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have a big enough facility for it."
+   [17]
+    0 LocalizeTextData data
+     0 unsigned int Id = 42
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have space for a baby animal."
+   [18]
+    0 LocalizeTextData data
+     0 unsigned int Id = 43
+     0 unsigned int SubId = 0
+     1 string Text = "Your house isn't big enough."
+   [19]
+    0 LocalizeTextData data
+     0 unsigned int Id = 44
+     0 unsigned int SubId = 0
+     1 string Text = "The town's still getting ready for the festival!\nIt starts at <color=0>~ o' clock</color>."
+   [20]
+    0 LocalizeTextData data
+     0 unsigned int Id = 45
+     0 unsigned int SubId = 0
+     1 string Text = "The town's still getting ready for the festival!\nIt starts at <color=0>10:00 AM</color>."
+   [21]
+    0 LocalizeTextData data
+     0 unsigned int Id = 46
+     0 unsigned int SubId = 0
+     1 string Text = "The festival will end if you leave.\nAre you sure you want to leave?"
+   [22]
+    0 LocalizeTextData data
+     0 unsigned int Id = 47
+     0 unsigned int SubId = 0
+     1 string Text = "They're cleaning up after the festival, so you can't enter\nright now."
+   [23]
+    0 LocalizeTextData data
+     0 unsigned int Id = 48
+     0 unsigned int SubId = 0
+     1 string Text = "Would you like to save?"
+   [24]
+    0 LocalizeTextData data
+     0 unsigned int Id = 49
+     0 unsigned int SubId = 0
+     1 string Text = "Would you like to save your data?"
+   [25]
+    0 LocalizeTextData data
+     0 unsigned int Id = 50
+     0 unsigned int SubId = 0
+     1 string Text = "Overwrite save data?"
+   [26]
+    0 LocalizeTextData data
+     0 unsigned int Id = 51
+     0 unsigned int SubId = 0
+     1 string Text = "Accept the reward?"
+   [27]
+    0 LocalizeTextData data
+     0 unsigned int Id = 52
+     0 unsigned int SubId = 0
+     1 string Text = "No rewards can be accepted."
+   [28]
+    0 LocalizeTextData data
+     0 unsigned int Id = 53
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have any facilities that can be developed."
+   [29]
+    0 LocalizeTextData data
+     0 unsigned int Id = 54
+     0 unsigned int SubId = 0
+     1 string Text = "There are repairable facilities on the farm.\nCheck back again after you've repaired them."
+   [30]
+    0 LocalizeTextData data
+     0 unsigned int Id = 55
+     0 unsigned int SubId = 0
+     1 string Text = "You've upgraded to the max."
+   [31]
+    0 LocalizeTextData data
+     0 unsigned int Id = 56
+     0 unsigned int SubId = 0
+     1 string Text = "You can't upgrade anymore."
+   [32]
+    0 LocalizeTextData data
+     0 unsigned int Id = 57
+     0 unsigned int SubId = 0
+     1 string Text = "Unable to save."
+   [33]
+    0 LocalizeTextData data
+     0 unsigned int Id = 58
+     0 unsigned int SubId = 0
+     1 string Text = "There are no animals in the facility to put out."
+   [34]
+    0 LocalizeTextData data
+     0 unsigned int Id = 59
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have any photos."
+   [35]
+    0 LocalizeTextData data
+     0 unsigned int Id = 60
+     0 unsigned int SubId = 0
+     1 string Text = "You can't cook any recipes."
+   [36]
+    0 LocalizeTextData data
+     0 unsigned int Id = 62
+     0 unsigned int SubId = 0
+     1 string Text = "No blessings are available at this time."
+   [37]
+    0 LocalizeTextData data
+     0 unsigned int Id = 64
+     0 unsigned int SubId = 0
+     1 string Text = "Return to the title screen?\n(Any unsaved progress will be lost.)"
+   [38]
+    0 LocalizeTextData data
+     0 unsigned int Id = 65
+     0 unsigned int SubId = 0
+     1 string Text = "Quit the game?\n(Any unsaved progress will be lost.)"
+   [39]
+    0 LocalizeTextData data
+     0 unsigned int Id = 66
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to change the display language?"
+   [40]
+    0 LocalizeTextData data
+     0 unsigned int Id = 67
+     0 unsigned int SubId = 0
+     1 string Text = "Overwrite this photo?\nIt cannot be recovered once overwritten."
+   [41]
+    0 LocalizeTextData data
+     0 unsigned int Id = 68
+     0 unsigned int SubId = 0
+     1 string Text = "End the walk?"
+   [42]
+    0 LocalizeTextData data
+     0 unsigned int Id = 69
+     0 unsigned int SubId = 0
+     1 string Text = "Is this name okay?"
+   [43]
+    0 LocalizeTextData data
+     0 unsigned int Id = 70
+     0 unsigned int SubId = 0
+     1 string Text = "You can't use this name."
+   [44]
+    0 LocalizeTextData data
+     0 unsigned int Id = 71
+     0 unsigned int SubId = 0
+     1 string Text = "Enter a name."
+   [45]
+    0 LocalizeTextData data
+     0 unsigned int Id = 72
+     0 unsigned int SubId = 0
+     1 string Text = "Save to your album?"
+   [46]
+    0 LocalizeTextData data
+     0 unsigned int Id = 73
+     0 unsigned int SubId = 0
+     1 string Text = "Your album is full. Would you like to overwrite a photo?"
+   [47]
+    0 LocalizeTextData data
+     0 unsigned int Id = 74
+     0 unsigned int SubId = 0
+     1 string Text = "Overwrite this photo?"
+   [48]
+    0 LocalizeTextData data
+     0 unsigned int Id = 75
+     0 unsigned int SubId = 0
+     1 string Text = "No requests are available at this time."
+   [49]
+    0 LocalizeTextData data
+     0 unsigned int Id = 76
+     0 unsigned int SubId = 0
+     1 string Text = "Request work on the\n{#}?"
+   [50]
+    0 LocalizeTextData data
+     0 unsigned int Id = 77
+     0 unsigned int SubId = 0
+     1 string Text = "Use {#} to request\nwork on the {#}?"
+   [51]
+    0 LocalizeTextData data
+     0 unsigned int Id = 78
+     0 unsigned int SubId = 0
+     1 string Text = "Work on this will cost\n{#}."
+   [52]
+    0 LocalizeTextData data
+     0 unsigned int Id = 79
+     0 unsigned int SubId = 0
+     1 string Text = "End today's activities and call it a day."
+   [53]
+    0 LocalizeTextData data
+     0 unsigned int Id = 80
+     0 unsigned int SubId = 0
+     1 string Text = "Stop training?"
+   [54]
+    0 LocalizeTextData data
+     0 unsigned int Id = 81
+     0 unsigned int SubId = 0
+     1 string Text = "All of Lovett's requests have been completed!\nThere are no more requests available."
+   [55]
+    0 LocalizeTextData data
+     0 unsigned int Id = 82
+     0 unsigned int SubId = 0
+     1 string Text = "This animal cannot be raised. The maximum number of\nanimals unassigned to facilities has been reached."
+   [56]
+    0 LocalizeTextData data
+     0 unsigned int Id = 83
+     0 unsigned int SubId = 0
+     1 string Text = "There are currently no animals available.\nTry searching for some on the farm!"
+   [57]
+    0 LocalizeTextData data
+     0 unsigned int Id = 84
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to clear away this facility?\n\n<color=0>Items associated with or inside the facility will be\ndropped.</color>"
+   [58]
+    0 LocalizeTextData data
+     0 unsigned int Id = 85
+     0 unsigned int SubId = 0
+     1 string Text = "The following will occur if you clear away this facility: \n<color=0>- All animals in this facility will be ungrouped.</color>\n<color=0>- All items in this facility will be dropped.</color>\n\nIs that okay?\n"
+   [59]
+    0 LocalizeTextData data
+     0 unsigned int Id = 86
+     0 unsigned int SubId = 0
+     1 string Text = "The following will occur if you clear away this facility: \n<color=0>- Fodder will no longer be dispensed.</color>\n<color=0>- All items in this facility will be dropped.</color>\n\nIs that okay?"
+   [60]
+    0 LocalizeTextData data
+     0 unsigned int Id = 87
+     0 unsigned int SubId = 0
+     1 string Text = "No donatable items available."
+   [61]
+    0 LocalizeTextData data
+     0 unsigned int Id = 88
+     0 unsigned int SubId = 0
+     1 string Text = "No donatable photos available."
+   [62]
+    0 LocalizeTextData data
+     0 unsigned int Id = 89
+     0 unsigned int SubId = 0
+     1 string Text = "Cancel donation?"
+   [63]
+    0 LocalizeTextData data
+     0 unsigned int Id = 90
+     0 unsigned int SubId = 0
+     1 string Text = "Place here?"
+   [64]
+    0 LocalizeTextData data
+     0 unsigned int Id = 91
+     0 unsigned int SubId = 0
+     1 string Text = "Turn online communication features <color=0>ON</color> and begin the\ngame?\n\nOnline features cannot be used without an internet\nconnection. <color=0>*You may change these settings later.</color>"
+   [65]
+    0 LocalizeTextData data
+     0 unsigned int Id = 92
+     0 unsigned int SubId = 0
+     1 string Text = "The game will begin with online communication\nfeatures <color=0>ON</color>."
+   [66]
+    0 LocalizeTextData data
+     0 unsigned int Id = 93
+     0 unsigned int SubId = 0
+     1 string Text = "The game will begin with online communication\nfeatures <color=0>OFF</color>."
+   [67]
+    0 LocalizeTextData data
+     0 unsigned int Id = 94
+     0 unsigned int SubId = 0
+     1 string Text = "Online communication features are currently <color=0>OFF</color>. \n\nWould you like to turn online communication features\n<color=0>ON</color>?"
+   [68]
+    0 LocalizeTextData data
+     0 unsigned int Id = 95
+     0 unsigned int SubId = 0
+     1 string Text = "Nothing's been donated for this space, so there isn't\nanything here."
+   [69]
+    0 LocalizeTextData data
+     0 unsigned int Id = 96
+     0 unsigned int SubId = 0
+     1 string Text = "Leave the mine?"
+   [70]
+    0 LocalizeTextData data
+     0 unsigned int Id = 97
+     0 unsigned int SubId = 0
+     1 string Text = "No appraisable items available."
+   [71]
+    0 LocalizeTextData data
+     0 unsigned int Id = 98
+     0 unsigned int SubId = 0
+     1 string Text = "You've received the clothes you ordered!\n\nGo try them on from your <color=0>wardrobe</color> or the <color=0>fitting room</color>!"
+   [72]
+    0 LocalizeTextData data
+     0 unsigned int Id = 99
+     0 unsigned int SubId = 0
+     1 string Text = "You can't go on a walk in this poor weather."
+   [73]
+    0 LocalizeTextData data
+     0 unsigned int Id = 100
+     0 unsigned int SubId = 0
+     1 string Text = "It's not a good time to go on a walk."
+   [74]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101
+     0 unsigned int SubId = 0
+     1 string Text = "You have no place to house the animal.\n\nTry again after you've repaired the applicable\n<color=0>dilapidated facility</color>!"
+   [75]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have any room to house a pet. \n\nTry again after upgrading your house to a <color=0>log cabin</color>!"
+   [76]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103
+     0 unsigned int SubId = 0
+     1 string Text = "What's your name?"
+   [77]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104
+     0 unsigned int SubId = 0
+     1 string Text = "Your name is\n<color=0>{#}</color>?\n\n*You cannot change this later."
+   [78]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105
+     0 unsigned int SubId = 0
+     1 string Text = "Your birthday is\n<color=0><dateconst=playerbirth> <month> <day></color>?\n\n*You cannot change this later."
+   [79]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106
+     0 unsigned int SubId = 0
+     1 string Text = "You're a\n<color=0><genderplayer="boy","girl"></color>?\n\n*You cannot change this later."
+   [80]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107
+     0 unsigned int SubId = 0
+     1 string Text = "What's the farm's name?"
+   [81]
+    0 LocalizeTextData data
+     0 unsigned int Id = 108
+     0 unsigned int SubId = 0
+     1 string Text = "The farm's name is\n<color=0>{#}</color> Farm?\n\n*You cannot change this later."
+   [82]
+    0 LocalizeTextData data
+     0 unsigned int Id = 109
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for the facility."
+   [83]
+    0 LocalizeTextData data
+     0 unsigned int Id = 110
+     0 unsigned int SubId = 0
+     1 string Text = "The facility name is\n<color=0>{#}</color>?"
+   [84]
+    0 LocalizeTextData data
+     0 unsigned int Id = 111
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for the animal."
+   [85]
+    0 LocalizeTextData data
+     0 unsigned int Id = 112
+     0 unsigned int SubId = 0
+     1 string Text = "The animal's name is\n<color=0>{#}</color>?"
+   [86]
+    0 LocalizeTextData data
+     0 unsigned int Id = 113
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for your child."
+   [87]
+    0 LocalizeTextData data
+     0 unsigned int Id = 114
+     0 unsigned int SubId = 0
+     1 string Text = "Your child's name is\n<color=0>{#}</color>?"
+   [88]
+    0 LocalizeTextData data
+     0 unsigned int Id = 115
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for the newborn animal."
+   [89]
+    0 LocalizeTextData data
+     0 unsigned int Id = 116
+     0 unsigned int SubId = 0
+     1 string Text = "The animal's name is\n<color=0>{#}</color>?"
+   [90]
+    0 LocalizeTextData data
+     0 unsigned int Id = 117
+     0 unsigned int SubId = 0
+     1 string Text = "There's no fodder."
+   [91]
+    0 LocalizeTextData data
+     0 unsigned int Id = 118
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have a silo."
+   [92]
+    0 LocalizeTextData data
+     0 unsigned int Id = 119
+     0 unsigned int SubId = 0
+     1 string Text = "You don't have a silage."
+   [93]
+    0 LocalizeTextData data
+     0 unsigned int Id = 120
+     0 unsigned int SubId = 0
+     1 string Text = "Skip this event?"
+   [94]
+    0 LocalizeTextData data
+     0 unsigned int Id = 121
+     0 unsigned int SubId = 0
+     1 string Text = "This event cannot be skipped."
+   [95]
+    0 LocalizeTextData data
+     0 unsigned int Id = 122
+     0 unsigned int SubId = 0
+     1 string Text = "Aha! After that meal, I learned the recipe for\n{#}! Now I've got\nsomething new to cook!"
+   [96]
+    0 LocalizeTextData data
+     0 unsigned int Id = 123
+     0 unsigned int SubId = 0
+     1 string Text = "This game uses online features. Connect to the internet\nand play online?"
+   [97]
+    0 LocalizeTextData data
+     0 unsigned int Id = 124
+     0 unsigned int SubId = 0
+     1 string Text = "Online communication features have been turned OFF.\nConnect to the internet and play online?"
+   [98]
+    0 LocalizeTextData data
+     0 unsigned int Id = 125
+     0 unsigned int SubId = 0
+     1 string Text = "Could not connect to the network. Continuing the game\nin offline mode."
+   [99]
+    0 LocalizeTextData data
+     0 unsigned int Id = 126
+     0 unsigned int SubId = 0
+     1 string Text = "[A Notice When Playing Online]\nThe following information may be displayed to other\nplayers when you play online:\n<color=0>Player Name, Farm Name</color>"
+   [100]
+    0 LocalizeTextData data
+     0 unsigned int Id = 127
+     0 unsigned int SubId = 0
+     1 string Text = "Begin the game in offline mode."
+   [101]
+    0 LocalizeTextData data
+     0 unsigned int Id = 128
+     0 unsigned int SubId = 0
+     1 string Text = "Max stamina increased by 2 points!"
+   [102]
+    0 LocalizeTextData data
+     0 unsigned int Id = 129
+     0 unsigned int SubId = 0
+     1 string Text = "Max stamina increased by another 2 points!"
+   [103]
+    0 LocalizeTextData data
+     0 unsigned int Id = 130
+     0 unsigned int SubId = 0
+     1 string Text = "Max stamina increased by an extra 2 points!"
+   [104]
+    0 LocalizeTextData data
+     0 unsigned int Id = 131
+     0 unsigned int SubId = 0
+     1 string Text = "Your field has leveled up! You should be able to raise\nhigher quality crops now."
+   [105]
+    0 LocalizeTextData data
+     0 unsigned int Id = 132
+     0 unsigned int SubId = 0
+     1 string Text = "Your field has leveled up once again! You should be\nable to raise higher quality crops now."
+   [106]
+    0 LocalizeTextData data
+     0 unsigned int Id = 133
+     0 unsigned int SubId = 0
+     1 string Text = "Your field has leveled up yet again! You should be able\nto raise some seriously high-quality crops now!"
+   [107]
+    0 LocalizeTextData data
+     0 unsigned int Id = 134
+     0 unsigned int SubId = 0
+     1 string Text = "You now have access to Petalwind Gardens, where it's\nalways spring! Speak with Navi-sprite in front of your\nhouse whenever you'd like to travel!"
+   [108]
+    0 LocalizeTextData data
+     0 unsigned int Id = 135
+     0 unsigned int SubId = 0
+     1 string Text = "You now have access to Eversun Gardens, where it's\nalways summer! Speak with Navi-sprite in front of your\nhouse whenever you'd like to travel!"
+   [109]
+    0 LocalizeTextData data
+     0 unsigned int Id = 136
+     0 unsigned int SubId = 0
+     1 string Text = "You now have access to Redmaple Gardens, where it's\nalways autumn! Speak with Navi-sprite in front of your\nhouse whenever you'd like to travel!"
+   [110]
+    0 LocalizeTextData data
+     0 unsigned int Id = 137
+     0 unsigned int SubId = 0
+     1 string Text = "You now have access to Hoarfrost Gardens, where it's\nalways winter! Speak with Navi-sprite in front of your\nhouse whenever you'd like to travel!"
+   [111]
+    0 LocalizeTextData data
+     0 unsigned int Id = 138
+     0 unsigned int SubId = 0
+     1 string Text = "Field Sprite has come to the Earth Sprite Village!"
+   [112]
+    0 LocalizeTextData data
+     0 unsigned int Id = 139
+     0 unsigned int SubId = 0
+     1 string Text = "Angler Sprite has come to the Earth Sprite Village!"
+   [113]
+    0 LocalizeTextData data
+     0 unsigned int Id = 140
+     0 unsigned int SubId = 0
+     1 string Text = "Chef Sprite has come to the Earth Sprite Village!"
+   [114]
+    0 LocalizeTextData data
+     0 unsigned int Id = 141
+     0 unsigned int SubId = 0
+     1 string Text = "Care Sprite has come to the Earth Sprite Village!"
+   [115]
+    0 LocalizeTextData data
+     0 unsigned int Id = 142
+     0 unsigned int SubId = 0
+     1 string Text = "Journey Sprite has come to the Earth Sprite Village!"
+   [116]
+    0 LocalizeTextData data
+     0 unsigned int Id = 143
+     0 unsigned int SubId = 0
+     1 string Text = "You can now purchase the Gorgeous Horse from the\nanimal shop!"
+   [117]
+    0 LocalizeTextData data
+     0 unsigned int Id = 144
+     0 unsigned int SubId = 0
+     1 string Text = "You can now purchase the Unicorn? from the animal\nshop!"
+   [118]
+    0 LocalizeTextData data
+     0 unsigned int Id = 145
+     0 unsigned int SubId = 0
+     1 string Text = "You can now purchase the Wolf from the animal shop!"
+   [119]
+    0 LocalizeTextData data
+     0 unsigned int Id = 146
+     0 unsigned int SubId = 0
+     1 string Text = "You can now purchase the Little Wolf from the animal\nshop!"
+   [120]
+    0 LocalizeTextData data
+     0 unsigned int Id = 147
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained 99 Moondrop Flowers!"
+   [121]
+    0 LocalizeTextData data
+     0 unsigned int Id = 148
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained 99 Pink Cat Flowers!"
+   [122]
+    0 LocalizeTextData data
+     0 unsigned int Id = 149
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained 99 Magic Blue Flowers!"
+   [123]
+    0 LocalizeTextData data
+     0 unsigned int Id = 150
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained 99 Magic Red Flowers!"
+   [124]
+    0 LocalizeTextData data
+     0 unsigned int Id = 151
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained 5 Enhanced Sprinklers!"
+   [125]
+    0 LocalizeTextData data
+     0 unsigned int Id = 152
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained 10 boxes of Guardian Bait!"
+   [126]
+    0 LocalizeTextData data
+     0 unsigned int Id = 153
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained a Mysterious Plushie!"
+   [127]
+    0 LocalizeTextData data
+     0 unsigned int Id = 154
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained 50 Gold Town Medals!"
+   [128]
+    0 LocalizeTextData data
+     0 unsigned int Id = 155
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained 5000 Sprite Coins!"
+   [129]
+    0 LocalizeTextData data
+     0 unsigned int Id = 156
+     0 unsigned int SubId = 0
+     1 string Text = "Not translated"
+   [130]
+    0 LocalizeTextData data
+     0 unsigned int Id = 157
+     0 unsigned int SubId = 0
+     1 string Text = "It can't be handed over right now."
+   [131]
+    0 LocalizeTextData data
+     0 unsigned int Id = 158
+     0 unsigned int SubId = 0
+     1 string Text = "[Mini-game Reward]\nGot {#} and\n<number=8,1,0,0>G!"
+   [132]
+    0 LocalizeTextData data
+     0 unsigned int Id = 159
+     0 unsigned int SubId = 0
+     1 string Text = "[Mini-game Reward]\nGot <number=8,1,0,0> Sprite Coins!"
+   [133]
+    0 LocalizeTextData data
+     0 unsigned int Id = 160
+     0 unsigned int SubId = 0
+     1 string Text = "You have been disconnected from the network.\nCommunication features have been disabled."
+   [134]
+    0 LocalizeTextData data
+     0 unsigned int Id = 161
+     0 unsigned int SubId = 0
+     1 string Text = "I'm kind of tired."
+   [135]
+    0 LocalizeTextData data
+     0 unsigned int Id = 162
+     0 unsigned int SubId = 0
+     1 string Text = "It's late out, I should leave."
+   [136]
+    0 LocalizeTextData data
+     0 unsigned int Id = 163
+     0 unsigned int SubId = 0
+     1 string Text = "Your bag is full. Please organize your bag."
+   [137]
+    0 LocalizeTextData data
+     0 unsigned int Id = 164
+     0 unsigned int SubId = 0
+     1 string Text = "Friendship cannot go any higher."
+   [138]
+    0 LocalizeTextData data
+     0 unsigned int Id = 165
+     0 unsigned int SubId = 0
+     1 string Text = "An animal unassigned to a facility has left the farm."
+   [139]
+    0 LocalizeTextData data
+     0 unsigned int Id = 166
+     0 unsigned int SubId = 0
+     1 string Text = "Your pet has returned home."
+   [140]
+    0 LocalizeTextData data
+     0 unsigned int Id = 167
+     0 unsigned int SubId = 0
+     1 string Text = "You can now ride your motorcycle."
+   [141]
+    0 LocalizeTextData data
+     0 unsigned int Id = 168
+     0 unsigned int SubId = 0
+     1 string Text = "Pink petals are floating through the breeze... It's spring!\nWith the changing of the seasons, the types of crops\nyou can grow have changed. Check out the shops to see\ntheir new seasonal lineups!"
+   [142]
+    0 LocalizeTextData data
+     0 unsigned int Id = 169
+     0 unsigned int SubId = 0
+     1 string Text = "Phew, it's hot! Summer is here! With the changing of\nthe seasons, the types of crops you can grow have\nchanged. Check out the shops to see their new seasonal\nlineups!"
+   [143]
+    0 LocalizeTextData data
+     0 unsigned int Id = 170
+     0 unsigned int SubId = 0
+     1 string Text = "The leaves are turning bright shades of red and gold...\nAutumn has arrived! With the changing of the seasons,\nthe types of crops you can grow have changed. Check\nout the shops to see their new seasonal lineups!"
+   [144]
+    0 LocalizeTextData data
+     0 unsigned int Id = 171
+     0 unsigned int SubId = 0
+     1 string Text = "Brr, there's a chill in the air... Winter has arrived! With\nthe changing of the seasons, the types of crops you can\ngrow have changed. Check out the shops to see their\nnew seasonal lineups!"
+   [145]
+    0 LocalizeTextData data
+     0 unsigned int Id = 172
+     0 unsigned int SubId = 0
+     1 string Text = "Your second year in Olive Town has begun!"
+   [146]
+    0 LocalizeTextData data
+     0 unsigned int Id = 173
+     0 unsigned int SubId = 0
+     1 string Text = "You cannot place any more."
+   [147]
+    0 LocalizeTextData data
+     0 unsigned int Id = 174
+     0 unsigned int SubId = 0
+     1 string Text = "You cannot place any more objects."
+   [148]
+    0 LocalizeTextData data
+     0 unsigned int Id = 175
+     0 unsigned int SubId = 0
+     1 string Text = "Wow! You've filled out your ENTIRE encyclopedia!\nThat's a pretty big achievement! Congratulations!"
+   [149]
+    0 LocalizeTextData data
+     0 unsigned int Id = 176
+     0 unsigned int SubId = 0
+     1 string Text = "They're sleeping now. Best not to bother them."
+   [150]
+    0 LocalizeTextData data
+     0 unsigned int Id = 177
+     0 unsigned int SubId = 0
+     1 string Text = "The downloadable content\n<color=0>{#}</color>\nhas been added."
+   [151]
+    0 LocalizeTextData data
+     0 unsigned int Id = 178
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to do this? (A day will pass.)\n<color=0>- You'll return to a time before you confessed.</color>\n<color=0>- You'll return to a time before you met your child.</color>\n<color=0>- This won't affect your farm or other relationships.</color>\n"
+   [152]
+    0 LocalizeTextData data
+     0 unsigned int Id = 179
+     0 unsigned int SubId = 0
+     1 string Text = "You have been disconnected from the network. If your\ncommunication features are turned on, an attempt will\nbe made to reconnect to the network at shipping time\non the next in-game day."
+   [153]
+    0 LocalizeTextData data
+     0 unsigned int Id = 180
+     0 unsigned int SubId = 0
+     1 string Text = "There are no tourist records."
+   [154]
+    0 LocalizeTextData data
+     0 unsigned int Id = 181
+     0 unsigned int SubId = 0
+     1 string Text = "[Mini-game Reward]\nHigh score bonus! Your max stamina has increased!\nYou've also obtained <number=8,1,0,0> Sprite Coins!"
+   [155]
+    0 LocalizeTextData data
+     0 unsigned int Id = 182
+     0 unsigned int SubId = 0
+     1 string Text = "Could not obtain network information."
+   [156]
+    0 LocalizeTextData data
+     0 unsigned int Id = 183
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to skip this?"
+   [157]
+    0 LocalizeTextData data
+     0 unsigned int Id = 184
+     0 unsigned int SubId = 0
+     1 string Text = "Obtained <color=0>{#}</color> x<number=3,0,0,0>\nfrom Magma Sprite!"
+   [158]
+    0 LocalizeTextData data
+     0 unsigned int Id = 185
+     0 unsigned int SubId = 0
+     1 string Text = "Old items are about to disappear."
+   [159]
+    0 LocalizeTextData data
+     0 unsigned int Id = 186
+     0 unsigned int SubId = 0
+     1 string Text = "Old items will disappear very soon."
+   [160]
+    0 LocalizeTextData data
+     0 unsigned int Id = 187
+     0 unsigned int SubId = 0
+     1 string Text = "Old items have disappeared."
+   [161]
+    0 LocalizeTextData data
+     0 unsigned int Id = 188
+     0 unsigned int SubId = 0
+     1 string Text = "No important items have been lost."
+   [162]
+    0 LocalizeTextData data
+     0 unsigned int Id = 189
+     0 unsigned int SubId = 0
+     1 string Text = "The {#} has expanded\nits product lineup!"
+   [163]
+    0 LocalizeTextData data
+     0 unsigned int Id = 190
+     0 unsigned int SubId = 0
+     1 string Text = "You don't own any animals."
+   [164]
+    0 LocalizeTextData data
+     0 unsigned int Id = 191
+     0 unsigned int SubId = 0
+     1 string Text = "You don't own any pets and/or mounts."
+   [165]
+    0 LocalizeTextData data
+     0 unsigned int Id = 192
+     0 unsigned int SubId = 0
+     1 string Text = "You can't enter the building on a festival day."
+   [166]
+    0 LocalizeTextData data
+     0 unsigned int Id = 193
+     0 unsigned int SubId = 0
+     1 string Text = "You can't go fishing on a festival day."
+   [167]
+    0 LocalizeTextData data
+     0 unsigned int Id = 194
+     0 unsigned int SubId = 0
+     1 string Text = "You can't offer prayers on a festival day."
+   [168]
+    0 LocalizeTextData data
+     0 unsigned int Id = 195
+     0 unsigned int SubId = 0
+     1 string Text = "Some characters you have selected for this name cannot\nbe displayed in-game. Would you still like to proceed?"
+   [169]
+    0 LocalizeTextData data
+     0 unsigned int Id = 196
+     0 unsigned int SubId = 0
+     1 string Text = "Clear away this facility?\n<color=0>- All items in this facility will be dropped.</color>\n<color=0>- Crops currently growing in the facility will disappear.</color>"
+   [170]
+    0 LocalizeTextData data
+     0 unsigned int Id = 197
+     0 unsigned int SubId = 0
+     1 string Text = "<color=0>The save data is corrupt.</color>\nThis save data cannot be played."
+   [171]
+    0 LocalizeTextData data
+     0 unsigned int Id = 198
+     0 unsigned int SubId = 0
+     1 string Text = "<color=0>The system data is corrupt,\nand no save files can be played.</color>\nPlease create a new save file."
+   [172]
+    0 LocalizeTextData data
+     0 unsigned int Id = 199
+     0 unsigned int SubId = 0
+     1 string Text = "<color=0>An error has occurred.</color>\nPlease try again."
+   [173]
+    0 LocalizeTextData data
+     0 unsigned int Id = 200
+     0 unsigned int SubId = 0
+     1 string Text = "You cannot play this data.\n<color=0>Please close the game from the HOME Menu.</color>"
+   [174]
+    0 LocalizeTextData data
+     0 unsigned int Id = 201
+     0 unsigned int SubId = 0
+     1 string Text = "The profits from this shipment will put you over the\nmaximum amount of funds you can carry. Any funds\nthat surpass the limit cannot be obtained.\n\nAre you sure you want to ship this?"
+   [175]
+    0 LocalizeTextData data
+     0 unsigned int Id = 202
+     0 unsigned int SubId = 0
+     1 string Text = "Parental controls have been enabled, so <color=0>you may not\nsend any postcards.</color>"
+   [176]
+    0 LocalizeTextData data
+     0 unsigned int Id = 206
+     0 unsigned int SubId = 0
+     1 string Text = "Marriage candidate outfits have been changed."
+   [177]
+    0 LocalizeTextData data
+     0 unsigned int Id = 207
+     0 unsigned int SubId = 0
+     1 string Text = "By completing the story, you've acquired a new outfit!\n\nHead on over to the beauty salon to commission it!"
+   [178]
+    0 LocalizeTextData data
+     0 unsigned int Id = 208
+     0 unsigned int SubId = 0
+     1 string Text = "If you would like to change the marriage candidates'\noutfits, you may do so by selecting the "Downloadable\nContent" option on the title screen, then selecting the\noutfits you'd like them to wear."
+   [179]
+    0 LocalizeTextData data
+     0 unsigned int Id = 209
+     0 unsigned int SubId = 0
+     1 string Text = "Downloadable content has been deleted. You may view\navailable downloadable content from the title screen."
+   [180]
+    0 LocalizeTextData data
+     0 unsigned int Id = 210
+     0 unsigned int SubId = 0
+     1 string Text = "Now loading downloadable content."
+   [181]
+    0 LocalizeTextData data
+     0 unsigned int Id = 211
+     0 unsigned int SubId = 0
+     1 string Text = "Whoa, look at the time! I'd better call it a day."
+   [182]
+    0 LocalizeTextData data
+     0 unsigned int Id = 212
+     0 unsigned int SubId = 0
+     1 string Text = "Whoa, look at the time! I'd better head home and hit\nthe hay."
+   [183]
+    0 LocalizeTextData data
+     0 unsigned int Id = 213
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to name the animal\n<color=0>{#}</color>?"
+   [184]
+    0 LocalizeTextData data
+     0 unsigned int Id = 214
+     0 unsigned int SubId = 0
+     1 string Text = "Are you sure you want to name your child\n<color=0>{#}</color>?"
+   [185]
+    0 LocalizeTextData data
+     0 unsigned int Id = 215
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for the animal."
+   [186]
+    0 LocalizeTextData data
+     0 unsigned int Id = 216
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for your child."
+ 1 string IdEnumName = "BokuMono.DialogInfoId"

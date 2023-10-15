@@ -1,0 +1,83 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2038866987808899255
+ 1 string m_Name = "KeyboardText_en"
+ 0 LocalizeTextData list
+  0 Array Array (14 items)
+   0 int size = 14
+   [0]
+    0 LocalizeTextData data
+     0 unsigned int Id = 100
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for the animal."
+   [1]
+    0 LocalizeTextData data
+     0 unsigned int Id = 101
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for the facility."
+   [2]
+    0 LocalizeTextData data
+     0 unsigned int Id = 102
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for the newborn animal."
+   [3]
+    0 LocalizeTextData data
+     0 unsigned int Id = 103
+     0 unsigned int SubId = 0
+     1 string Text = "What's your name?"
+   [4]
+    0 LocalizeTextData data
+     0 unsigned int Id = 104
+     0 unsigned int SubId = 0
+     1 string Text = "What's the farm's name?"
+   [5]
+    0 LocalizeTextData data
+     0 unsigned int Id = 105
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for your child."
+   [6]
+    0 LocalizeTextData data
+     0 unsigned int Id = 106
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for the animal."
+   [7]
+    0 LocalizeTextData data
+     0 unsigned int Id = 107
+     0 unsigned int SubId = 0
+     1 string Text = "Choose a name for your child."
+   [8]
+    0 LocalizeTextData data
+     0 unsigned int Id = 200
+     0 unsigned int SubId = 0
+     1 string Text = "You cannot change this later."
+   [9]
+    0 LocalizeTextData data
+     0 unsigned int Id = 201
+     0 unsigned int SubId = 0
+     1 string Text = "You cannot change this later."
+   [10]
+    0 LocalizeTextData data
+     0 unsigned int Id = 202
+     0 unsigned int SubId = 0
+     1 string Text = "You cannot change this later."
+   [11]
+    0 LocalizeTextData data
+     0 unsigned int Id = 203
+     0 unsigned int SubId = 0
+     1 string Text = "You cannot change this later."
+   [12]
+    0 LocalizeTextData data
+     0 unsigned int Id = 204
+     0 unsigned int SubId = 0
+     1 string Text = "You cannot change this later."
+   [13]
+    0 LocalizeTextData data
+     0 unsigned int Id = 205
+     0 unsigned int SubId = 0
+     1 string Text = "You cannot change this later."
+ 1 string IdEnumName = "BokuMono.KeyboardTextId"
